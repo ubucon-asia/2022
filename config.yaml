@@ -1,6 +1,6 @@
-baseURL: 'https://2021.ubucon.asia/'
+baseURL: 'https://2022.ubucon.asia/'
 languageCode: en-us
-title: Ubucon Asia 2021
+title: Ubucon Asia 2022
 theme: ubuconasia
 Paginate: 5
 buildFuture: true
@@ -10,12 +10,12 @@ defaultContentLanguage: en
 languages:
   ko:
     languageName: 한국어
-    title: 우부콘 아시아 2021
+    title: 우부콘 아시아 2022
     weight: 2
     params:
       description: >-
-        아시아에 있는 다양한 우분투 지역 커뮤니티에서 준비한 첫 우분투 아시아 컨퍼런스.
-      period: 2021년 9월 25일 ~ 26일
+        한국에서 열리는 첫 오프라인 우분투 아시아 컨퍼런스.
+      period: 2022년 11월 26일 ~ 27일
     menu:
       main:
         - identifier: about
@@ -65,16 +65,16 @@ languages:
           weight: 5
         - identifier: wiki
           name: 위키
-          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          url: https://wiki.ubuntu.com/UbuconAsia/2022
           weight: 6
   en:
     languageName: English
-    title: Ubucon Asia 2021
+    title: Ubucon Asia 2022
     weight: 1
     params:
       description: >-
-        The first Ubuntu Asia conference organized by Ubuntu Local Communities in Asia.
-      period: September 25th ~ 26th, 2021 
+        The first In-person Ubuntu Asia conference in South Korea.
+      period: November 26th ~ 27th, 2022 
     menu:
       main:
         - identifier: about
@@ -124,16 +124,16 @@ languages:
           weight: 5
         - identifier: wiki
           name: Wiki
-          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          url: https://wiki.ubuntu.com/UbuconAsia/2022
           weight: 6
   id:
     languageName: Bahasa Indonesia
-    title: Ubucon Asia 2021
+    title: Ubucon Asia 2022
     weight: 2
     params:
       description: >-
-        Konferensi Ubuntu Asia pertama yang diselenggarakan oleh Komunitas Lokal Ubuntu di Asia.
-      period: 25~26 September, 2021
+        The first In-person Ubuntu Asia conference in South Korea.
+      period: November 26th ~ 27th, 2022 
     menu:
       main:
         - identifier: about
@@ -183,16 +183,16 @@ languages:
           weight: 5
         - identifier: wiki
           name: Wiki
-          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          url: https://wiki.ubuntu.com/UbuconAsia/2022
           weight: 6
   ja:
     languageName: 日本語
-    title: Ubucon Asia 2021
+    title: Ubucon Asia 2022
     weight: 3
     params:
       description: >-
-        アジアのUbuntuコミュニティが集結する、アジア地域初のUbuntuカンファレンス開催
-      period: 2021年 第3〜4四半期に開催準備中
+        The first In-person Ubuntu Asia conference in South Korea.
+      period: November 26th ~ 27th, 2022 
     menu:
       main:
         - identifier: about
@@ -242,16 +242,16 @@ languages:
           weight: 4
         - identifier: wiki
           name: Wiki
-          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          url: https://wiki.ubuntu.com/UbuconAsia/2022
           weight: 5
   zh-hant-tw:
     languageName: 正體中文(臺灣)
-    title: Ubucon Asia 2021
+    title: Ubucon Asia 2022
     weight: 2
     params:
       description: >-
-        The first Ubuntu Asia conference organized by Ubuntu Local Communities in Asia.
-      period: September 25th ~ 26th, 2021 
+        The first In-person Ubuntu Asia conference in South Korea.
+      period: November 26th ~ 27th, 2022 
     menu:
       main:
         - identifier: about
@@ -301,18 +301,18 @@ languages:
           weight: 5
         - identifier: wiki
           name: Wiki
-          url: https://wiki.ubuntu.com/UbuconAsia/2021
+          url: https://wiki.ubuntu.com/UbuconAsia/2022
           weight: 6
 params:
   contact: contact@ubucon.asia
-  calendarOrganizer: Ubucon Asia 2021 Organizers
-  calendarUidSuffix: 2021.asia.ubucon.org
+  calendarOrganizer: Ubucon Asia 2022 Organizers
+  calendarUidSuffix: 2022.asia.ubucon.org
   facebook: ubuconasia
   twitter: ubuconasia
   github: ubucon-asia
-  repo: https://github.com/ubucon-asia/2021
+  repo: https://github.com/ubucon-asia/2022
   copyright:  >-
-    © 2021 Ubucon Asia 2021 Website authors.
+    © 2022 Ubucon Asia 2022 Website authors.
     Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0. 
     Ubuntu and Canonical are registered trademarks of Canonical Ltd.
   email: contact@ubucon.asia
@@ -320,8 +320,8 @@ params:
     attendee: https://eventyay.com/e/75ac7f83
     callForSpeakers: /cfs
   timetable:
-    dateStart: 2021-09-25T12:00:00+09:00
-    dateEnd: 2021-09-26T22:00:00+09:00
+    dateStart: 2022-11-26T12:00:00+09:00
+    dateEnd: 2022-11-27T22:00:00+09:00
     timeStart: 2000-01-01T13:00:00+09:00 # Use random date for timeStart param
 outputs:
   section: ["HTML", "RSS", "Calendar"]

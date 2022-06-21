@@ -26,3 +26,7 @@ other = "カレンダーを購読（webcal）"
 other = "セッションスケジュール カレンダー"
 [session_duration]
 other = "Session duration"
+[details_later]
+other = "Details will be available later"
+[venue_sp]
+other = "Venue Sponsors"

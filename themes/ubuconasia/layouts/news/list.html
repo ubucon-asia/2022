@@ -7,11 +7,7 @@
   </section>
   <section class="p-strip">
     <div class="row">
-
       {{ $pages := .Paginator.Pages }}
-      {{ range .Site.Home.Translations }}
-      {{ $pages = $pages | lang.Merge .Paginator.Pages }}
-      {{ end }}
 
       {{ range where $pages "Section" "news" }}
       <a href="{{ .RelPermalink }}">

@@ -54,8 +54,8 @@ other = "Event Infrastructure Sponsors"
 other = "Video Recording Sponsors"
 [videoi18n_sp]
 other = "Video Internalization Sponsors"
-[swag_sp]
-other = "Swag Sponsors"
+[venue_sp]
+other = "Venue Sponsors"
 [partner_cm]
 other = "Partner Communities"
 [name]
@@ -72,3 +72,5 @@ other = "Language"
 other = "Speakers"
 [session_duration]
 other = "Session duration"
+[details_later]
+other = "Details will be available later"

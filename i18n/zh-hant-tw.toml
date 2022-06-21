@@ -40,3 +40,7 @@ other = "Ubuntu Local Communities"
 other = "Other Free and Open Source Communities"
 [session_duration]
 other = "Session duration"
+[details_later]
+other = "Details will be available later"
+[venue_sp]
+other = "Venue Sponsors"

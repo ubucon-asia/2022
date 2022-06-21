@@ -54,8 +54,8 @@ other = "Sponsor Infrastruktur Acara"
 other = "Sponsor Perekaman Video"
 [videoi18n_sp]
 other = "Sponsor Internasionalisasi Video"
-[swag_sp]
-other = "Sponsor Swag"
+[venue_sp]
+other = "Venue Sponsors"
 [partner_cm]
 other = "Mitra Komunitas"
 [name]
@@ -72,3 +72,5 @@ other = "Bahasa"
 other = "Pembicara"
 [session_duration]
 other = "Session duration"
+[details_later]
+other = "Details will be available later"
