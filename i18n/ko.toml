@@ -1,0 +1,74 @@
+[learn_more]
+other = "더 알아보기"
+[featured] 
+other = "주요 세션"
+[all_sessions] 
+other = "모든 세션"
+[more_sessions]
+other = "다른 세션 더 보기"
+[sponsors] 
+other = "후원사"
+[become_sponsor]
+other = "후원사로 참여하기"
+[more_sponsors]
+other = "다른 후원사 더 보기"
+[about]
+other = "소개"
+[news]
+other = "소식"
+[sessions]
+other = "세션"
+[ical_add]
+other = "캘린더에 저장(*.ics 파일)"
+[ical_subscribe]
+other = "캘린더 구독(webcal)"
+[ical]
+other = "세션 일정 캘린더"
+[register_now]
+other = "지금 등록"
+[attendee]
+other = "참석자"
+[call_for_speakers]
+other = "발표 제안하기"
+[host_communities]
+other = "주최 커뮤니티"
+[more_hosts]
+other = "다른 주최 커뮤니티 더 보기"
+[ubuntu_locos]
+other = " 우분투 로컬 커뮤니티"
+[other_foss]
+other = "다른 자유-오픈소스 커뮤니티"
+[diamond_sp]
+other = "다이아몬드 후원사"
+[gold_sp]
+other = "골드 후원사"
+[silver_sp]
+other = "실버 후원사"
+[bronze_sp]
+other = "브론즈 후원사"
+[supporter_sp]
+other = "서포터 후원사"
+[infra_sp]
+other = "행사 인프라 후원사"
+[record_sp]
+other = "영상 촬영 후원사"
+[videoi18n_sp]
+other = "영상 국제화(번역) 후원사"
+[swag_sp]
+other = "기념품 후원사"
+[partner_cm]
+other = "파트너 커뮤니티"
+[name]
+other = "이름"
+[donated_at]
+other = "후원 티켓 구입 일시"
+[type]
+other = "유형"
+[title]
+other = "제목"
+[language]
+other = "언어"
+[speakers]
+other = "연사"
+[session_duration]
+other = "세션 시간"

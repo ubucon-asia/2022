@@ -1,0 +1,185 @@
+{{ define "main" }}
+
+{{ $allPages := .Site.Pages }}
+{{ range .Site.Home.Translations }}
+{{ $allPages = $allPages | lang.Merge .Site.Pages }}
+{{ end }}
+
+{{ $regularPages := .Site.RegularPages }}
+{{ range .Site.Home.Translations }}
+{{ $regularPages = $regularPages | lang.Merge .Site.RegularPages }}
+{{ end }}
+
+<main>
+  <section class="p-strip--accent"
+  style='background:
+   linear-gradient( rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4) ), 
+   url({{ "/images/cover.jpg" | relURL }}) center / cover'>
+    <div class="row">
+      <div class="col-8">
+        <h1>{{.Title}}</h1>
+        <h4>{{.Site.Params.description}}</h4>
+        <p>{{.Site.Params.period}}</p>
+        <a href="{{.Site.Params.registerURLS.attendee}}"><button>{{ i18n "register_now" }}</button></a>
+        <a href="sessions"><button>{{ i18n "sessions" }}</button></a>
+        <a href="sponsors/become-a-sponsor"><button>{{ i18n "become_sponsor" }}</button></a>
+        <a href="https://www.youtube.com/playlist?list=PLr8g8zdbZAgFp5iEKM7nm6RJE3uruQ5GK"><button>YouTube</button></a>
+        <a href="https://peertube.linuxrocks.online/w/p/1b2LE8cTPD9KYXJHcJZSgz"><button>PeerTube</button></a>
+      </div>
+      <div class="col-4">
+        <img src='{{ "/images/ubuCon_logo_or_square.png" | relURL }}' alt="">
+      </div>
+    </div>
+  </section>
+  <section class="p-strip">
+    <div class="row">
+      {{ range first 3 ( sort (where $regularPages "Section" "news") "Date" "desc" ) }}
+      {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
+      <div class="col-4">
+        <a href="{{ .RelPermalink }}">
+          <h3>{{.Title}}</h3>
+        </a>
+        <b>{{.Date.Format "2006-01-02"}}</b><br />
+        <span>{{slicestr .Summary 0 100}}</span><br />
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  <section class="p-strip--light">
+    <div class="row">
+      <h2>{{ i18n "featured" }}</h2>
+      {{ range first 6 ( sort (intersect (where $regularPages "Section" "sessions") (where $allPages "Params.featured" true)) "Date" "asc" ) }}
+      {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
+      <div class="col-6">
+        <div class="p-media-object--large">
+          {{ $permalink := .Permalink }}
+          {{$firstSpeaker := index .Params.speakers 0}}
+          {{with $firstSpeaker.profile}}
+          <img src="{{ $permalink }}{{ . }}" class="p-media-object__image is-round" alt="">
+          {{ else }}
+          <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
+          {{end}}
+          <div class="p-media-object__details">
+            <a href="{{.Permalink}}">
+              <h3>{{.Title}}</h3>
+            </a>
+            <b><u class="timedisplay" style="text-decoration-style: dotted;">{{.Date.Format "2006-01-02T15:04:05-07:00"}}</u></b>
+            <ul class="p-inline-list--middot">
+              {{range .Params.speakers}}
+              <li class="p-inline-list__item">
+                {{.name}}
+              </li>
+              {{end}}
+            </ul>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      <a href="sessions"><button>{{ i18n "all_sessions" }}</button></a>
+    </div>
+  </section>
+  <section class="p-strip">
+    <div class="row">
+      <h2>{{ i18n "host_communities" }}</h2>
+      {{ $hosts := (where $allPages "Section" "hosts") }}
+      {{ range where $hosts "Params.group" "UbuntuLoCos" }}
+      <div class="p-card col-3">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 80px;" />
+          <h5>{{.Title}}</h5>
+        </a>
+      </div>
+      {{ end }}
+      {{ range where $hosts "Params.group" "OtherLoCos" }}
+      <div class="p-card col-3">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 80px;" />
+          <h5>{{.Title}}</h5>
+        </a>
+      </div>
+      {{ end }}
+  </section>
+  <section class="p-strip">
+    <div class="row">
+      <h2>{{ i18n "sponsors" }}</h2>
+
+      <h3>{{ i18n "diamond_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "diamond" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "gold_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "gold" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "silver_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "silver" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "bronze_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "bronze" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "supporter_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "supporter" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "infra_sp" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "infra" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>
+
+        <h3>{{ i18n "partner_cm" }}</h3>
+        <ul class="p-inline-images">
+        {{ range where $allPages "Params.group" "partner" }}
+        <li class="p-inline-images__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-inline-images__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </li>
+        {{ end }}
+        </ul>      
+         </div>
+  </section>
+</main>
+{{ end }}

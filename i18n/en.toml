@@ -1,0 +1,74 @@
+[learn_more]
+other = "Learn more"
+[featured] 
+other = "Featured sessions"
+[all_sessions] 
+other = "All sessions"
+[more_sessions]
+other = "More sessions"
+[sponsors] 
+other = "Sponsors"
+[become_sponsor]
+other = "Become a sponsor"
+[more_sponsors]
+other = "More sponsors"
+[about]
+other = "About"
+[news]
+other = "News"
+[sessions]
+other = "Sessions"
+[ical_add]
+other = "Add to calendar(*.ics file)"
+[ical_subscribe]
+other = "Subscribe to calendar(webcal)"
+[ical]
+other = "Session schedules calendar"
+[register_now]
+other = "Register now"
+[attendee]
+other = "Attendee"
+[call_for_speakers]
+other = "Call for Speakers"
+[host_communities]
+other = "Host Communities"
+[more_hosts]
+other = "More host communities"
+[ubuntu_locos]
+other = "Ubuntu Local Communities"
+[other_foss]
+other = "Other Free and Open Source Communities"
+[diamond_sp]
+other = "Diamond Sponsors"
+[gold_sp]
+other = "Gold Sponsors"
+[silver_sp]
+other = "Silver Sponsors"
+[bronze_sp]
+other = "Bronze Sponsors"
+[supporter_sp]
+other = "Supporter Sponsors"
+[infra_sp]
+other = "Event Infrastructure Sponsors"
+[record_sp]
+other = "Video Recording Sponsors"
+[videoi18n_sp]
+other = "Video Internalization Sponsors"
+[swag_sp]
+other = "Swag Sponsors"
+[partner_cm]
+other = "Partner Communities"
+[name]
+other = "Name"
+[donated_at]
+other = "Purchased donation ticket at"
+[type]
+other = "Type"
+[title]
+other = "Title"
+[language]
+other = "Language"
+[speakers]
+other = "Speakers"
+[session_duration]
+other = "Session duration"
