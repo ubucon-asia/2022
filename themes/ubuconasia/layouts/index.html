@@ -11,18 +11,16 @@
 {{ end }}
 
 <main>
-  <section class="p-strip--suru">
+  <section class="p-strip--image is-light" style="background-image:url('{{ `/images/venue2.jpg` | relURL }}')">
     <div class="row">
-      <div class="col-8">
+      <div class="col-8 p-card--overlay">
+        <img src='{{ "/images/ubuCon_logo_or_square.png" | relURL }}' alt="" width="200em">
         <h1>{{.Title}}</h1>
         <h4>{{.Site.Params.description}}</h4>
         <p>{{.Site.Params.period}}</p>
         <a href="#"><button>{{ i18n "details_later" }}</button></a>
         <a href="sessions"><button>{{ i18n "sessions" }}</button></a>
         <a href="sponsors/become-a-sponsor"><button>{{ i18n "become_sponsor" }}</button></a>
-      </div>
-      <div class="col-4">
-        <img src='{{ "/images/ubuCon_logo_or_square.png" | relURL }}' alt="">
       </div>
     </div>
   </section>
