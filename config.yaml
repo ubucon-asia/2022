@@ -1,6 +1,6 @@
 baseURL: 'https://2022.ubucon.asia/'
 languageCode: en-us
-title: Ubucon Asia 2022
+title: UbuCon Asia 2022
 theme: ubuconasia
 Paginate: 5
 buildFuture: true
@@ -69,7 +69,7 @@ languages:
           weight: 6
   en:
     languageName: English
-    title: Ubucon Asia 2022
+    title: UbuCon Asia 2022
     weight: 1
     params:
       description: >-
@@ -128,7 +128,7 @@ languages:
           weight: 6
   id:
     languageName: Bahasa Indonesia
-    title: Ubucon Asia 2022
+    title: UbuCon Asia 2022
     weight: 2
     params:
       description: >-
@@ -187,7 +187,7 @@ languages:
           weight: 6
   ja:
     languageName: 日本語
-    title: Ubucon Asia 2022
+    title: UbuCon Asia 2022
     weight: 3
     params:
       description: >-
@@ -246,7 +246,7 @@ languages:
           weight: 5
   zh-hant-tw:
     languageName: 正體中文(臺灣)
-    title: Ubucon Asia 2022
+    title: UbuCon Asia 2022
     weight: 2
     params:
       description: >-
@@ -305,14 +305,14 @@ languages:
           weight: 6
 params:
   contact: contact@ubucon.asia
-  calendarOrganizer: Ubucon Asia 2022 Organizers
+  calendarOrganizer: UbuCon Asia 2022 Organizers
   calendarUidSuffix: 2022.asia.ubucon.org
   facebook: ubuconasia
   twitter: ubuconasia
   github: ubucon-asia
   repo: https://github.com/ubucon-asia/2022
   copyright:  >-
-    © 2022 Ubucon Asia 2022 Website authors.
+    © 2022 UbuCon Asia 2022 Website authors.
     Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0. 
     Ubuntu and Canonical are registered trademarks of Canonical Ltd.
   email: contact@ubucon.asia
