@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors on UbuCon Asia 2022</title>
+    <link>https://2022.ubucon.asia/sponsors/</link>
+    <description>Recent content in Sponsors on UbuCon Asia 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2022.ubucon.asia/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Become a sponsor</title>
+      <link>https://2022.ubucon.asia/sponsors/become-a-sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/sponsors/become-a-sponsor/</guid>
+      <description>Thank you for your interest in Ubuntu and Ubucon Asia.
+As a non-profit and community organized event, Even Ubucon Asia 2021 is fully virtual event, We still need support from sponsors to make the event happen.
+By becoming one of our sponsors, you are directly contributing to research and development of Ubuntu and Open Source Software, and also making Open Source Community more active and sustainable.
+Your contribution makes it possible for us to bring a large number of Ubuntu users and contributors across Asia to connect, interact, help and learn together.</description>
+    </item>
+    
+    <item>
+      <title>National IT Industry Promotion Agency of Korea</title>
+      <link>https://2022.ubucon.asia/sponsors/nipa-kr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/sponsors/nipa-kr/</guid>
+      <description>OpenUP - Open source software promotion organization at NIPA We are an institution that strengthens open source SW development capabilities and helps domestic IT and industries develop in various ways.
+NIPA - National IT Industry Promotion Agency of Korea NIPA devotes itself to reinforcing the competitiveness of the ICT industry and contributes to the economic growth through the efficient support and laying the groundwork for the industrial technology promotion.</description>
+    </item>
+    
+  </channel>
+</rss>

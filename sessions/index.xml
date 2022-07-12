@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sessions on UbuCon Asia 2022</title>
+    <link>https://2022.ubucon.asia/sessions/</link>
+    <description>Recent content in Sessions on UbuCon Asia 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 14:15:00 +0900</lastBuildDate><atom:link href="https://2022.ubucon.asia/sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating boring and repetitive UbuCon Asia video and subtitle stuffs 
+</title>
+      <link>https://2022.ubucon.asia/sessions/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs/</link>
+      <pubDate>Sun, 26 Sep 2021 14:15:00 +0900</pubDate>
+      
+      <guid>https://2022.ubucon.asia/sessions/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs/</guid>
+      <description>Whether it&amp;rsquo;s online or offline event, There&amp;rsquo;s always boring and repetitive jobs for event organizers and volunteers. Putting cover on session videos and making subtitle for videos are part of them. UbuCon Asia team, is no exception. But like you and other ordinary people, our organizers also have their own job and busy with that usually. As it&amp;rsquo;s first event we don&amp;rsquo;t even know if we can gather enough volunteers or gain sponsorship to hire some workers.</description>
+    </item>
+    
+  </channel>
+</rss>

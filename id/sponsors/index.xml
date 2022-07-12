@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsor on UbuCon Asia 2022</title>
+    <link>https://2022.ubucon.asia/id/sponsors/</link>
+    <description>Recent content in Sponsor on UbuCon Asia 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2022.ubucon.asia/id/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Menjadi Sponsor</title>
+      <link>https://2022.ubucon.asia/id/sponsors/become-a-sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/id/sponsors/become-a-sponsor/</guid>
+      <description>Terima kasih atas minat Anda pada Ubuntu dan Ubucon Asia. Sebagai acara nirlaba dan organisasi komunitas, Acara Ubucon Asia 2021 sepenuhnya merupakan acara virtual, Kami masih membutuhkan dukungan dari sponsor untuk mewujudkan acara tersebut.
+Dengan menjadi salah satu sponsor kami, Anda berkontribusi langsung pada penelitian dan pengembangan Ubuntu dan Perangkat Lunak Sumber Terbuka, dan juga membuat Komunitas Sumber Terbuka lebih aktif dan berkelanjutan.
+Kontribusi Anda memungkinkan kami untuk membawa banyak pengguna Ubuntu dan kontributor di seluruh Asia untuk terhubung, berinteraksi, membantu dan belajar bersama.</description>
+    </item>
+    
+    <item>
+      <title>National IT Industry Promotion Agency of Korea</title>
+      <link>https://2022.ubucon.asia/id/sponsors/nipa-kr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/id/sponsors/nipa-kr/</guid>
+      <description>OpenUP - Organisasi promosi perangkat lunak sumber terbuka di NIPA Kami adalah lembaga yang memperkuat kemampuan pengembangan perangkat lunak sumber terbuka dan membantu TI dan industri dalam negeri berkembang dengan berbagai cara.
+NIPA - National IT Industry Promotion Agency of Korea NIPA mengabdikan dirinya untuk memperkuat daya saing industri TIK dan berkontribusi pada pertumbuhan ekonomi melalui dukungan yang efisien dan meletakkan dasar untuk promosi teknologi industri.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on UbuCon Asia 2022</title>
+    <link>https://2022.ubucon.asia/news/</link>
+    <description>Recent content in News on UbuCon Asia 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2022 23:30:00 +0900</lastBuildDate><atom:link href="https://2022.ubucon.asia/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UbuCon Asia 2022 will be on Seoul, South Korea</title>
+      <link>https://2022.ubucon.asia/news/2022-06-21-ubucon-asia-2022-in-korea/</link>
+      <pubDate>Tue, 21 Jun 2022 23:30:00 +0900</pubDate>
+      
+      <guid>https://2022.ubucon.asia/news/2022-06-21-ubucon-asia-2022-in-korea/</guid>
+      <description>The UbuCon Asia 2022 will be on Seoul, South Korea. It will be an in-person and online hybrid format.</description>
+    </item>
+    
+  </channel>
+</rss>

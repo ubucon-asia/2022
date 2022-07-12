@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>우부콘 아시아 2022</title>
+    <link>https://2022.ubucon.asia/ko/</link>
+    <description>Recent content on 우부콘 아시아 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2022 23:30:00 +0900</lastBuildDate><atom:link href="https://2022.ubucon.asia/ko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UbuCon Asia 2022 will be on Seoul, South Korea</title>
+      <link>https://2022.ubucon.asia/ko/news/2022-06-21-ubucon-asia-2022-in-korea/</link>
+      <pubDate>Tue, 21 Jun 2022 23:30:00 +0900</pubDate>
+      
+      <guid>https://2022.ubucon.asia/ko/news/2022-06-21-ubucon-asia-2022-in-korea/</guid>
+      <description>The UbuCon Asia 2022 will be on Seoul, South Korea. It will be an in-person and online hybrid format.</description>
+    </item>
+    
+    <item>
+      <title>우부콘 아시아 2021 소개</title>
+      <link>https://2022.ubucon.asia/ko/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/ko/about/</guid>
+      <description>우부콘 아시아(Ubucon Asia) 에 관심을 가져주셔서 감사합니다.
+우부콘 아시아는 아시아 지역의 다양한 우분투 커뮤니티가 모여 준비한 행사 입니다. 우분투, 리눅스 그리고 관련 오픈소스 기술에 연관되어 있거나 관심이 있는 사람 모두를 위한 행사이며, 아시아의 다양한 우분투 커뮤니티 사람을 연결하고 서로 배우고 지식을 공유하는 만남의 장 이기도 합니다.
+아시아의 첫 우분투 컨퍼런스인 우부콘 아시아 2021은, 온라인 컨퍼런스로 진행되며 아시아 지역 다수의 우분투 지역 커뮤니티의 주도로 준비됩니다. 집에서 첫 우부콘 아시아 행사에 참여하여, 전 세계 다양한 우분투 커뮤니티 사람들을 만나보세요.</description>
+    </item>
+    
+    <item>
+      <title>우분투 한국 로컬 커뮤니티</title>
+      <link>https://2022.ubucon.asia/ko/hosts/ubuntu-kr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/ko/hosts/ubuntu-kr/</guid>
+      <description>우분투 한국 커뮤니티는 우분투 커뮤니티 의회(Ubuntu Community Council)에서 공식 인증을 받은 한국 지역의 커뮤니티 입니다.
+2005년에 시작한 우분투 한국 커뮤니티는 당시에는 작은 규모였지만, 지금은 한국에서 가장 활발히 활동하는 오픈소스 커뮤니티 중 하나입니다. 우리 커뮤니티는 한국의 우분투 사용자 및 IT분야에서 활동하는 분들을 위한 다양한 활동을 지속적으로 해 오고 있습니다.
+다양한 세미나, 컨퍼런스, 커뮤니티 주도 프로젝트, 다른 커뮤니티와의 연합 세미나 및 매년 오픈소스에 기여하고자 하는 새로운 분들을 돕기위한 워크샵을 하고 있으며, 해외의 다양한 오픈소스 커뮤니티와도 교류하고 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>정보통신산업진흥원</title>
+      <link>https://2022.ubucon.asia/ko/sponsors/nipa-kr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/ko/sponsors/nipa-kr/</guid>
+      <description>OpenUP - 오픈소스 소프트웨어 통합지원센터 (정보통신산업진흥원 산하 기관) 오픈소스 소프트웨어를 개발, 공유, 활용하기를 원하는 개발자, 기업, 정부 등을 체계정으로 지원하고, 수요(기업, 공공기관) 및 공급(개발자, 기업)의 선순환 구조를 이루어, 오픈소스 소프트웨어 활성화의 허브 역할을 수행하는 기관입니다.
+정보통신산업진흥원(NIPA) 정보통신산업진흥원은 ICT를 기반으로 4차 산업혁명을 대비하고 기업들이 혁신 성장할 수 있도록 생태계를 조성하는 산업진흥기관입니다.</description>
+    </item>
+    
+    <item>
+      <title>후원사로 참여하기</title>
+      <link>https://2022.ubucon.asia/ko/sponsors/become-a-sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/ko/sponsors/become-a-sponsor/</guid>
+      <description>우분투와 우부콘 아시아에 관심을 가져 주셔서 감사합니다. 우부콘 아시아 2021은 온라인 행사이지만, 여러 커뮤니티가 준비한 비영리 행사이기도 합니다. 때문에 행사를 성공적으로 진행하려면 후원사의 도움이 여전히 필요합니다.
+후원사가 되는 것은 우분투와 관련 오픈소스의 발전에 기여하는 것 뿐만이 아니라 오픈소스 커뮤니티를 더 활성화되고 지속 가능하도록 하는데 많은 도움을 줄 것입니다.
+후원사로 기여하는 것은 또한 아시아의 많은 수의 우분투 사용자 및 기여자 분들이 모여서 소통하고 서로 돕고 배울 수 있는 자리를 마련할 수 있도록 하는 것은 물론, 글로벌 우분투 커뮤니티와 전세계 각 지역의 우분투 로컬 커뮤니티의 성장 또한 돕는 것 입니다.</description>
+    </item>
+    
+  </channel>
+</rss>

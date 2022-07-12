@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UbuCon Asia 2022</title>
+    <link>https://2022.ubucon.asia/</link>
+    <description>Recent content on UbuCon Asia 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jun 2022 23:30:00 +0900</lastBuildDate><atom:link href="https://2022.ubucon.asia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UbuCon Asia 2022 will be on Seoul, South Korea</title>
+      <link>https://2022.ubucon.asia/news/2022-06-21-ubucon-asia-2022-in-korea/</link>
+      <pubDate>Tue, 21 Jun 2022 23:30:00 +0900</pubDate>
+      
+      <guid>https://2022.ubucon.asia/news/2022-06-21-ubucon-asia-2022-in-korea/</guid>
+      <description>The UbuCon Asia 2022 will be on Seoul, South Korea. It will be an in-person and online hybrid format.</description>
+    </item>
+    
+    <item>
+      <title>Automating boring and repetitive UbuCon Asia video and subtitle stuffs 
+</title>
+      <link>https://2022.ubucon.asia/sessions/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs/</link>
+      <pubDate>Sun, 26 Sep 2021 14:15:00 +0900</pubDate>
+      
+      <guid>https://2022.ubucon.asia/sessions/automating_boring_and_repetitive_ubucon_asia_video_and_subtitle_stuffs/</guid>
+      <description>Whether it&amp;rsquo;s online or offline event, There&amp;rsquo;s always boring and repetitive jobs for event organizers and volunteers. Putting cover on session videos and making subtitle for videos are part of them. UbuCon Asia team, is no exception. But like you and other ordinary people, our organizers also have their own job and busy with that usually. As it&amp;rsquo;s first event we don&amp;rsquo;t even know if we can gather enough volunteers or gain sponsorship to hire some workers.</description>
+    </item>
+    
+    <item>
+      <title>About Ubucon Asia 2021</title>
+      <link>https://2022.ubucon.asia/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/about/</guid>
+      <description>Welcome, and thank you for your interest on Ubucon Asia.
+Ubucon Asia is an event organized by Ubuntu Communities in Asia. It&amp;rsquo;s for everyone who involved with or interested in Ubuntu, Linux and other Free and Open source technologies. Ubucon Asia is also a place for Ubuntu people from Asia to connect, learn, and share their knowlegdes each other.
+Ubucon Asia 2021, the first Ubuntu conference in Asia will be a virtual conference driven by multiple Ubuntu LoCos from Asia.</description>
+    </item>
+    
+    <item>
+      <title>Become a sponsor</title>
+      <link>https://2022.ubucon.asia/sponsors/become-a-sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/sponsors/become-a-sponsor/</guid>
+      <description>Thank you for your interest in Ubuntu and Ubucon Asia.
+As a non-profit and community organized event, Even Ubucon Asia 2021 is fully virtual event, We still need support from sponsors to make the event happen.
+By becoming one of our sponsors, you are directly contributing to research and development of Ubuntu and Open Source Software, and also making Open Source Community more active and sustainable.
+Your contribution makes it possible for us to bring a large number of Ubuntu users and contributors across Asia to connect, interact, help and learn together.</description>
+    </item>
+    
+    <item>
+      <title>National IT Industry Promotion Agency of Korea</title>
+      <link>https://2022.ubucon.asia/sponsors/nipa-kr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/sponsors/nipa-kr/</guid>
+      <description>OpenUP - Open source software promotion organization at NIPA We are an institution that strengthens open source SW development capabilities and helps domestic IT and industries develop in various ways.
+NIPA - National IT Industry Promotion Agency of Korea NIPA devotes itself to reinforcing the competitiveness of the ICT industry and contributes to the economic growth through the efficient support and laying the groundwork for the industrial technology promotion.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Korea Local Community</title>
+      <link>https://2022.ubucon.asia/hosts/ubuntu-kr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/hosts/ubuntu-kr/</guid>
+      <description>Ubuntu Korea Community is an official verified LoCo(Local Community) Team by Ubuntu Community Council in South Korea.
+The Ubuntu Korean community started in 2005, very small. But it&amp;rsquo;s now one of the most active Open Source communities in South Korea. We are continuing to carry out activities that can be helpful to Ubuntu users in Korea and broadly to people related to IT in Korea.
+We hold various seminars, conferences, community-driven projects, joint seminars with other communities, and contribution workshops every year, and we also exchange with various overseas open source communities.</description>
+    </item>
+    
+  </channel>
+</rss>

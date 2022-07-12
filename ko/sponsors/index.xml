@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>후원사 on 우부콘 아시아 2022</title>
+    <link>https://2022.ubucon.asia/ko/sponsors/</link>
+    <description>Recent content in 후원사 on 우부콘 아시아 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://2022.ubucon.asia/ko/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>정보통신산업진흥원</title>
+      <link>https://2022.ubucon.asia/ko/sponsors/nipa-kr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/ko/sponsors/nipa-kr/</guid>
+      <description>OpenUP - 오픈소스 소프트웨어 통합지원센터 (정보통신산업진흥원 산하 기관) 오픈소스 소프트웨어를 개발, 공유, 활용하기를 원하는 개발자, 기업, 정부 등을 체계정으로 지원하고, 수요(기업, 공공기관) 및 공급(개발자, 기업)의 선순환 구조를 이루어, 오픈소스 소프트웨어 활성화의 허브 역할을 수행하는 기관입니다.
+정보통신산업진흥원(NIPA) 정보통신산업진흥원은 ICT를 기반으로 4차 산업혁명을 대비하고 기업들이 혁신 성장할 수 있도록 생태계를 조성하는 산업진흥기관입니다.</description>
+    </item>
+    
+    <item>
+      <title>후원사로 참여하기</title>
+      <link>https://2022.ubucon.asia/ko/sponsors/become-a-sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2022.ubucon.asia/ko/sponsors/become-a-sponsor/</guid>
+      <description>우분투와 우부콘 아시아에 관심을 가져 주셔서 감사합니다. 우부콘 아시아 2021은 온라인 행사이지만, 여러 커뮤니티가 준비한 비영리 행사이기도 합니다. 때문에 행사를 성공적으로 진행하려면 후원사의 도움이 여전히 필요합니다.
+후원사가 되는 것은 우분투와 관련 오픈소스의 발전에 기여하는 것 뿐만이 아니라 오픈소스 커뮤니티를 더 활성화되고 지속 가능하도록 하는데 많은 도움을 줄 것입니다.
+후원사로 기여하는 것은 또한 아시아의 많은 수의 우분투 사용자 및 기여자 분들이 모여서 소통하고 서로 돕고 배울 수 있는 자리를 마련할 수 있도록 하는 것은 물론, 글로벌 우분투 커뮤니티와 전세계 각 지역의 우분투 로컬 커뮤니티의 성장 또한 돕는 것 입니다.</description>
+    </item>
+    
+  </channel>
+</rss>
