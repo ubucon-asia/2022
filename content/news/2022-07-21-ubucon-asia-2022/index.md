@@ -1,7 +1,7 @@
 
 ---
 title: "UbuCon Asia 2022 - Nov 26-27 Seoul, South Korea"
-date: 2022-06-21T23:30:00+09:00
+date: 2022-07-21T22:00:00+09:00
 authors:
     - name: Youngbin Han
       bio: Organizer, Ubucon Asia 2022 / Leader, Ubuntu Korea Community 
