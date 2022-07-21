@@ -15,7 +15,7 @@ languages:
     params:
       description: >-
         한국에서 열리는 첫 오프라인 우분투 아시아 컨퍼런스.
-      period: 2022년 11월 26일 ~ 27일
+      period: 2022년 11월 26일 ~ 27일 | 서울 상암동 누리꿈스퀘어
     menu:
       main:
         - identifier: about
@@ -74,7 +74,7 @@ languages:
     params:
       description: >-
         The first In-person Ubuntu Asia conference in South Korea.
-      period: November 26th ~ 27th, 2022 
+      period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
     menu:
       main:
         - identifier: about
@@ -133,7 +133,7 @@ languages:
     params:
       description: >-
         The first In-person Ubuntu Asia conference in South Korea.
-      period: November 26th ~ 27th, 2022 
+      period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
     menu:
       main:
         - identifier: about
@@ -192,7 +192,7 @@ languages:
     params:
       description: >-
         The first In-person Ubuntu Asia conference in South Korea.
-      period: November 26th ~ 27th, 2022 
+      period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
     menu:
       main:
         - identifier: about
@@ -251,7 +251,7 @@ languages:
     params:
       description: >-
         The first In-person Ubuntu Asia conference in South Korea.
-      period: November 26th ~ 27th, 2022 
+      period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
     menu:
       main:
         - identifier: about
