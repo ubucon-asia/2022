@@ -1,23 +1,110 @@
 ---
-title: "우부콘 아시아 2021 소개"
+title: "About UbuCon Asia 2022"
 ---
-우부콘 아시아(Ubucon Asia) 에 관심을 가져주셔서 감사합니다.
 
-우부콘 아시아는 아시아 지역의 다양한 우분투 커뮤니티가 모여 준비한 행사 입니다.
-우분투, 리눅스 그리고 관련 오픈소스 기술에 연관되어 있거나 관심이 있는 사람 모두를 위한 행사이며,
-아시아의 다양한 우분투 커뮤니티 사람을 연결하고 서로 배우고 지식을 공유하는 만남의 장 이기도 합니다.
+UbuCon Asia is an event organized by Ubuntu Communities in Asia. 
+It's for everyone who involved with or interested in Ubuntu, Linux and other Free and Open source technologies.
+It is also a place for Ubuntu people from Asia to connect, learn, and share their knowlegdes each other.
 
-아시아의 첫 우분투 컨퍼런스인 우부콘 아시아 2021은, 온라인 컨퍼런스로 진행되며 아시아 지역 다수의 우분투 지역 커뮤니티의 주도로 준비됩니다.
-집에서 첫 우부콘 아시아 행사에 참여하여, 전 세계 다양한 우분투 커뮤니티 사람들을 만나보세요.
+UbuCon Asia 2022 will be the first In-person UbuCon Asia event. And It will be hold at Nuritkum Square (Nuri Dream Square) in Seoul, South Korea.
 
-## 조직위원회
-우부콘 아시아 2021은 아시아 다양한 지역의 우분투 지역 커뮤니티와 다른 오픈소스 커뮤니티가 함께 주도하여 준비하는 행사입니다.
-- [컨퍼런스 준비에 참여하는 커뮤니티 목록을 보려면, "주최 커뮤니티"를 확인하세요.](../hosts)
-- [우분투 위키에서 컨퍼런스 준비에 참여하는 구성원 목록 확인하기.](https://wiki.ubuntu.com/UbuconAsia/2021/Organizers)
+## Code of Conduct
+To provide safe environment for every participants, We've adapted UbuCon Asia Code of Conduct and Ubuntu Code of Conduct.
+Both applies to anyone participating UbuCon Asia event. Make sure to read both Code of Conduct carefully before participating.
+Violation of the Code of Conduct may result in sanctions or expelling from the event if necessary.
+- [UbuCon Asia Code of Conduct](https://github.com/ubuconon-asia/CodeOfConduct/blob/main/UbuConAsiaCodeOfConduct.md)
+- [Ubuntu Code of Conduct 2.0](https://ubuntu.com/community/code-of-conduct)
 
-## 행동 강령
-모든 참여자에게 안전한 환경을 제공하기 위해, 우부콘 아시아 준비위원회는 우부콘 아시아 행동강령과 우분투 행동강령을 채택하였습니다.
-두 행동강령 모두 모든 우부콘 아시아 행사 참여자에게 적용됩니다. 참여 하시기 전, 두 행동강령을 꼼꼼히 읽어주세요. 
-행동강령을 위반하는 경우 필요에 따라 제재가 가해지거나 추방될 수도 있습니다.
-- [우부콘 아시아 행동강령(영문)](https://github.com/ubucon-asia/CodeOfConduct/blob/main/UbuconAsiaCodeOfConduct.md)
-- [우분투 행동강령 2.0(영문)](https://ubuntu.com/community/code-of-conduct)
+## Organizing Team
+UbuCon Asia 2022 is a not-for-profit conference and a community-driven event made possible by team of volunteers from Ubuntu LoCos in Asia and other Asian FLOSS Communities. 
+
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/1916739?v=4"
+    heading="Youngbin Han" bold="Ubuntu Korea Community"
+    desc="Local/Global team | General, Contents, Web and Video, Sponsorship and Finances, Travel support" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/9061758?v=4"
+    heading="Gyuseok Jung" bold="Ubuntu Korea Community"
+    desc="Local team | General, Web and Video" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/22819926?v=4"
+    heading="Junhyeon Bae" bold="Ubuntu Korea Community"
+    desc="Local team | Sponsorship and Finances" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/553900?v=4"
+    heading="Sangkon Han" bold="Ubuntu Korea Community"
+    desc="Local team" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/10516502?v=4"
+    heading="Giyeon Bang" bold="C++ Korea"
+    desc="Local/Global team | General" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/47443508?v=4"
+    heading="Joowon Jung" bold="Ubuntu Korea"
+    desc="Local team" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/52643858?v=4"
+    heading="Minseong Cho" bold=""
+    desc="Local team | Contents, Marketing" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/3622008?v=4"
+    heading="Jongmin Kim" bold=""
+    desc="Local/Global team | Sponsorship and Finances, Travel support, Marketing" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/73894397?v=4"
+    heading="Vincent Wong" bold=""
+    desc="Global team" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/1658742?v=4"
+    heading="Hong Phuc Dang" bold="FOSSASIA"
+    desc="Global team" >}}
+
+{{<profile
+    profile="/images/ubuCon_logo_or_square.png"
+    heading="Burgess Chang" bold="Ubuntu Kylin"
+    desc="Global team" >}}
+
+{{<profile
+    profile="/images/ubuCon_logo_or_square.png"
+    heading="Ravi Bhattarai" bold="FOSS Nepal"
+    desc="Global team" >}}
+
+{{<profile
+    profile="/images/ubuCon_logo_or_square.png"
+    heading="Ravi Bhattarai" bold="FOSS Nepal"
+    desc="Global team" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/405473?v=4"
+    heading="Khairul Aizat Kamarudzzaman" bold="Ubuntu Malaysia"
+    desc="Global team" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/1537173?v=4"
+    heading="Masafumi Ohta" bold="Raspberry Pi Japan"
+    desc="Global team" >}}
+
+{{<profile
+    profile="/images/ubuCon_logo_or_square.png"
+    heading="Rudra B. Saraswat" bold="Ubuntu Unity"
+    desc="Global team" >}}
+
+{{<profile
+    profile="/images/ubuCon_logo_or_square.png"
+    heading="Robbi Nespu" bold="Debian Malaysia"
+    desc="Global team" >}}
+
+{{<profile
+    profile="/images/ubuCon_logo_or_square.png"
+    heading="Syazwan" bold="Ubuntu Malaysia"
+    desc="Global team" >}}
