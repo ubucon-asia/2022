@@ -118,11 +118,6 @@
     <loc>https://2022.ubucon.asia/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://2022.ubucon.asia/zh-hant-tw/about/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="id"
                 href="https://2022.ubucon.asia/id/about/"
                 />
@@ -130,6 +125,11 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://2022.ubucon.asia/ko/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hant-tw"
+                href="https://2022.ubucon.asia/zh-hant-tw/about/"
                 />
     <xhtml:link
                 rel="alternate"
