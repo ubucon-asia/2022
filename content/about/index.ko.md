@@ -2,22 +2,19 @@
 title: "About UbuCon Asia 2022"
 ---
 
-UbuCon Asia is an event organized by Ubuntu Communities in Asia. 
-It's for everyone who involved with or interested in Ubuntu, Linux and other Free and Open source technologies.
-It is also a place for Ubuntu people from Asia to connect, learn, and share their knowlegdes each other.
+우부콘 아시아(UbuCon Asia)는 아시아 지역의 우분투(Ubuntu) 커뮤니티가 조직한 행사입니다. 
+우분투, 리눅스 그리고 관련 오픈소스 기술에 연관되어 있거나 관심이 있는 사람 모두를 위한 행사이며, 
+아시아의 다양한 우분투 커뮤니티 사람을 연결하고 서로 배우고 지식을 공유하는 만남의 장 이기도 합니다.
 
-UbuCon Asia 2022 will be the first In-person UbuCon Asia event. And It will be hold at Nuritkum Square (Nuri Dream Square) in Seoul, South Korea.
+우부콘 아시아 2022는 처음으로 대면 행사로 열릴 예정이며. 서울 상암동 누리꿈 스퀘어에서 열릴 예정입니다.
 
-## Code of Conduct
-To provide safe environment for every participants, We've adapted UbuCon Asia Code of Conduct and Ubuntu Code of Conduct.
-Both applies to anyone participating UbuCon Asia event. Make sure to read both Code of Conduct carefully before participating.
-Violation of the Code of Conduct may result in sanctions or expelling from the event if necessary.
-- [UbuCon Asia Code of Conduct](https://github.com/ubuconon-asia/CodeOfConduct/blob/main/UbuConAsiaCodeOfConduct.md)
-- [Ubuntu Code of Conduct 2.0](https://ubuntu.com/community/code-of-conduct)
+## 행동 강령
+모든 참여자에게 안전한 환경을 제공하기 위해, 우부콘 아시아 준비위원회는 우부콘 아시아 행동강령과 우분투 행동강령을 채택하였습니다. 두 행동강령 모두 모든 우부콘 아시아 행사 참여자에게 적용됩니다. 참여 하시기 전, 두 행동강령을 꼼꼼히 읽어주세요. 행동강령을 위반하는 경우 필요에 따라 제재가 가해지거나 추방될 수도 있습니다.
+- [우부콘 아시아 행동강령(영문)](https://github.com/ubuconon-asia/CodeOfConduct/blob/main/UbuConAsiaCodeOfConduct.md)
+- [우분투 행동강령 2.0(영문)](https://ubuntu.com/community/code-of-conduct)
 
-## Organizing Team
-UbuCon Asia 2022 is a not-for-profit conference and a community-driven event made possible by team of volunteers from Ubuntu LoCos in Asia and other Asian FLOSS Communities. 
-
+## 조직위원회
+우부콘 아시아 2022년 비영리 컨퍼런스이자 커뮤니티 주도 행사로, 아시아 지역의 우분투 지역 커뮤니티와 오픈소스 커뮤니티에서 온 자원 봉사자로 구성된 팀에서 운영하고 있습니다.
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1916739?v=4"
