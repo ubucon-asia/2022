@@ -12,7 +12,7 @@ UbuCon Asia 2022 will be the first In-person UbuCon Asia event. And It will be h
 To provide safe environment for every participants, We've adapted UbuCon Asia Code of Conduct and Ubuntu Code of Conduct.
 Both applies to anyone participating UbuCon Asia event. Make sure to read both Code of Conduct carefully before participating.
 Violation of the Code of Conduct may result in sanctions or expelling from the event if necessary.
-- [UbuCon Asia Code of Conduct](https://github.com/ubuconon-asia/CodeOfConduct/blob/main/UbuConAsiaCodeOfConduct.md)
+- [UbuCon Asia Code of Conduct](https://github.com/ubucon-asia/CodeOfConduct/blob/main/UbuconAsiaCodeOfConduct.md)
 - [Ubuntu Code of Conduct 2.0](https://ubuntu.com/community/code-of-conduct)
 
 ## Organizing Team
