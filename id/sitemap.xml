@@ -83,45 +83,6 @@
                 href="https://2022.ubucon.asia/id/categories/"
                 />
   </url><url>
-    <loc>https://2022.ubucon.asia/id/hosts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2022.ubucon.asia/hosts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://2022.ubucon.asia/zh-hant-tw/hosts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2022.ubucon.asia/ko/hosts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2022.ubucon.asia/id/hosts/"
-                />
-  </url><url>
-    <loc>https://2022.ubucon.asia/id/hosts/ubuntu-kr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2022.ubucon.asia/hosts/ubuntu-kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2022.ubucon.asia/ko/hosts/ubuntu-kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2022.ubucon.asia/id/hosts/ubuntu-kr/"
-                />
-  </url><url>
     <loc>https://2022.ubucon.asia/id/sponsors/become-a-sponsor/</loc>
     <xhtml:link
                 rel="alternate"

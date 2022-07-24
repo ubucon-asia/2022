@@ -209,23 +209,6 @@
                 href="https://2022.ubucon.asia/ko/sessions/"
                 />
   </url><url>
-    <loc>https://2022.ubucon.asia/ko/hosts/ubuntu-kr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2022.ubucon.asia/hosts/ubuntu-kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2022.ubucon.asia/id/hosts/ubuntu-kr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2022.ubucon.asia/ko/hosts/ubuntu-kr/"
-                />
-  </url><url>
     <loc>https://2022.ubucon.asia/ko/sponsors/nipa-kr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -241,28 +224,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://2022.ubucon.asia/ko/sponsors/nipa-kr/"
-                />
-  </url><url>
-    <loc>https://2022.ubucon.asia/ko/hosts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://2022.ubucon.asia/hosts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hant-tw"
-                href="https://2022.ubucon.asia/zh-hant-tw/hosts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://2022.ubucon.asia/id/hosts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://2022.ubucon.asia/ko/hosts/"
                 />
   </url><url>
     <loc>https://2022.ubucon.asia/ko/confirmed/</loc>
