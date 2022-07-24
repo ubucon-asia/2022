@@ -22,6 +22,15 @@ languages:
           name: 소개
           url: about
           weight: 1
+        - identifier: venue-travel-group
+          name: 행사장 및 여행정보
+          url: venue-and-travel
+          weight: 2
+        - identifier: venue
+          parent: venue-travel-group
+          name: 행사장
+          url: venue-and-travel/venue
+          weight: 2
         - identifier: programs-group
           name: 프로그램
           url: programs
@@ -30,11 +39,6 @@ languages:
           parent: programs-group
           name: 세션
           url: sessions
-          weight: 3
-        - identifier: venue
-          parent: programs-group
-          name: 가상 행사장(Gather town)
-          url: venue
           weight: 3
         - identifier: confirmed
           parent: programs-group
@@ -77,6 +81,15 @@ languages:
           name: About
           url: about
           weight: 1
+        - identifier: venue-travel-group
+          name: Venue & Travel
+          url: venue-and-travel
+          weight: 2
+        - identifier: venue
+          parent: venue-travel-group
+          name: Venue
+          url: venue-and-travel/venue
+          weight: 2
         - identifier: programs-group
           name: Programs
           url: programs
@@ -85,11 +98,6 @@ languages:
           parent: programs-group
           name: Sessions
           url: sessions
-          weight: 3
-        - identifier: venue
-          parent: programs-group
-          name: Virtual venue(Gather town)
-          url: venue
           weight: 3
         - identifier: confirmed
           parent: programs-group
@@ -132,6 +140,15 @@ languages:
           name: Tentang
           url: about
           weight: 1
+        - identifier: venue-travel-group
+          name: Venue & Travel
+          url: venue-and-travel
+          weight: 2
+        - identifier: venue
+          parent: venue-travel-group
+          name: Venue
+          url: venue-and-travel/venue
+          weight: 2
         - identifier: programs-group
           name: Program
           url: programs
@@ -140,11 +157,6 @@ languages:
           parent: programs-group
           name: Sesi
           url: sessions
-          weight: 3
-        - identifier: venue
-          parent: programs-group
-          name: Virtual venue(Gather town)
-          url: venue
           weight: 3
         - identifier: confirmed
           parent: programs-group
@@ -187,6 +199,15 @@ languages:
           name: Ubucon Asiaとは
           url: about
           weight: 1
+        - identifier: venue-travel-group
+          name: Venue & Travel
+          url: venue-and-travel
+          weight: 2
+        - identifier: venue
+          parent: venue-travel-group
+          name: Venue
+          url: venue-and-travel/venue
+          weight: 2
         - identifier: programs-group
           name: Programs
           url: programs
@@ -195,11 +216,6 @@ languages:
           parent: programs-group
           name: セッション
           url: sessions
-          weight: 3
-        - identifier: venue
-          parent: programs-group
-          name: Virtual venue(Gather town)
-          url: venue
           weight: 3
         - identifier: confirmed
           parent: programs-group
@@ -242,6 +258,15 @@ languages:
           name: About
           url: about
           weight: 1
+        - identifier: venue-travel-group
+          name: Venue & Travel
+          url: venue-and-travel
+          weight: 2
+        - identifier: venue
+          parent: venue-travel-group
+          name: Venue
+          url: venue-and-travel/venue
+          weight: 2
         - identifier: programs-group
           name: Programs
           url: programs
@@ -250,11 +275,6 @@ languages:
           parent: programs-group
           name: Sessions
           url: sessions
-          weight: 3
-        - identifier: venue
-          parent: programs-group
-          name: Virtual venue(Gather town)
-          url: venue
           weight: 3
         - identifier: confirmed
           parent: programs-group
