@@ -22,10 +22,6 @@ languages:
           name: 소개
           url: about
           weight: 1
-        - identifier: hosts
-          name: 주최
-          url: hosts
-          weight: 2
         - identifier: programs-group
           name: 프로그램
           url: programs
@@ -81,10 +77,6 @@ languages:
           name: About
           url: about
           weight: 1
-        - identifier: hosts
-          name: Hosts
-          url: hosts
-          weight: 2
         - identifier: programs-group
           name: Programs
           url: programs
@@ -140,10 +132,6 @@ languages:
           name: Tentang
           url: about
           weight: 1
-        - identifier: hosts
-          name: Host
-          url: hosts
-          weight: 2
         - identifier: programs-group
           name: Program
           url: programs
@@ -199,10 +187,6 @@ languages:
           name: Ubucon Asiaとは
           url: about
           weight: 1
-        - identifier: hosts
-          name: Hosts
-          url: hosts
-          weight: 2
         - identifier: programs-group
           name: Programs
           url: programs
@@ -258,10 +242,6 @@ languages:
           name: About
           url: about
           weight: 1
-        - identifier: hosts
-          name: Hosts
-          url: hosts
-          weight: 2
         - identifier: programs-group
           name: Programs
           url: programs
