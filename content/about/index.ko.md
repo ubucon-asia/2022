@@ -80,11 +80,6 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
     desc="Global team" >}}
 
 {{<profile
-    profile="/images/ubuCon_logo_or_square.png"
-    heading="Ravi Bhattarai" bold="FOSS Nepal"
-    desc="Global team" >}}
-
-{{<profile
     profile="https://avatars.githubusercontent.com/u/405473?v=4"
     heading="Khairul Aizat Kamarudzzaman" bold="Ubuntu Malaysia"
     desc="Global team" >}}
