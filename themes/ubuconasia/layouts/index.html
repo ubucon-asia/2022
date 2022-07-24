@@ -73,27 +73,6 @@
   </section>
   <section class="p-strip">
     <div class="row">
-      <h2>{{ i18n "host_communities" }}</h2>
-      {{ $hosts := (where $allPages "Section" "hosts") }}
-      {{ range where $hosts "Params.group" "UbuntuLoCos" }}
-      <div class="p-card col-3">
-        <a href="{{ .RelPermalink }}">
-          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 80px;" />
-          <h5>{{.Title}}</h5>
-        </a>
-      </div>
-      {{ end }}
-      {{ range where $hosts "Params.group" "OtherLoCos" }}
-      <div class="p-card col-3">
-        <a href="{{ .RelPermalink }}">
-          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 80px;" />
-          <h5>{{.Title}}</h5>
-        </a>
-      </div>
-      {{ end }}
-  </section>
-  <section class="p-strip">
-    <div class="row">
       <h2>{{ i18n "sponsors" }}</h2>
 
       <h3>{{ i18n "diamond_sp" }}</h3>
