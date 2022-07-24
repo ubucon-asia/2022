@@ -205,6 +205,8 @@
                 href="https://2022.ubucon.asia/confirmed/"
                 />
   </url><url>
+    <loc>https://2022.ubucon.asia/venue-and-travel/entry-and-visa/</loc>
+  </url><url>
     <loc>https://2022.ubucon.asia/patrons/</loc>
     <xhtml:link
                 rel="alternate"
@@ -292,5 +294,9 @@
                 hreflang="en"
                 href="https://2022.ubucon.asia/tags/"
                 />
+  </url><url>
+    <loc>https://2022.ubucon.asia/venue-and-travel/venue/</loc>
+  </url><url>
+    <loc>https://2022.ubucon.asia/venue-and-travel/</loc>
   </url>
 </urlset>
