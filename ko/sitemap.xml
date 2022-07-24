@@ -165,6 +165,18 @@
                 href="https://2022.ubucon.asia/ko/tags/"
                 />
   </url><url>
+    <loc>https://2022.ubucon.asia/ko/venue-and-travel/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2022.ubucon.asia/venue-and-travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2022.ubucon.asia/ko/venue-and-travel/"
+                />
+  </url><url>
     <loc>https://2022.ubucon.asia/ko/patrons/</loc>
     <xhtml:link
                 rel="alternate"
@@ -241,6 +253,18 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://2022.ubucon.asia/ko/confirmed/"
+                />
+  </url><url>
+    <loc>https://2022.ubucon.asia/ko/venue-and-travel/venue/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://2022.ubucon.asia/venue-and-travel/venue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://2022.ubucon.asia/ko/venue-and-travel/venue/"
                 />
   </url><url>
     <loc>https://2022.ubucon.asia/ko/sponsors/</loc>
