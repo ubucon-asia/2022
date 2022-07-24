@@ -1,9 +1,25 @@
-{{ define "main" }}
-  <h1>Posts</h1>
-  {{ range .Pages }}
-    <article>
-      <h2>{{ .Title }}</h2>
-      {{ .Content }}
-    </article>
-  {{ end }}
-{{ end }}
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<main>
+    
+    <section class="p-strip--suru-topped">
+        <div class="row">
+            <h2>{{.Title}}</h2>
+            <p>{{.Content}}</p>
+        </div>
+      </section>
+      <section class="p-strip">
+        <div class="row">
+          {{ range .Pages }}
+          <div class="col-4">
+            <a href="{{ .RelPermalink }}">
+              <h3>{{.Title}}</h3>
+            </a>
+            <p>{{.Params.description}}</p>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+</main>
+{{end}}
