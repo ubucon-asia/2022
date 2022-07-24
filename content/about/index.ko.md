@@ -43,7 +43,7 @@ title: "About UbuCon Asia 2022"
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/47443508?v=4"
-    heading="Joowon Jung" bold="Ubuntu Korea"
+    heading="Joowon Jung" bold="Ubuntu Korea Community"
     desc="Local team" >}}
 
 {{<profile
