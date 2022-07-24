@@ -40,7 +40,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
     desc="Local team" >}}
 
 {{<profile
-    profile="https://avatars.githubusercontent.com/u/10516502?v=4"
+    profile="giyeon_bang.jpg"
     heading="Giyeon Bang" bold="C++ Korea"
     desc="Local/Global team | General" >}}
 
