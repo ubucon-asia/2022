@@ -128,26 +128,6 @@ for(let i = 0; i < searchToggles.length; i++) {
     });
 }
 
-let fuse = undefined;
-
-async function initSearchIndex() {
-    let res = await fetch('/index.json');
-    let data = await res.json();
-    fuse = new Fuse(data, { // fuse.js options; check fuse.js website for details
-        shouldSort: true,
-        location: 0,
-        distance: 100,
-        threshold: 0.4,
-        minMatchCharLength: 2,
-        keys: [
-            'title',
-            'permalink',
-            'summary',
-            'contents'
-        ]
-    });
-}
-
 document.getElementById("searchinput").addEventListener("keydown", function (event) {
   console.log(event.target.value);
   if(!fuse){

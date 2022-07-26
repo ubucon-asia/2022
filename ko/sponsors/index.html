@@ -296,6 +296,28 @@
   </div>
 </div>
 
+<script>
+    
+let fuse = undefined;
+
+async function initSearchIndex() {
+    let res = await fetch('\/ko/index.json');
+    let data = await res.json();
+    fuse = new Fuse(data, { 
+        shouldSort: true,
+        location: 0,
+        distance: 100,
+        threshold: 0.4,
+        minMatchCharLength: 2,
+        keys: [
+            'title',
+            'permalink',
+            'summary',
+            'contents'
+        ]
+    });
+}
+</script>
 <script type="text/javascript" src='/js/ubuconasia.js'></script>
 <script type="text/javascript" src='/js/timedisplay.js'></script></body>
 </html>
