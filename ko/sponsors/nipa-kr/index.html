@@ -235,11 +235,10 @@
 
 <section class="p-strip--light is-shallow" style="display: none;" id="search">
   <div class="row">
-    <form class="p-search-box u-no-margin--bottom">
+    <form class="p-search-box u-no-margin--bottom" onsubmit='return false'>
       <input type="search" class="p-search-box__input" name="q" placeholder='검색...' 
         required="" aria-label='검색...' autocomplete="on" id="searchinput">
       <button type="reset" class="p-search-box__reset" name="close"><i class="p-icon--close">Close</i></button>
-      <button type="submit" class="p-search-box__button" name="submitSearch"><i class="p-icon--search">검색</i></button>
     </form>
   </div>
   <div class="row" style="margin-top: 16px; max-height: 60vh; overflow-y: scroll;">
