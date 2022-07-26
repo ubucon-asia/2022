@@ -24,17 +24,6 @@ function handleClickOutside(toggles, containerClass) {
       if (!target.closest(containerClass)) {
         closeAllDropdowns(toggles);
       }
-    } else if (target.msMatchesSelector) {
-      // IE friendly `Element.closest` equivalent
-      // as in https://developer.mozilla.org/en-US/docs/Web/API/Element/closest
-      do {
-        if (target.msMatchesSelector(containerClass)) {
-          return;
-        }
-        target = target.parentElement || target.parentNode;
-      } while (target !== null && target.nodeType === 1);
-
-      closeAllDropdowns(toggles);
     }
   });
 }
@@ -53,92 +42,76 @@ function initNavDropdowns(containerClass) {
     });
   });
 }
-  
+
 initNavDropdowns('.p-navigation__item--dropdown-toggle')
 
-/**
-Toggles the necessary aria- attributes' values on the menus
-and handles to show or hide them.
-@param {HTMLElement} element The menu link or button.
-@param {Boolean} show Whether to show or hide the menu.
-@param {Number} top Top offset in pixels where to show the menu.
-*/
-function toggleMenu(element, show, top) {
-var target = document.getElementById(element.getAttribute('aria-controls'));
 
-if (target) {
-  element.setAttribute('aria-expanded', show);
-  target.setAttribute('aria-hidden', !show);
 
-  if (typeof top !== 'undefined') {
-    target.style.top = top + 'px';
+///
+function initNavigation(element) {
+
+  const menuButton = element.querySelector('.js-menu-button');
+  if (menuButton) {
+    menuButton.addEventListener('click', toggleMenu);
   }
 
-  if (show) {
-    target.focus();
-  }
-}
-}
+  function toggleMenu(e) {
+    e.preventDefault();
 
-/**
-Attaches event listeners for the menu toggle open and close click events.
-@param {HTMLElement} menuToggle The menu container element.
-*/
-function setupContextualMenu(menuToggle) {
-menuToggle.addEventListener('click', function (event) {
-  event.preventDefault();
-  var menuAlreadyOpen = menuToggle.getAttribute('aria-expanded') === 'true';
-
-  var top = menuToggle.offsetHeight;
-  // for inline elements leave some space between text and menu
-  if (window.getComputedStyle(menuToggle).display === 'inline') {
-    top += 5;
-  }
-
-  toggleMenu(menuToggle, !menuAlreadyOpen, top);
-});
-}
-
-/**
-Attaches event listeners for all the menu toggles in the document and
-listeners to handle close when clicking outside the menu or using ESC key.
-@param {String} contextualMenuToggleSelector The CSS selector matching menu toggle elements.
-*/
-function setupAllContextualMenus(contextualMenuToggleSelector) {
-// Setup all menu toggles on the page.
-var toggles = document.querySelectorAll(contextualMenuToggleSelector);
-
-for (var i = 0, l = toggles.length; i < l; i++) {
-  setupContextualMenu(toggles[i]);
-}
-
-// Add handler for clicking outside the menu.
-document.addEventListener('click', function (event) {
-  for (var i = 0, l = toggles.length; i < l; i++) {
-    var toggle = toggles[i];
-    var contextualMenu = document.getElementById(toggle.getAttribute('aria-controls'));
-    var clickOutside = !(toggle.contains(event.target) || contextualMenu.contains(event.target));
-
-    if (clickOutside) {
-      toggleMenu(toggle, false);
+    var navigation = e.target.closest('.p-navigation');
+    if (navigation.classList.contains('has-menu-open')) {
+      closeAll();
+    } else {
+      closeAll();
+      openMenu(e);
     }
   }
-});
 
-// Add handler for closing menus using ESC key.
-document.addEventListener('keydown', function (e) {
-  e = e || window.event;
+  function openMenu(e) {
+    e.preventDefault();
+    var navigation = e.target.closest('.p-navigation');
+    var nav = navigation.querySelector('.p-navigation__nav');
 
-  if (e.keyCode === 27) {
-    for (var i = 0, l = toggles.length; i < l; i++) {
-      toggleMenu(toggles[i], false);
+    var buttons = document.querySelectorAll('.js-menu-button');
+
+    buttons.forEach((searchButton) => {
+      searchButton.setAttribute('aria-pressed', true);
+    });
+
+    navigation.classList.add('has-menu-open');
+    document.addEventListener('keyup', keyPressHandler);
+  }
+
+  function closeMenu() {
+    var navigation = document.querySelector('.p-navigation');
+    var nav = navigation.querySelector('.p-navigation__nav');
+
+    var banner = document.querySelector('.p-navigation__banner');
+    var buttons = document.querySelectorAll('.js-menu-button');
+
+    buttons.forEach((searchButton) => {
+      searchButton.removeAttribute('aria-pressed');
+    });
+
+    navigation.classList.remove('has-menu-open');
+    document.removeEventListener('keyup', keyPressHandler);
+  }
+
+  function closeAll() {
+    closeMenu();
+  }
+
+  function keyPressHandler(e) {
+    if (e.key === 'Escape') {
+      closeAll();
     }
   }
-});
 }
 
-setupAllContextualMenus('.p-contextual-menu__toggle');
+var navigation = document.querySelector('#navigation');
+initNavigation(navigation);
 
+///
 
 
 let searchToggles = document.getElementsByClassName("p-navigation__link--search-toggle");
