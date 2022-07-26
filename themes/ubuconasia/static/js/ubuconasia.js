@@ -138,3 +138,62 @@ document.addEventListener('keydown', function (e) {
 }
 
 setupAllContextualMenus('.p-contextual-menu__toggle');
+
+
+
+let searchToggles = document.getElementsByClassName("p-navigation__link--search-toggle");
+for(let i = 0; i < searchToggles.length; i++) {
+  searchToggles[i].addEventListener("click", function (event) {
+      console.log("Search toggle clicked");
+      let target = document.getElementById("search");
+      if (target.style.display == "none") {
+          target.style.display = "block";
+          document.getElementById("searchinput").focus();
+      } else {
+          target.style.display = "none";
+      }
+    });
+}
+
+let fuse = undefined;
+
+async function initSearchIndex() {
+    let res = await fetch('/index.json');
+    let data = await res.json();
+    fuse = new Fuse(data, { // fuse.js options; check fuse.js website for details
+        shouldSort: true,
+        location: 0,
+        distance: 100,
+        threshold: 0.4,
+        minMatchCharLength: 2,
+        keys: [
+            'title',
+            'permalink',
+            'summary',
+            'contents'
+        ]
+    });
+}
+
+document.getElementById("searchinput").addEventListener("keydown", function (event) {
+  console.log(event.target.value);
+  if(!fuse){
+      initSearchIndex();
+  }
+  let result = fuse.search(event.target.value);
+  let resultTarget = document.getElementById("searchresults");
+  let resultHtml = "";
+  console.log(result)
+  for (let i = 0; i < result.length; i++) {
+      resultHtml += 
+      `<a href="${result[i].item.permalink}">
+      <li class="p-list__item">
+          <p>
+            <b>${result[i].item.title}</b><br/>
+            ${result[i].item.contents.substring(0, 100)}...
+          </p>
+          </li>
+      </a>`;
+  }
+  resultTarget.innerHTML = resultHtml;
+})

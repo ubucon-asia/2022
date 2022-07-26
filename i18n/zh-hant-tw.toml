@@ -44,3 +44,9 @@ other = "Session duration"
 other = "Details will be available later"
 [venue_sp]
 other = "Venue Sponsors"
+[search]
+other = "Search"
+[menu]
+other = "Menu"
+[close_menu]
+other = "Close menu"

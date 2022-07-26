@@ -74,3 +74,9 @@ other = "연사"
 other = "세션 시간"
 [details_later]
 other = "세부사항은 추후 공지됩니다."
+[search]
+other = "검색"
+[menu]
+other = "메뉴"
+[close_menu]
+other = "메뉴 닫기"

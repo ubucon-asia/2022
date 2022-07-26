@@ -74,3 +74,9 @@ other = "Pembicara"
 other = "Session duration"
 [details_later]
 other = "Details will be available later"
+[search]
+other = "Search"
+[menu]
+other = "Menu"
+[close_menu]
+other = "Close menu"
