@@ -16,6 +16,7 @@ description: 행사장으로 가는 길과 행사장 내부 안내 지도를 확
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=126.88793778419496%2C37.57848146226235%2C126.89147830009462%2C37.58033930167637&amp;layer=mapnik&amp;marker=37.57941038776403%2C126.88970804214478" style="border: 1px solid black"></iframe>
 
 # 행사장 내부
+> 건물 내부 안내도 이미지 출처: https://nuri.nipa.kr/rt/
 
 ![Business Tower 3F Map](./business_tower_3f.png)
 ### 비즈니스 타워 3층

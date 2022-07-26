@@ -17,6 +17,7 @@ description: Learn how to get to the venue and what's inside
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=126.88793778419496%2C37.57848146226235%2C126.89147830009462%2C37.58033930167637&amp;layer=mapnik&amp;marker=37.57941038776403%2C126.88970804214478" style="border: 1px solid black"></iframe>
 
 # Inside the venue
+> Indoor map images source: https://nuri.nipa.kr/rt/
 
 ![Business Tower 3F Map](./business_tower_3f.png)
 ### Business Tower 3F
