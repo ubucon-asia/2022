@@ -34,7 +34,7 @@ title: "About UbuCon Asia 2022"
 {{<profile
     profile="https://avatars.githubusercontent.com/u/553900?v=4"
     heading="Sangkon Han" bold="Ubuntu Korea Community"
-    desc="Local team" >}}
+    desc="Local team | Contents" >}}
 
 {{<profile
     profile="giyeon_bang.jpg"
@@ -44,7 +44,7 @@ title: "About UbuCon Asia 2022"
 {{<profile
     profile="https://avatars.githubusercontent.com/u/47443508?v=4"
     heading="Joowon Jung" bold="Ubuntu Korea Community"
-    desc="Local team" >}}
+    desc="Local team | Web and video" >}}
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/52643858?v=4"
