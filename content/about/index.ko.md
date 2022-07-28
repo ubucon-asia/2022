@@ -68,7 +68,7 @@ title: "About UbuCon Asia 2022"
 
 {{<profile
     profile="/images/ubuCon_logo_or_square.png"
-    heading="Burgess Chang" bold="Ubuntu Kylin"
+    heading="Burgess Chang" bold="KDE Network China"
     desc="Global team" >}}
 
 {{<profile
