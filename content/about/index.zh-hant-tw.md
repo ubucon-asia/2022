@@ -71,7 +71,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
 
 {{<profile
     profile="/images/uca22logo_orange.svg"
-    heading="Burgess Chang" bold="Ubuntu Kylin"
+    heading="Burgess Chang" bold="KDE Network China"
     desc="Global team" >}}
 
 {{<profile
