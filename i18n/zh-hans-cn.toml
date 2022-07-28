@@ -1,0 +1,38 @@
+[learn_more]
+other = "了解更多"
+[featured] 
+other = "特色会议"
+[all_sessions] 
+other = "所有会议"
+[more_sessions]
+other = "会议细节"
+[sponsors] 
+other = "赞助商"
+[become_sponsor]
+other = "注册成为赞助商"
+[more_sponsors]
+other = "关于赞助商"
+[about]
+other = "关于 Ubucon Asia"
+[news]
+other = "新闻"
+[sessions]
+other = "会议"
+[ical_add]
+other = "订阅日历（ics 文件）"
+[ical_subscribe]
+other = "订阅日历 (webcal)"
+[ical]
+other = "会议日程表"
+[session_duration]
+other = "会议时长"
+[details_later]
+other = "详情将在稍后公布"
+[venue_sp]
+other = "场馆赞助商"
+[search]
+other = "搜索"
+[menu]
+other = "菜单"
+[close_menu]
+other = "关闭菜单"
