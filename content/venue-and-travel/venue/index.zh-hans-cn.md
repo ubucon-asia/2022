@@ -3,9 +3,9 @@ title: "场馆介绍"
 description: 了解场馆的具体位置
 ---
 
-# Nuritkum 广场 (Nuri Dream 广场)
+# Nuritkum Square (Nuri Dream Square)
 
-- Nuritkum 广场 - Business Tower 3 楼和 4 楼
+- Nuritkum Square - Business Tower 3 楼和 4 楼
 - 地址: 396, World Cup buk-ro, Mapo-gu, Seoul, Republic of Korea
 - 地址（韩语格式）: 서울특별시 마포구 월드컵북로 396 (상암동, 누리꿈스퀘어)
 

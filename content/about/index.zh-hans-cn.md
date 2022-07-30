@@ -6,15 +6,15 @@ UbuCon Asia 是一个由位于亚洲的 Ubuntu 社区组织的活动。
 为参与 Ubuntu、Linux 和其他自由和开放源码技术感兴趣的伙伴而生。
 这是一个让亚洲的 Ubuntu 人互相交流、学习和分享知识的地方。
 
-UbuCon Asia 2022 将是第一次线下的 UbuCon Asia 活动，我们将在韩国首尔的 Nuritkum 广场等待您。
+UbuCon Asia 2022 将是第一次线下的 UbuCon Asia 活动，我们将在韩国首尔的 Nuritkum Square 等待您。
 
 ## 行为准则
 
-为了给每个参与者提供安全的环境，我们修改了UbuCon亚洲的行为准则和Ubuntu行为准则。
-两者都适用于参加UbuCon亚洲活动的任何人。在参加活动之前，请务必仔细阅读这两份行为准则。
+为了给每个参与者提供安全的环境，我们修改了 UbuCon Asia 的行为准则和 Ubuntu 行为准则。
+两者都适用于参加 UbuCon Asia 活动的任何人。在参加活动之前，请务必仔细阅读这两份行为准则。
 违反行为准则可能会产生限制行为或在必要时被驱逐出活动。
-- [UbuCon亚洲行为准则](https://github.com/ubucon-asia/CodeOfConduct/blob/main/UbuconAsiaCodeOfConduct.md)
-- [Ubuntu行为准则2.0](https://ubuntu.com/community/code-of-conduct)
+- [UbuCon Asia 行为准则](https://github.com/ubucon-asia/CodeOfConduct/blob/main/UbuconAsiaCodeOfConduct.md)
+- [Ubuntu 行为准则2.0](https://ubuntu.com/community/code-of-conduct)
 
 ## 组织团队
 
