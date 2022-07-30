@@ -18,7 +18,7 @@ description: 행사장으로 가는 길과 행사장 내부 안내 지도를 확
 # 행사장 내부
 > 건물 내부 안내도 이미지 출처: https://nuri.nipa.kr/rt/
 
-![Business Tower 3F Map](./business_tower_3f.png)
+![비즈니스 타워 3층 지도](./business_tower_3f.png)
 ### 비즈니스 타워 3층
 - (1) 로비 & 등록데스크
 - (2) 국제회의실 - 기조연설 및 강연
@@ -27,7 +27,7 @@ description: 행사장으로 가는 길과 행사장 내부 안내 지도를 확
 - (4) 중회의실1 - 후원사 전시부스
 - (T) 화장실
 
-![Business Tower 3F Map](./business_tower_4f.png)
+![비즈니스 타워 4층 지도](./business_tower_4f.png)
 ### 비즈니스 타워 4층
 - (1) 대회의실 - 워크샵 및 강연
 - (T) 화장실

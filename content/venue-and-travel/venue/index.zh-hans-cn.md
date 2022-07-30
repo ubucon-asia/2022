@@ -29,7 +29,7 @@ description: 了解场馆的具体位置
 - (4) 中型会议厅1--用于赞助商展位
 - (T) 厕所
 
-![Business Tower 3楼地图](./business_tower_4f.png)
+![Business Tower 4楼地图](./business_tower_4f.png)
 ### Business Tower 4楼
 - (1) 大型会议室 - 用于研讨会和讲座(演讲)
 - (T) 厕所

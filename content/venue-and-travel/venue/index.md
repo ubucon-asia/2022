@@ -28,7 +28,7 @@ description: Learn how to get to the venue and what's inside
 - (4) Midsize Conference Room 1 - For Sponsor Exhibition Boothes
 - (T) Toilets
 
-![Business Tower 3F Map](./business_tower_4f.png)
+![Business Tower 4F Map](./business_tower_4f.png)
 ### Business Tower 4F
 - (1) Large Conference Room - For Workshops and Talks(Lectures)
 - (T) Toilets
