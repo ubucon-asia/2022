@@ -304,13 +304,13 @@ languages:
           url: https://wiki.ubuntu.com/UbuconAsia/2022
           weight: 6
   zh-hans-cn:
-    language-name: 简体中文（中国大陆）
+    languageName: 简体中文（中国大陆）
     title: UbuCon Asia 2022
     weight: 3
     params:
       description: >-
         首次在韩国举行的 Ubuntu 亚洲峰会。
-      period: 2022 年 11 月 26 至 27 日  | 韩国，首尔市，Nuritkum 广场
+      period: 2022 年 11 月 26 至 27 日  | 韩国，首尔市，Nuritkum Square
     menu:
       main:
         - identifier: about
