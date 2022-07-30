@@ -33,7 +33,7 @@
           <h3>{{.Title}}</h3>
         </a>
         <b>{{.Date.Format "2006-01-02"}}</b><br />
-        <span>{{slicestr .Summary 0 100}}</span><br />
+        <span>{{if ge (len .Summary) 100}} {{slicestr .Summary 0 100}} {{else}} {{.Summary}} {{end}}</span><br />
       </div>
       {{ end }}
     </div>
