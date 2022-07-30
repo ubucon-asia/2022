@@ -22,4 +22,4 @@ authors:
 
 更多细节将在本网站和社交媒体上公布。敬请关注，首尔见!
 
-[Nuritkum Square 的场地实拍](venue2.jpg)
+![Nuritkum Square 的场地实拍](venue2.jpg)
