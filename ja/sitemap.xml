@@ -25,6 +25,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hans-cn"
+                href="https://2022.ubucon.asia/zh-hans-cn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2022.ubucon.asia/ja/about/"
                 />
@@ -49,6 +54,11 @@
                 rel="alternate"
                 hreflang="zh-hant-tw"
                 href="https://2022.ubucon.asia/zh-hant-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans-cn"
+                href="https://2022.ubucon.asia/zh-hans-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -79,6 +89,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hans-cn"
+                href="https://2022.ubucon.asia/zh-hans-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2022.ubucon.asia/ja/tags/"
                 />
@@ -103,6 +118,11 @@
                 rel="alternate"
                 hreflang="zh-hant-tw"
                 href="https://2022.ubucon.asia/zh-hant-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans-cn"
+                href="https://2022.ubucon.asia/zh-hans-cn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -133,6 +153,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hans-cn"
+                href="https://2022.ubucon.asia/zh-hans-cn/sponsors/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2022.ubucon.asia/ja/sponsors/"
                 />
@@ -160,6 +185,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-hans-cn"
+                href="https://2022.ubucon.asia/zh-hans-cn/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://2022.ubucon.asia/ja/sessions/"
                 />
@@ -184,6 +214,11 @@
                 rel="alternate"
                 hreflang="zh-hant-tw"
                 href="https://2022.ubucon.asia/zh-hant-tw/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans-cn"
+                href="https://2022.ubucon.asia/zh-hans-cn/news/"
                 />
     <xhtml:link
                 rel="alternate"
