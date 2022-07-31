@@ -53,7 +53,7 @@ description: 행사장으로 가는 길과 행사장 내부 안내 지도를 확
 
 ### 대중교통
 
-- 터미널1과 터미널2 양쪽 모두 공항철도 역이 있습니다. [**(인천공항1터미널 / A10)**](https://www.arex.or.kr/station/info.do?stnCd=100&menuNo=MN201503300000000014&langCd=ko_KR&device=Normal) 및 [**(인천공항2터미널 / A11).**](https://www.arex.or.kr/station/info.do?stnCd=110&menuNo=MN201801130000000001&langCd=ko_KR&device=Normal)역이며, 탑승하신 후 [**디지털미디어시티 (A04)**](https://www.arex.or.kr/station/info.do?stnCd=040&menuNo=MN201503300000000023&langCd=ko_KR&device=Normal)역에서 하차 하시면 됩니다.
+- 터미널1과 터미널2 양쪽 모두 공항철도 역이 있습니다. [**인천공항1터미널 (A10)**](https://www.arex.or.kr/station/info.do?stnCd=100&menuNo=MN201503300000000014&langCd=ko_KR&device=Normal) 및 [**인천공항2터미널 (A11)**](https://www.arex.or.kr/station/info.do?stnCd=110&menuNo=MN201801130000000001&langCd=ko_KR&device=Normal)역이며, 탑승하신 후 [**디지털미디어시티 (A04)**](https://www.arex.or.kr/station/info.do?stnCd=040&menuNo=MN201503300000000023&langCd=ko_KR&device=Normal)역에서 하차 하시면 됩니다.
 - 하차 후, 디지털미디어시티역 **2번 출구**로 나가세요. 길 건너편에 **디지털미디어시티역2번출구** 버스 정류장이 있습니다. **6715번, 7730번, 7711번 또는 771번 버스**를 탑승 하셔서, **누리꿈스퀘어.MBC** 버스 정류장에서 하차 하시면, 바로 앞에 행사장 건물이 있습니다.
 
 {{< button text="인천공항 1터미널에서 행사장 가는 길 (Google Maps)" href="https://goo.gl/maps/WHwTGpUgXoVkrYpD8" icon="external-link" >}}
