@@ -1,5 +1,5 @@
 ---
-title: "About UbuCon Asia 2022"
+title: "UbuCon Asia 2022 소개"
 ---
 
 우부콘 아시아(UbuCon Asia)는 아시아 지역의 우분투(Ubuntu) 커뮤니티가 조직한 행사입니다. 
