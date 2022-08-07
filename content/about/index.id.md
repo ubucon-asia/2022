@@ -67,17 +67,17 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1658742?v=4"
     heading="Hong Phuc Dang" bold="FOSSASIA"
-    desc="Global team" >}}
+    desc="Global team | Content, Sponsorship and Finances" >}}
 
 {{<profile
     profile="/images/uca22logo_orange.svg"
     heading="Burgess Chang" bold="KDE Network China"
-    desc="Global team" >}}
+    desc="Global team | Web and Video" >}}
 
 {{<profile
     profile="/images/uca22logo_orange.svg"
     heading="Ravi Bhattarai" bold="FOSS Nepal"
-    desc="Global team" >}}
+    desc="Global team | General" >}}
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/405473?v=4"
@@ -87,7 +87,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1537173?v=4"
     heading="Masafumi Ohta" bold="Raspberry Pi Japan"
-    desc="Global team" >}}
+    desc="Global team | Content, Travel support, Marketing" >}}
 
 {{<profile
     profile="/images/uca22logo_orange.svg"
@@ -97,7 +97,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
 {{<profile
     profile="/images/uca22logo_orange.svg"
     heading="Robbi Nespu" bold="Debian Malaysia"
-    desc="Global team" >}}
+    desc="Global team | Sponsorship and Finances" >}}
 
 {{<profile
     profile="/images/uca22logo_orange.svg"

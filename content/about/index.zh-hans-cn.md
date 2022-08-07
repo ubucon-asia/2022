@@ -69,17 +69,17 @@ UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1658742?v=4"
     heading="Hong Phuc Dang" bold="FOSSASIA"
-    desc="Global team" >}}
+    desc="Global team | Content, Sponsorship and Finances" >}}
 
 {{<profile
-    profile="/images/ubuCon_logo_or_square.png"
+    profile="/images/uca22logo_orange.svg"
     heading="Burgess Chang" bold="KDE Network China"
-    desc="Global team" >}}
+    desc="Global team | Web and Video" >}}
 
 {{<profile
-    profile="/images/ubuCon_logo_or_square.png"
+    profile="/images/uca22logo_orange.svg"
     heading="Ravi Bhattarai" bold="FOSS Nepal"
-    desc="Global team" >}}
+    desc="Global team | General" >}}
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/405473?v=4"
@@ -89,19 +89,19 @@ UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1537173?v=4"
     heading="Masafumi Ohta" bold="Raspberry Pi Japan"
-    desc="Global team" >}}
+    desc="Global team | Content, Travel support, Marketing" >}}
 
 {{<profile
-    profile="/images/ubuCon_logo_or_square.png"
+    profile="/images/uca22logo_orange.svg"
     heading="Rudra B. Saraswat" bold="Ubuntu Unity"
     desc="Global team" >}}
 
 {{<profile
-    profile="/images/ubuCon_logo_or_square.png"
+    profile="/images/uca22logo_orange.svg"
     heading="Robbi Nespu" bold="Debian Malaysia"
-    desc="Global team" >}}
+    desc="Global team | Sponsorship and Finances" >}}
 
 {{<profile
-    profile="/images/ubuCon_logo_or_square.png"
-    heading="Syazwan" bold="Ubuntu Malaysia"
+    profile="/images/uca22logo_orange.svg"
+    heading="Muhd Syazwan" bold="Ubuntu Malaysia"
     desc="Global team" >}}
