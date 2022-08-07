@@ -35,6 +35,11 @@ languages:
           name: 프로그램
           url: programs
           weight: 3
+        - identifier: call-for-proposals
+          parent: programs-group
+          name: 발표 제안
+          url: call-for-proposals
+          weight: 3
         - identifier: sessions
           parent: programs-group
           name: 세션
@@ -93,6 +98,11 @@ languages:
         - identifier: programs-group
           name: Programs
           url: programs
+          weight: 3
+        - identifier: call-for-proposals
+          parent: programs-group
+          name: Call for proposals
+          url: call-for-proposals
           weight: 3
         - identifier: sessions
           parent: programs-group
@@ -153,6 +163,11 @@ languages:
           name: Program
           url: programs
           weight: 3
+        - identifier: call-for-proposals
+          parent: programs-group
+          name: Call for proposals
+          url: call-for-proposals
+          weight: 3
         - identifier: sessions
           parent: programs-group
           name: Sesi
@@ -211,6 +226,11 @@ languages:
         - identifier: programs-group
           name: Programs
           url: programs
+          weight: 3
+        - identifier: call-for-proposals
+          parent: programs-group
+          name: Call for proposals
+          url: call-for-proposals
           weight: 3
         - identifier: sessions
           parent: programs-group
@@ -271,6 +291,11 @@ languages:
           name: Programs
           url: programs
           weight: 3
+        - identifier: call-for-proposals
+          parent: programs-group
+          name: Call for proposals
+          url: call-for-proposals
+          weight: 3
         - identifier: sessions
           parent: programs-group
           name: Sessions
@@ -329,6 +354,11 @@ languages:
         - identifier: programs-group
           name: 会议
           url: programs
+          weight: 3
+        - identifier: call-for-proposals
+          parent: programs-group
+          name: Call for proposals
+          url: call-for-proposals
           weight: 3
         - identifier: sessions
           parent: programs-group
