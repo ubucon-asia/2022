@@ -72,7 +72,7 @@ title: "UbuCon Asia 2022 소개"
     desc="Global team | Web and Video" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="ravi_bhattarai.jpg"
     heading="Ravi Bhattarai" bold="FOSS Nepal"
     desc="Global team | General" >}}
 

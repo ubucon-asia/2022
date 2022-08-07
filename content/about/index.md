@@ -75,7 +75,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
     desc="Global team | Web and Video" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="ravi_bhattarai.jpg"
     heading="Ravi Bhattarai" bold="FOSS Nepal"
     desc="Global team | General" >}}
 

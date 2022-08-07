@@ -77,7 +77,7 @@ UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
     desc="Global team | Web and Video" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="ravi_bhattarai.jpg"
     heading="Ravi Bhattarai" bold="FOSS Nepal"
     desc="Global team | General" >}}
 
