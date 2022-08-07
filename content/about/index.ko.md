@@ -87,7 +87,7 @@ title: "UbuCon Asia 2022 소개"
     desc="Global team | Content, Travel support, Marketing" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="rudra_saraswat.jpg"
     heading="Rudra B. Saraswat" bold="Ubuntu Unity"
     desc="Global team" >}}
 

@@ -92,7 +92,7 @@ UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
     desc="Global team | Content, Travel support, Marketing" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="rudra_saraswat.jpg"
     heading="Rudra B. Saraswat" bold="Ubuntu Unity"
     desc="Global team" >}}
 
