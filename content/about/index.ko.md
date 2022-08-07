@@ -32,7 +32,7 @@ title: "UbuCon Asia 2022 소개"
     desc="Local team | Sponsorship and Finances" >}}
 
 {{<profile
-    profile="https://avatars.githubusercontent.com/u/553900?v=4"
+    profile="sangkon_han.jpg"
     heading="Sangkon Han" bold="Ubuntu Korea Community"
     desc="Local team | Contents" >}}
 

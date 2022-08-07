@@ -37,7 +37,7 @@ UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
     desc="Local team | Sponsorship and Finances" >}}
 
 {{<profile
-    profile="https://avatars.githubusercontent.com/u/553900?v=4"
+    profile="sangkon_han.jpg"
     heading="Sangkon Han" bold="Ubuntu Korea Community"
     desc="Local team | Contents" >}}
 
