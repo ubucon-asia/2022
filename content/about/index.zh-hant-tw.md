@@ -70,7 +70,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
     desc="Global team | Content, Sponsorship and Finances" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="burgess_chang.jpg"
     heading="Burgess Chang" bold="KDE Network China"
     desc="Global team | Web and Video" >}}
 
