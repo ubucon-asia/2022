@@ -2,16 +2,14 @@
 title: "Become a sponsor"
 photo: "placeholder.png"
 group: bronze
-website: "https://ubucon-asia.github.io/2021/"
-brochure: UbuConAsia2021_Sponsorship_Brochure.pdf 
+website: "https://ubucon-asia.github.io/2022/"
+# brochure: UbuConAsia2021_Sponsorship_Brochure.pdf 
 ---
-Thank you for your interest in Ubuntu and Ubucon Asia.  
-As a non-profit and community organized event, Even Ubucon Asia 2021 is fully virtual event,
-We still need support from sponsors to make the event happen.
+Thank you for your interest in Ubuntu and Ubucon Asia. UbuCon Asia is organized solely by group of volunteers without any financial compensation. 
 
-By becoming one of our sponsors, you are directly contributing to research and development of Ubuntu and Open Source Software, and also making Open Source Community more active and sustainable.
+Your contribution on our event makes it possible for us to bring together large number of diverse people from Ubuntu community. Sponsoring our event is also a good way to show your sincere support on Ubuntu community.
 
-Your contribution makes it possible for us to bring a large number of Ubuntu users and contributors across Asia to connect, interact, help and learn together. It will also grow not just the global Ubuntu communities but also Ubuntu local communities around Asia.
+Our sponsorship package offerings can help your company to empower branding within international audiences, promote your company or services, interact our participants and potentially recruit new developers or engineers for your company.
 
 To learn more about our sponsorship program, please refer to our sponsorship brochure.
 To become one of our sponsors, contact sponsorship team. sponsorship@ubucon.asia

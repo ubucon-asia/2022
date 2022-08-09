@@ -3,18 +3,16 @@ title: "Menjadi Sponsor"
 photo: "placeholder.png"
 group: bronze
 website: "https://ubucon-asia.github.io/2021/"
-brochure: UbuConAsia2021_Sponsorship_Brochure.pdf 
+# brochure: UbuConAsia2021_Sponsorship_Brochure.pdf 
 ---
-Terima kasih atas minat Anda pada Ubuntu dan Ubucon Asia.
-Sebagai acara nirlaba dan organisasi komunitas, Acara Ubucon Asia 2021 sepenuhnya merupakan acara virtual,
-Kami masih membutuhkan dukungan dari sponsor untuk mewujudkan acara tersebut.
+Thank you for your interest in Ubuntu and Ubucon Asia. UbuCon Asia is organized solely by group of volunteers without any financial compensation. 
 
-Dengan menjadi salah satu sponsor kami, Anda berkontribusi langsung pada penelitian dan pengembangan Ubuntu dan Perangkat Lunak Sumber Terbuka, dan juga membuat Komunitas Sumber Terbuka lebih aktif dan berkelanjutan.
+Your contribution on our event makes it possible for us to bring together large number of diverse people from Ubuntu community. Sponsoring our event is also a good way to show your sincere support on Ubuntu community.
 
-Kontribusi Anda memungkinkan kami untuk membawa banyak pengguna Ubuntu dan kontributor di seluruh Asia untuk terhubung, berinteraksi, membantu dan belajar bersama. Ini juga akan menumbuhkan tidak hanya komunitas Ubuntu global tetapi juga komunitas lokal Ubuntu di seluruh Asia.
+Our sponsorship package offerings can help your company to empower branding within international audiences, promote your company or services, interact our participants and potentially recruit new developers or engineers for your company.
 
-Untuk mempelajari lebih lanjut tentang program sponsor kami, silakan lihat brosur sponsor kami.
-Untuk menjadi salah satu sponsor kami, hubungi tim sponsor. sponsorship@ubucon.asia
+To learn more about our sponsorship program, please refer to our sponsorship brochure.
+To become one of our sponsors, contact sponsorship team. sponsorship@ubucon.asia
 
 ## Langkah-langkah untuk menjadi sponsor kami
 1. Silakan baca dan tinjau brosur sponsor di bawah ini.
