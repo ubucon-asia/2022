@@ -1,6 +1,6 @@
 [![Deploy Website](https://github.com/ubucon-asia/2021/workflows/Deploy%20Website/badge.svg)](https://github.com/ubucon-asia/2021/actions?query=workflow%3A%22Deploy+Website%22)
-# 2021
-Ubucon Asia 2021 Website
+# 2022
+Ubucon Asia 2022 Website
 Built with [Hugo](https://gohugo.io) and [Vanilla framework](https://vanillaframework.io/)
 
 # Adding contents
@@ -25,8 +25,8 @@ hugo new --kind sponsors sponsors/canonical-ltd/index.md
 
 # Create news content
 hugo new --kind news news/YYYY-MM-DD-post-title/index.md
-# Example: Create news content with title "Welcome to Ubucon Asia" and date "2021-02-04"
-hugo new --kind news news/2021-02-04-welcome-to-ubucon-asia/index.md
+# Example: Create news content with title "Welcome to Ubucon Asia" and date "2022-02-04"
+hugo new --kind news news/2022-02-04-welcome-to-ubucon-asia/index.md
 ```
 
 After that, You will find generated markdown file under `content` directory. Edit the markdown file to add details.
@@ -41,12 +41,12 @@ After adding language in `config.yml` you will be able to see your new language 
 languages:
   ko: # Language code
     languageName: 한국어 # Language name
-    title: 우부콘 아시아 2021 # Site title
+    title: 우부콘 아시아 2022 # Site title
     weight: 2
     params:
       description: >-
-        아시아에 있는 다양한 우분투 지역 커뮤니티에서 준비한 첫 우분투 아시아 컨퍼런스. # Site description
-      period: 2021년 3~4분기 중 개최 예정. # description for event period
+       한국에서 열리는 첫 오프라인 우분투 아시아 컨퍼런스. # Site description
+      period: 2022년 11월 26일 ~ 27일 | 서울 상암동 누리꿈스퀘어 # description for event period
     menu:
       main: # site navigation fields
         - identifier: about
@@ -87,7 +87,7 @@ other = "더 알아보기"
 
 Most markdown files are name `index.md` or `_index.md`. To translate, Make a copy of markdown file on same path. with the filename `index.<lang-code>.md` or `_index.<lang-code>.md` (e.g. `index.ko.md` or `_index.ko.md`). Then, translate the copied file.
 
-Ubucon Asia 2021 website uses hugo's i18n feature to support localization. To learn more, please refer to ["Multilingual Mode"](https://gohugo.io/content-management/multilingual/)
+Ubucon Asia 2022 website uses hugo's i18n feature to support localization. To learn more, please refer to ["Multilingual Mode"](https://gohugo.io/content-management/multilingual/)
 
 # License
 Code: MIT, Contents: CC BY 4.0
