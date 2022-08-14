@@ -28,6 +28,8 @@ other = "会议日程表"
 other = "会议时长"
 [details_later]
 other = "详情将在稍后公布"
+[dinner_sp]
+other = "Conference Dinner Sponsor"
 [venue_sp]
 other = "场馆赞助商"
 [search]

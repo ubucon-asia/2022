@@ -12,6 +12,16 @@
         {{ $pages = $pages | lang.Merge .Site.Pages }}
         {{ end }}
         
+        <h3>{{ i18n "venue_sp" }}</h3>
+        {{ range where $pages "Params.group" "venue" }}
+        <div class="p-card col-3">
+          <a href="{{ .RelPermalink }}">
+          <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
+          <h4>{{.Title}}</h4>
+          </a>
+        </div>
+        {{ end }}
+
         <h3>{{ i18n "diamond_sp" }}</h3>
         {{ range where $pages "Params.group" "diamond" }}
         <div class="p-card col-3">
@@ -52,8 +62,8 @@
         </div>
         {{ end }}
 
-        <h3>{{ i18n "supporter_sp" }}</h3>
-        {{ range where $pages "Params.group" "supporter" }}
+        <h3>{{ i18n "dinner_sp" }}</h3>
+        {{ range where $pages "Params.group" "dinner" }}
         <div class="p-card col-3">
           <a href="{{ .RelPermalink }}">
           <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
@@ -62,8 +72,8 @@
         </div>
         {{ end }}
 
-        <h3>{{ i18n "infra_sp" }}</h3>
-        {{ range where $pages "Params.group" "infra" }}
+        <h3>{{ i18n "supporter_sp" }}</h3>
+        {{ range where $pages "Params.group" "supporter" }}
         <div class="p-card col-3">
           <a href="{{ .RelPermalink }}">
           <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>

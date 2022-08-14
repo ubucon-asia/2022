@@ -75,6 +75,19 @@
     <div class="row">
       <h2>{{ i18n "sponsors" }}</h2>
 
+      <h3>{{ i18n "venue_sp" }}</h3>
+        <div class="p-logo-section">
+          <div class="p-logo-section__items">
+        {{ range where $allPages "Params.group" "venue" }}
+        <div class="p-logo-section__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-logo-section__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </div>
+        {{ end }}
+        </div>
+        </div>
+
       <h3>{{ i18n "diamond_sp" }}</h3>
         <div class="p-logo-section">
           <div class="p-logo-section__items">
@@ -118,6 +131,19 @@
         <div class="p-logo-section">
           <div class="p-logo-section__items">
         {{ range where $allPages "Params.group" "bronze" }}
+        <div class="p-logo-section__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-logo-section__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </div>
+        {{ end }}
+        </div>
+        </div>
+
+        <h3>{{ i18n "dinner_sp" }}</h3>
+        <div class="p-logo-section">
+          <div class="p-logo-section__items">
+        {{ range where $allPages "Params.group" "dinner" }}
         <div class="p-logo-section__item">
           <a href="{{ .RelPermalink }}">
             <img class="p-logo-section__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
