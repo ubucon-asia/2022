@@ -32,7 +32,7 @@ def render_preview_image(bg_img_path, logo_img_path, title, output_path):
             "enable-local-file-access": "",
         })
 
-executor = ThreadPoolExecutor(max_workers=10)
+executor = ThreadPoolExecutor(max_workers=20)
 tasks = list()
 file_list = glob.glob("../public/**/*.html", recursive=True)
 print(f"{len(file_list)} images to generate...")
