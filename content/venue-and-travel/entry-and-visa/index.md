@@ -12,7 +12,7 @@ But you still need to K-ETA before departing from your country. Once you issue K
 {{< button text="Check K-ETA application result (k-eta.go.kr)" href="https://www.k-eta.go.kr/portal/apply/viewapplysearch.do?locale=EN" icon="external-link" >}}
 
 Due to COVID-19 and other infectious disease and changes on international circumstances, List of K-ETA eligible countries (or region) may change.
-Please also check their notice board for updates on eligibilities before submitting application.
+Please also check their [notice board](https://www.k-eta.go.kr/portal/board/viewboardlist.do?tmpltNm=notice&locale=EN) for updates on eligibilities before submitting application.
 
 # Visa
 
@@ -39,6 +39,9 @@ Quarantine is not currently required for anyone who visits Republic of Korea for
 - **COVID-19 RAT (Rapid Antigen Test)** test result document with result **"Negative (No infection)"** and test conducted **by professionals(medical institution or health authorities) within 24 hours from 0 O'clock of departure date.**
 
 If you don't bring valid COVID-19 test result document, You won't be able to depart from your country.
+
+{{< button text="Quarantine for Each Target Person" href="https://cov19ent.kdca.go.kr/cpassportal/biz/beffatstmnt/QuarantineMeasuresByType.do" icon="external-link" >}}
+{{< button text="Qurantine policy for people arrived from overseas(Korean)" href="https://ncv.kdca.go.kr/menu.es?mid=a30901000000" icon="external-link" >}}
 
 ## After arrival
 - You will write and submit quarintine information. It is recommended to enter your quarintine information on Q-CODE online before departure to pass the inspection process much faster. 
