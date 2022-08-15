@@ -31,7 +31,7 @@ languages:
           name: 행사장
           url: venue-and-travel/venue
           weight: 2
-        - identifier: venue
+        - identifier: entry-and-visa
           parent: venue-travel-group
           name: 입국요건과 비자
           url: venue-and-travel/entry-and-visa
@@ -100,7 +100,7 @@ languages:
           name: Venue
           url: venue-and-travel/venue
           weight: 2
-        - identifier: venue
+        - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
@@ -169,7 +169,7 @@ languages:
           name: Venue
           url: venue-and-travel/venue
           weight: 2
-        - identifier: venue
+        - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
@@ -238,7 +238,7 @@ languages:
           name: Venue
           url: venue-and-travel/venue
           weight: 2
-        - identifier: venue
+        - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
@@ -307,7 +307,7 @@ languages:
           name: Venue
           url: venue-and-travel/venue
           weight: 2
-        - identifier: venue
+        - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
@@ -376,7 +376,7 @@ languages:
           name: 场馆介绍
           url: venue-and-travel/venue
           weight: 2
-        - identifier: venue
+        - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
