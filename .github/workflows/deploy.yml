@@ -50,7 +50,8 @@ jobs:
             --baseURL ${{ steps.pages.outputs.base_url }}
       - name: Generate social image
         run: |
-          cd og_image_generator
+          cd og_img_generator
+          sudo apt update
           sudo apt install -y wkhtmltopdf
           pip install -r requirements.txt
           python main.py
