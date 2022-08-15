@@ -11,7 +11,7 @@ K-ETA(전자여행허가) 신청이 가능한 경우, 비자 없이 단기간(�
 {{< button text="K-ETA 신청 (k-eta.go.kr)" href="https://www.k-eta.go.kr/portal/apply/viewstep1.do?locale=EN" icon="external-link" >}}
 {{< button text="K-ETA 결과 조회 (k-eta.go.kr)" href="https://www.k-eta.go.kr/portal/apply/viewapplysearch.do?locale=EN" icon="external-link" >}}
 
-코로나19 등 감염병과 국제정세 변화 등으로, K-ETA 신청 가능한 국가(또는 지역) 목록비 변경될 수 있습니다.
+코로나19 등 감염병과 국제정세 변화 등으로, K-ETA 신청 가능한 국가(또는 지역)이 변경될 수 있습니다.
 신청 하시기 전, K-ETA 웹사이트의 [공지사항](https://www.k-eta.go.kr/portal/board/viewboardlist.do?tmpltNm=notice)도 확인 해 보시기 바랍니다.
 
 # 비자(사증)
