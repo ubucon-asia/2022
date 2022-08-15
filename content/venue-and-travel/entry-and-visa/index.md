@@ -5,7 +5,7 @@ description: Things you will need to check and prepare when visiting Korea
 
 # K-ETA
 If you are eligible for K-ETA (Korea Electric Travel Authorization). You can visit Republic of Korea for short period (usually up to 90 days) without visa.   
-But you still need to K-ETA before departing from your country. Once you issue K-ETA, You can use it for 2 years for visiting Korea. We recommend you to submit application at least 72 hours before departure since it takes up to 72 hours to process and issue.
+But you still need to issue K-ETA before departing from your country. Once you issue K-ETA, You can use it for 2 years for visiting Korea. We recommend you to submit application at least 72 hours before departure since it takes up to 72 hours to process and issue.
 
 {{< button text="Check if you are eligible for K-ETA (k-eta.go.kr)" href="https://www.k-eta.go.kr/portal/guide/viewetaalification.do?locale=EN" icon="external-link" >}}
 {{< button text="Apply for K-ETA (k-eta.go.kr)" href="https://www.k-eta.go.kr/portal/apply/viewstep1.do?locale=EN" icon="external-link" >}}
