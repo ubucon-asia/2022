@@ -4,7 +4,7 @@
 let fuse = undefined;
 
 async function initSearchIndex() {
-    let res = await fetch('{{ .Site.LanguagePrefix | relURL }}/index.json');
+    let res = await fetch('{{ if ne (.Site.LanguagePrefix | relURL) "/" }}{{ .Site.LanguagePrefix | relURL }}{{ end }}/index.json');
     let data = await res.json();
     fuse = new Fuse(data, { // fuse.js options; check fuse.js website for details
         shouldSort: true,
