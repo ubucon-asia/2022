@@ -5,7 +5,7 @@ description: 대한민국을 방문하시기 앞서 준비하셔야 할 사항�
 
 # K-ETA
 K-ETA(전자여행허가) 신청이 가능한 경우, 비자 없이 단기간(보통 최대 90일) 대한민국을 방문하실 수 있습니다. 
-하지만 출국하시기 전 K-ETA 발급이 여전히 필요합니다. K-ETA는 한번 발급하면 2년간 대한민국 입국에 사용하실 수 있습니다. K-ETA 발급은 처리 및 발급에 최대 72시간이 걸리므로, 출국 72시간 전에 미리 신청 하시는 것을 권장 합니다.
+하지만 출국하시기 전 K-ETA 발급이 여전히 필요합니다. K-ETA는 한번 발급하면 2년간 대한민국 입국에 사용하실 수 있습니다. K-ETA 발급은 처리 및 발급에 최대 72시간이 걸리므로, 적어도 출국 72시간 전에는 신청 하셔야 합니다.
 
 {{< button text="K-ETA 신청 자격 안내 (k-eta.go.kr)" href="https://www.k-eta.go.kr/portal/guide/viewetaalification.do?locale=KO" icon="external-link" >}}
 {{< button text="K-ETA 신청 (k-eta.go.kr)" href="https://www.k-eta.go.kr/portal/apply/viewstep1.do?locale=EN" icon="external-link" >}}
