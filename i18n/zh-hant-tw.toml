@@ -28,8 +28,8 @@ other = "Session schedules calendar"
 other = "Register now"
 [attendee]
 other = "Attendee"
-[call_for_speakers]
-other = "Call for Speakers"
+[submit_proposal]
+other = "Submit proposal"
 [host_communities]
 other = "Host Communities"
 [more_hosts]

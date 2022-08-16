@@ -38,3 +38,5 @@ other = "搜索"
 other = "菜单"
 [close_menu]
 other = "关闭菜单"
+[submit_proposal]
+other = "Submit proposal"

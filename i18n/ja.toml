@@ -38,3 +38,5 @@ other = "Search"
 other = "Menu"
 [close_menu]
 other = "Close menu"
+[submit_proposal]
+other = "Submit proposal"

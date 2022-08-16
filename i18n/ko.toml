@@ -28,8 +28,8 @@ other = "세션 일정 캘린더"
 other = "지금 등록"
 [attendee]
 other = "참석자"
-[call_for_speakers]
-other = "발표 제안하기"
+[submit_proposal]
+other = "발표 제안서 제출하기"
 [host_communities]
 other = "주최 커뮤니티"
 [more_hosts]

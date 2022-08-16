@@ -28,8 +28,8 @@ other = "Kalender jadwal sesi"
 other = "Daftar sekarang"
 [attendee]
 other = "Peserta"
-[call_for_speakers]
-other = "Panggilan untuk Pembicara"
+[submit_proposal]
+other = "Submit proposal"
 [host_communities]
 other = "Host Komunitas"
 [more_hosts]
