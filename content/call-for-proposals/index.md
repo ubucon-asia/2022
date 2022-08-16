@@ -3,7 +3,10 @@ title: "Call for proposals"
 description: Submit proposal today to share your story or experience on UbuCon Asia 2022 
 ---
 
-# UbuCon Asia 2022 Proposals
+## Important dates
+- Proposal submission period:
+- Proposal review period:
+- Notification of acceptance and speaker confirmation:
 
 ## Things to know before writing proposals
 
@@ -22,7 +25,7 @@ Make sure to refer followings before writing your proposal
 - Through your session, What would you like to share?
 - What is the difficulty of your topic?
 
-<!-- (No translation yet) -->
+Let’s write an proposal with detailed descriptions!
 
 ## Let’s write your proposal
 
@@ -45,10 +48,11 @@ UbuCon Asia this year is accepting proposals with following topics but not limit
 - Content and Design: Video and Image editing, Graphic design, 3D Graphics with open source on Ubuntu
 - Community, Diversity, Local Outreach and Social Context
 
+
 If you want to find references for each topics above, You may have a look at https://wiki.ubuntu.com/Ubucon for sessions at previous UbuCons.
 You may also write proposals with topics not listed above if it’s related to Ubuntu or related open source technologies.
 
-<!-- (No translation yet) -->
+Then, please refer to the following and write a proposal for the topic you chose!
 
 - Category for your session
 - Title of your session that reflects session details and attracts interests.
@@ -85,9 +89,8 @@ Since only limited time will be given to convey contents of your session, it is 
 
 Make sure to check the agenda and expected duration of your session once again. Since it is not easy to deliver much information within a limited time, Specify “Prior knowledge” clearly and check references included in this document.
 
-<!-- (No translation yet) -->
-
-<!-- (No translation yet) -->
+Everything above is a required process to deliver topics and contents you chose clearly to participants.
+We hope our guidelines would be helpful for you to prepare a good proposal.
 
 # Review process
 We use the following process for reviewing proposals, Related information will be provided via email or published on our website.
@@ -97,4 +100,7 @@ We use the following process for reviewing proposals, Related information will b
 3. After review is done, You will be notified whether your proposal has been accepted with email.
 4. If your proposal has been accepted, You will be confirmed as speaker after you confirm participation by responding to our email.
 
-# Proposal form
+## Questions
+If you have any questions about writting or submitting proposal, Contact content team(content@ubucon.asia).
+
+## Submit or update proposal

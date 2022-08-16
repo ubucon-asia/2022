@@ -1,23 +1,30 @@
 ---
-title: "발표자 모집"
+title: "발표 제안서 모집"
 description: UbuCon Asia 2022 에서 나만의 경험이나 이야기를 공유하고 싶다면 발표 제안서를 제출해 보세요
 ---
-
-# UbuCon Asia 2022 발표 제안서
+## 중요 일정
+- 제안서 모집 기간:
+- 제안서 검토 기간:
+- 제안서 검토 결과 발표 및 참가 확인:
 
 ## 발표 제안서 작성시 사전에 알아야 할 사항들
 
 ### 영상 및 공개에 관한 내용
-UbuCon Asia 2022(이하, 우부콘)은 오프라인과 온라인으로 동시에 진행됨에 따라 발표 영상은 촬영 및 편집 후에 CC BY 4.0 라이선스로 공개 될 예정입니다. 발표 제안서를 작성하시기 전에 해당 사항을 염두에 두시기 바랍니다.
+
+UbuCon Asia 2022(이하, 우부콘)은 오프라인과 온라인으로 동시에 진행됨에 따라 발표 영상은 촬영 및 편집 후에 [CC-BY-4.0] 라이선스로 공개 될 예정입니다. 발표 제안서를 작성하시기 전에 해당 사항을 염두에 두시기 바랍니다.
+
+[CC-BY-4.0]: http://creativecommons.org/licenses/by/4.0/
 
 ### 발표 제안서에 관한 협의 및 논의
+
 발표 제안서를 제출하신 이후 최종 확정이 될 때까지 발표 내용에 대한 세부적인 협의 및 회의가 진행될 수 있습니다. 발표 제안서를 조금 여유 있게 제출해주시면 운영진과 협의 및 회의를 통해서 발표 제안서를 발전시킬 수 있습니다.
 
 ### 발표 제안 검토에 관한 기준
+
 검토는 발표 제안서에 제시된 발표 내용을 기준으로 진행됩니다. 발표자 개인에 대한 사항은 제안 검토에 반영하지 않습니다. 발표자가 누군지 유추할 수 있는 내용, 발표자에 관한 세부적인 개인 정보 등 발표 제안 검토에 불필요한 내용을 제외하고 제출해주세요. 부득이 하게 제출된 개인 정보는 검토 과정에서 별도로 처리될 수 있습니다.
 
-## 제안서를 작성하기 전에
-제안서를 작성하기 전에 아래 사항을 ‘꼭’ 참고해주세요.
+### 제안서를 작성하기 전에
+
 - 발표하실 주제는 무엇인가요?
 - 발표를 통해서 청중에게 전달하고 싶은 것은 무엇인가요?
 - 주제의 난이도는 어떠한가요?
@@ -27,26 +34,26 @@ UbuCon Asia 2022(이하, 우부콘)은 오프라인과 온라인으로 동시에
 ## 제안서를 작성해볼까요?
 
 ### 주제는 무엇인가요?
-올해 우부콘 아시아에서는 아래와 같은 다양한 주제로 제안서를 받고 있습니다.
+올해 UbuCon Asia에서는 아래와 같은 다양한 주제로 제안서를 받고 있습니다.
 
-- Desktop
-  - GNOME, KDE, GTK, QT, Flutter, Enterprise Desktop Deployments, Active Directory, Ubuntu flavours
-- Cloud and Infrastructure
-  - Public cloud, On premise, Linux Containers(Docker, LXC, LXD), Container Orchestration(Kubernetes, Microk8s), DevOps, Juju, Openstack, KVM, QEMU and more
-- Windows Subsystem for Linux(WSL)
-  - Ubuntu WSL & Windows Interoperability, WSL on Windows Server, Developing for Linux using WSL
-- Localizations, Internationalizations, and Accessibility
-- IoT, Embedded, Robotics, Appliances
-  - Ubuntu Core, Raspberry Pi, ROS, Snaps on IoT
-- Packaging: Debian packaging(*.deb), Snap packaging, Launchpad PPA, Launchpad Build Recipes, Flatpak, and more
-- Documentations, QA and Bug triage
-- Security, Compliance and Kernel: AppArmor, SELinux, Livepatch, FIPS, Open source license and more
-- Data and AI: Ubuntu for Data Science, Data Engineering, AI and ML workloads
-- Content and Design: Video and Image editing, Graphic design, 3D Graphics with open source on Ubuntu
-- Community, Diversity, Local Outreach and Social Context
+- 데스크탑
+  - GNOME, KDE, GTK, QT, Flutter, 기업 데스크탑 배포, Active Directory, 변형 Ubuntu 배포판
+- 클라우드와 인프라
+  - 퍼블릭 클라우드, 온프레미스, 리눅스 컨테이너(Docker, LXC, LXD), 컨테이너 오케스트레이션(Kubernetes, Microk8s), DevOps, Juju, 오픈스택, KVM, QEMU 등
+- Linux용 Windows 하위시스템(WSL)
+  - Ubuntu WSL & Windows 상호운용성, Windows Server 에서의 WSL, WSL로 리눅스 개발
+- 지역화, 국제화 및 접근성
+- 사물인터넷, 임베디드, 로보틱스 및 가전
+  - Ubuntu Core, Raspberry Pi, ROS, IoT용 Snap
+- 패키징: 데비안 패키징(*.deb), Snap 패키징, Launchpad PPA, Launchpad Build Recipes, Flatpak, 등
+- 문서화, 품질 관리 및 버그 분류
+- 보안, 규정준수 및 커널: AppArmor, SELinux, Livepatch, FIPS, 오픈소스 라이선스 등
+- 데이터와 인공지능: 데이터 과학, 데이터 공학, 인공지능, 기계학습 등 워크로드를 위한 Ubuntu
+- 컨텐츠와 디자인: 우분투와 오픈소스를 활용한 영상 및 사진 편집, 그래픽 디자인, 3D 그래픽 등
+- 커뮤니티, 다양성, 지역 사회 협력, 사회적 관점
 
-각 주제별로 참고할 만한 자료가 필요하시다면, https://wiki.ubuntu.com/Ubucon을 참고하셔서 다른 우부콘에서 어떤 주제를 가지고 진행되었는지 확인하실 수 있습니다.
-그리고 위에 열거된 주제 이외에도 Ubuntu/Linux, 오픈소스 및 관련된 주제(카테고리)가 있으시면 해당 주제로 제안서를 작성하셔도 됩니다.
+각 주제별로 참고할 만한 자료가 필요하시다면, https://wiki.ubuntu.com/Ubucon 을 참고하셔서 다른 우부콘에서 어떤 주제를 가지고 진행되었는지 확인하실 수 있습니다.
+그리고 위에 열거된 주제 이외에도 Ubuntu/Linux, 오픈소스 및 관련된 주제(카테고리)가 있다면 해당 주제로 제안서를 작성하셔도 됩니다.
 
 그럼 선택하신 주제로 아래 사항을 참고하셔서 제안서를 작성해보세요!
 
@@ -79,17 +86,16 @@ Ubuntu/Linux에 대한 사용 경험이 풍부하며, 오픈 소스 커뮤니티
 앞서 작성한 제안서를 다시 한번 확인하셔서, 적당한 난이도를 선택했는지 확인해보세요. 만약 주제와 난이도가 일치하지 않는다고 생각되신다면 작성하신 제안서를 수정해보세요. 그리고 검토 과정에서 주제와 난이도가 일치 하지 않는다고 판단이 된다면 별도로 연락을 드리겠습니다. 좋은 발표와 경험을 위해서 함께 진행될 논의에 참여해주세요.
 
 ### 발표를 통해서 참여자에게 전달하고 싶은 것은 무엇인가요?
-발표 제안서에서 가장 중요한 것은 해당 발표를 통해서 참여자에게 전달하고 싶은 내용이 무엇인지 명확하게 작성하는 것 입니다.
 
-자신이 선택한 주제와 관련된 내용을 전달함에 있어서 무한한 시간이 주어지지 않기 때문에 정해진 시간에 주제와 관련된 내용을 잘 전달할 수 있도록 발표 제안서에 구체적으로 작성하시는게 좋습니다.
-
+발표 제안서에서 가장 중요한 것은 해당 발표를 통해서 참여자에게 전달하고 싶은 내용이 무엇인지 명확하게 작성하는 것 입니다.   
+자신이 선택한 주제와 관련된 내용을 전달함에 있어서 무한한 시간이 주어지지 않기 때문에 정해진 시간에 주제와 관련된 내용을 잘 전달할 수 있도록 발표 제안서에 구체적으로 작성하시는게 좋습니다.   
 앞서 작성한 발표 제안서의 ‘발표가 진행되는 순서’와 ‘대략적인 예상 시간’ 부분을 다시 한번 확인하세요. 그리고 정해진 시간에 참여자에게 많은 정보를 전달하기 쉽지 않기 때문에 ‘해당 주제와 관련된 발표를 듣기 위해서 사전에 알아야 할 내용’을 명확하게 작성하시고, ‘참고자료’ 등을 꼭 확인해주세요.
 
-이 모든 과정은 참여자에게 발표자가 선정한 주제와 관련된 내용을 명확하게 전달하기 위한 세부 사항이 입니다.
+위 모든 사항은 발표자가 선택한 주제와 내용을 참가자에게 명확하게 전달하기 위해 꼭 필요한 사항 입니다.
+저희가 제시한 가이드라인이 좋은 발표를 준비하는 데 많은 도움이 되시길 시대합니다.
 
-이상 좋은 발표를 위해서 저희가 제시한 가이드가 도움이 되셨기를 기대합니다.
+## 선정 절차
 
-# 선정 절차
 발표 제안 이후 선정 절차는 아래와 같으며, 관련 안내는 홈페이지와 메일로 안내드립니다.
 
 1. 제안서를 제출 하시면 확인 후, 부족한 부분이 있는 경우에 한해 이메일로 피드백을 드립니다.
@@ -97,4 +103,8 @@ Ubuntu/Linux에 대한 사용 경험이 풍부하며, 오픈 소스 커뮤니티
 3. 제안서 검토 기간이 끝나면, 제안서 선정 여부를 이메일로 알려 드립니다.
 4. 제안서가 선정된 경우, 정해진 기간 내 참여 확정 여부를 회신 해 주시면, 발표자로 확정 됩니다.
 
-# 제안서 양식
+## 문의사항
+제안서 작성과 관련하여 문의사항이 있는 경우, 컨텐츠 팀(content@ubucon.asia)로 연락 해 주세요.
+
+## 발표 제안서 제출/수정
+

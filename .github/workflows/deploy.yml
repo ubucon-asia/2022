@@ -48,6 +48,13 @@ jobs:
           hugo \
             --minify \
             --baseURL ${{ steps.pages.outputs.base_url }}
+      - name: Generate social image
+        run: |
+          cd og_img_generator
+          sudo apt update
+          sudo apt install -y wkhtmltopdf
+          pip install -r requirements.txt
+          python main.py
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:

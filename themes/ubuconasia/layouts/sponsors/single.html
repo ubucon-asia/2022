@@ -26,16 +26,10 @@
             {{ $sponsor_class_text = i18n "bronze_sp" }}
           {{ else if eq .Params.group "supporter"}}
             {{ $sponsor_class_text = i18n "supporter_sp" }}
-            {{ $sponsor_class_color = "#8ddd61" }}
-          {{ else if eq .Params.group "infra"}}
-            {{ $sponsor_class_text = i18n "infra_sp" }}
-            {{ $sponsor_class_color = "grey" }}
-          {{ else if eq .Params.group "record"}}
-            {{ $sponsor_class_text = i18n "record_sp" }}
-            {{ $sponsor_class_color = "grey" }}
-          {{ else if eq .Params.group "videoi18n"}}
-            {{ $sponsor_class_text = i18n "videoi18n_sp" }}
-            {{ $sponsor_class_color = "grey" }}
+            {{ $sponsor_class_color = "#E95420" }}
+          {{ else if eq .Params.group "dinner"}}
+            {{ $sponsor_class_text = i18n "dinner_sp" }}
+            {{ $sponsor_class_color = "#77216F" }}
           {{ else if eq .Params.group "venue"}}
             {{ $sponsor_class_text = i18n "venue_sp" }}
             {{ $sponsor_class_color = "grey" }}

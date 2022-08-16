@@ -24,20 +24,6 @@
       </div>
     </div>
   </section>
-  <section class="p-strip">
-    <div class="row">
-      {{ range first 3 ( sort (where $regularPages "Section" "news") "Date" "desc" ) }}
-      {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
-      <div class="col-4">
-        <a href="{{ .RelPermalink }}">
-          <h3>{{.Title}}</h3>
-        </a>
-        <b>{{.Date.Format "2006-01-02"}}</b><br />
-        <span>{{if ge (len .Summary) 100}} {{slicestr .Summary 0 100}} {{else}} {{.Summary}} {{end}}</span><br />
-      </div>
-      {{ end }}
-    </div>
-  </section>
   <section class="p-strip--light">
     <div class="row">
       <h2>{{ i18n "featured" }}</h2>
@@ -73,7 +59,34 @@
   </section>
   <section class="p-strip">
     <div class="row">
+      {{ range first 3 ( sort (where $regularPages "Section" "news") "Date" "desc" ) }}
+      {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
+      <div class="col-4">
+        <a href="{{ .RelPermalink }}">
+          <h3>{{.Title}}</h3>
+        </a>
+        <b>{{.Date.Format "2006-01-02"}}</b><br />
+        <span>{{if ge (len .Summary) 100}} {{slicestr .Summary 0 100}} {{else}} {{.Summary}} {{end}}</span><br />
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  <section class="p-strip">
+    <div class="row">
       <h2>{{ i18n "sponsors" }}</h2>
+
+      <h3>{{ i18n "venue_sp" }}</h3>
+        <div class="p-logo-section">
+          <div class="p-logo-section__items">
+        {{ range where $allPages "Params.group" "venue" }}
+        <div class="p-logo-section__item">
+          <a href="{{ .RelPermalink }}">
+            <img class="p-logo-section__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
+          </a>
+        </div>
+        {{ end }}
+        </div>
+        </div>
 
       <h3>{{ i18n "diamond_sp" }}</h3>
         <div class="p-logo-section">
@@ -127,10 +140,10 @@
         </div>
         </div>
 
-        <h3>{{ i18n "supporter_sp" }}</h3>
+        <h3>{{ i18n "dinner_sp" }}</h3>
         <div class="p-logo-section">
           <div class="p-logo-section__items">
-        {{ range where $allPages "Params.group" "supporter" }}
+        {{ range where $allPages "Params.group" "dinner" }}
         <div class="p-logo-section__item">
           <a href="{{ .RelPermalink }}">
             <img class="p-logo-section__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />
@@ -140,10 +153,10 @@
         </div>
         </div>
 
-        <h3>{{ i18n "infra_sp" }}</h3>
+        <h3>{{ i18n "supporter_sp" }}</h3>
         <div class="p-logo-section">
           <div class="p-logo-section__items">
-        {{ range where $allPages "Params.group" "infra" }}
+        {{ range where $allPages "Params.group" "supporter" }}
         <div class="p-logo-section__item">
           <a href="{{ .RelPermalink }}">
             <img class="p-logo-section__logo" src="{{ .RelPermalink }}{{.Params.photo}}" alt="" />

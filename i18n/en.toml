@@ -52,8 +52,8 @@ other = "Supporter Sponsors"
 other = "Event Infrastructure Sponsors"
 [record_sp]
 other = "Video Recording Sponsors"
-[videoi18n_sp]
-other = "Video Internalization Sponsors"
+[dinner_sp]
+other = "Conference Dinner Sponsor"
 [venue_sp]
 other = "Venue Sponsors"
 [partner_cm]

@@ -28,6 +28,8 @@ other = "セッションスケジュール カレンダー"
 other = "Session duration"
 [details_later]
 other = "Details will be available later"
+[dinner_sp]
+other = "Conference Dinner Sponsor"
 [venue_sp]
 other = "Venue Sponsors"
 [search]

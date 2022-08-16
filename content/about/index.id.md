@@ -95,7 +95,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
     desc="Global team" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="robbi_nespu.jpg"
     heading="Robbi Nespu" bold="Debian Malaysia"
     desc="Global team | Sponsorship and Finances" >}}
 
