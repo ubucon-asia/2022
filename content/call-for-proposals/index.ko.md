@@ -12,6 +12,12 @@ description: "강연 및 워크샵 제안서 모집: 8월 16일 ~ 9월 14일"
 ## 라이트닝 토크 및 BoF
 추후 공지 예정
 
+# 발표 제안서 제출/수정
+
+> 제안서 제출 전 아래 가이드라인을 한번씩 읽어 주시기 바랍니다.
+
+{{< button text="강연 또는 워크샵 제안서" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="copy" >}} 
+
 # 발표 제안서 작성시 사전에 알아야 할 사항들
 
 ## 영상 및 공개에 관한 내용
@@ -120,6 +126,3 @@ Ubuntu/Linux에 대한 사용 경험이 풍부하며, 오픈 소스 커뮤니티
 - 예산안이 아직 확정되지 않아 여행 지원이 세부사항이 추후 변경될 수 있음을 유의 해 주시기 바랍니다.
 - 1인당 최대 지원 가능 예산이 한정되어 있어, 출발 지역에 따라 항공편의 경우 전액 환급이 어려울 수 있습니다.
 
-# 발표 제안서 제출/수정
-
-{{< button text="강연 또는 워크샵 제안서" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="p-icon--copy" >}}

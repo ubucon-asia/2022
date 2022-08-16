@@ -13,6 +13,11 @@ description: "Call for talks and workshops: Aug 16 ~ Sep 14"
 ## Lighting talks and BoFs
 TBD
 
+# Submit or edit proposal
+
+> Make sure to read guidelines below before submitting proposal
+
+{{< button text="Talk or Workshop proposal" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="copy" >}}
 # Things to know before writing proposals
 
 ## Video recording and publishing
@@ -116,6 +121,4 @@ Note
 # Questions
 If you have any questions about writting or submitting proposal, Contact content team(content@ubucon.asia).
 
-## Submit or edit proposal
 
-{{< button text="Talk or Workshop proposal" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="p-icon--copy" >}}
