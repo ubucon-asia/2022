@@ -1,6 +1,6 @@
 ---
 title: "Call for proposals"
-description: Submit proposal today to share your story or experience on UbuCon Asia 2022 
+description: "Call for talks and workshops: Aug 16 ~ Sep 14"
 ---
 
 # Important dates
