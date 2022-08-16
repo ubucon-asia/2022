@@ -40,7 +40,7 @@ UbuCon Asia this year is accepting proposals with following topics but not limit
 - Desktop
   - GNOME, KDE, GTK, QT, Flutter, Enterprise Desktop Deployments, Active Directory, Ubuntu flavours
 - Cloud and Infrastructure
-  - Public cloud, On premise, Linux Containers(Docker, LXC, LXD), Container Orchestration(Kubernetes, Microk8s), DevOps, Juju, Openstack, KVM, QEMU and more
+  - Public cloud, On premise, Linux Containers(Docker, LXC, LXD), Container Orchestration(Kubernetes, Microk8s), DevOps, Juju, Multipass, Openstack, KVM, QEMU and more
 - Windows Subsystem for Linux(WSL)
   - Ubuntu WSL & Windows Interoperability, WSL on Windows Server, Developing for Linux using WSL
 - Localizations, Internationalizations, and Accessibility
