@@ -13,8 +13,9 @@ languages:
     title: 우부콘 아시아 2022
     weight: 2
     params:
-      description: >-
-        한국에서 열리는 첫 오프라인 우분투 아시아 컨퍼런스.
+      # description: >-
+      #   한국에서 열리는 첫 오프라인 우분투 아시아 컨퍼런스.
+      description: 11월 26일 ~ 27일 | 서울 상암동 누리꿈스퀘어
       period: 2022년 11월 26일 ~ 27일 | 서울 상암동 누리꿈스퀘어
     menu:
       main:
@@ -82,8 +83,9 @@ languages:
     title: UbuCon Asia 2022
     weight: 1
     params:
-      description: >-
-        The first In-person Ubuntu Asia conference in South Korea.
+      # description: >-
+      #   The first In-person Ubuntu Asia conference in South Korea.
+      description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
       period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
     menu:
       main:
@@ -151,8 +153,9 @@ languages:
     title: UbuCon Asia 2022
     weight: 2
     params:
-      description: >-
-        The first In-person Ubuntu Asia conference in South Korea.
+      # description: >-
+      #   The first In-person Ubuntu Asia conference in South Korea.
+      description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
       period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
     menu:
       main:
@@ -220,8 +223,9 @@ languages:
     title: UbuCon Asia 2022
     weight: 3
     params:
-      description: >-
-        The first In-person Ubuntu Asia conference in South Korea.
+      # description: >-
+      #   The first In-person Ubuntu Asia conference in South Korea.
+      description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
       period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
     menu:
       main:
@@ -289,8 +293,9 @@ languages:
     title: UbuCon Asia 2022
     weight: 2
     params:
-      description: >-
-        The first In-person Ubuntu Asia conference in South Korea.
+      # description: >-
+      #   The first In-person Ubuntu Asia conference in South Korea.
+      description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
       period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
     menu:
       main:
@@ -358,8 +363,9 @@ languages:
     title: UbuCon Asia 2022
     weight: 3
     params:
-      description: >-
-        首次在韩国举行的 Ubuntu 亚洲峰会。
+      # description: >-
+      #   首次在韩国举行的 Ubuntu 亚洲峰会。
+      description: 11 月 26 至 27 日  | 韩国，首尔市，Nuritkum Square
       period: 2022 年 11 月 26 至 27 日  | 韩国，首尔市，Nuritkum Square
     menu:
       main:
