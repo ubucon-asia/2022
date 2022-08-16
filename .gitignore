@@ -11,3 +11,4 @@ $RECYCLE.BIN/
 # OSX
 .DS_Store
 venv
+.hugo_build.lock
