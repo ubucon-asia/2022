@@ -31,6 +31,7 @@ The review will be conducted based on the content presented in the proposal. Per
 
 # Before writing proposal
 Make sure to refer followings before writing your proposal
+- What is the type of session you want to propose?
 - What is the topic of your session?
 - Through your session, What would you like to share?
 - What is the difficulty of your topic?
@@ -39,6 +40,19 @@ Let’s write an proposal with detailed descriptions!
 
 # Let’s write your proposal
 
+## What is the type of session you want to propose?
+UbuCon Asia this year is accepting proposal in following session types.
+- Talks (Lectures)
+  - Regular lecture session with specific topic.
+  - 20 min (Short), 45min (Standard), 75min (Deep-dive) including Q&A time.
+- Lightning talks
+  - Give a 5 minutes pitch to audiences with specific topic.
+- Workshops
+  - Interactive session where participants can learn Ubuntu related skills in action.
+  - 90 minutes including Q&A time.
+- BoFs (Birds of Feather)
+  - Informal discussion session on a certain topic without a pre-planned agenda.
+  - 45 minutes for each session.
 ## What is the topic of your session?
 UbuCon Asia this year is accepting proposals with following topics but not limited to:
 
