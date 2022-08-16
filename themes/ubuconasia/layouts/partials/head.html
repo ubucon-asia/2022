@@ -13,6 +13,7 @@
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     <meta property="og_image:title" content="{{ .Title }}" />
+    <meta property="og_image:description" content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else if .IsHome }}{{ .Site.Params.description }}{{end}}" />
 
 
     <!-- Twitter card -->
@@ -36,13 +37,13 @@
 
 
     <!-- Description Meta  -->
-    <meta name="description" content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
-    <meta itemprop="description" content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
+    <meta name="description" content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
+    <meta itemprop="description" content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
     <meta property="og:og:description"
-        content="{{if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
+        content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
 
     <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
-    <meta name="twitter:description" content="" />
+    <meta name="twitter:description" content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
 
     <!-- URL Meta  -->
     <!--    <base href="{{ .Permalink }}">-->
