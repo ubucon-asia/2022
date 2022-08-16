@@ -42,7 +42,7 @@ UbuCon Asia 2022(이하, 우부콘)은 오프라인과 온라인으로 동시에
 올해 UbuCon Asia에서는 아래와 같은 다양한 주제로 제안서를 받고 있습니다.
 
 - 데스크탑
-  - GNOME, KDE, GTK, QT, Flutter, 기업 데스크탑 배포, Active Directory, 변형 Ubuntu 배포판
+  - GNOME, KDE, GTK, QT, Flutter, 엔터프라이즈 데스크탑 배포, Active Directory, 변형 Ubuntu 배포판
 - 클라우드와 인프라
   - 퍼블릭 클라우드, 온프레미스, 리눅스 컨테이너(Docker, LXC, LXD), 컨테이너 오케스트레이션(Kubernetes, Microk8s), DevOps, Juju, 오픈스택, KVM, QEMU 등
 - Linux용 Windows 하위시스템(WSL)
