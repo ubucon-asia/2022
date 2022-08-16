@@ -1,12 +1,12 @@
 ---
 title: "Call for proposals"
-description: "Call for talks and workshops: Aug 16 ~ Sep 14"
+description: "Call for talks and workshops: Aug 17 ~ Sep 14"
 ---
 
 # Important dates
 
 ## Talks and Workshops proposals
-- Proposal submission period: August 16 ~ September 14
+- Proposal submission period: August 17 ~ September 14
 - Proposal review period: September 14 ~ September 27
 - Notification of acceptance and speaker confirmation: September 27 ~ October 5
 
