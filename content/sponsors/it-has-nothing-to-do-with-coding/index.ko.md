@@ -3,7 +3,7 @@ title: "코딩이랑 무관합니다만," # Name of the sponsor
 photo: "comu.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: community # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 # website: "https://www.oss.kr/"
-facebook: "https://www.facebook.com/groups/System.out.Coding"
+fbgroup: "https://www.facebook.com/groups/System.out.Coding"
 github: "https://github.com/SystemOutCoding/Comu"
 cover: cover.jpg
 # brochure: brochure.pdf # path to brochure pdf file
