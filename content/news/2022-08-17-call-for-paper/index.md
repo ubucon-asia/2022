@@ -1,5 +1,5 @@
 ---
-title: "Call for Paper @ UbuCon Asia 2022 📢 "
+title: "Call for Proposals @ UbuCon Asia 2022 📢 "
 date: 2022-08-17T04:43:13+08:00
 draft: false
 authors:
