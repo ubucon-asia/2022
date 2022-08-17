@@ -13,7 +13,7 @@
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     <meta property="og_image:title" content="{{ .Title }}" />
-    <meta property="og_image:description" content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{if gt (len .Summary) 50}} {{slicestr .Summary 0 50}} {{else}} {{.Summary}} {{end}}{{else if .IsHome }}{{ .Site.Params.description }}{{end}}" />
+    <meta property="og_image:description" content="{{if .Params.description }}{{ .Params.description }}{{else if .IsHome }}{{ .Site.Params.description }}{{end}}" />
 
 
     <!-- Twitter card -->
