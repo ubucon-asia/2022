@@ -20,6 +20,9 @@ TBD
 {{< button text="Talk or Workshop proposal" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="copy" >}}
 # Things to know before writing proposals
 
+## Entry requirements and Visa
+See [this page](../venue-and-travel/entry-and-visa) for details.
+
 ## Video recording and publishing
 Since UbuCon Asia 2022 is a In-person and online hybrid event, Video recording for each session will be recorded, edited and published with CC BY 4.0 online. Make sure to remember this point before submitting your proposals.
 
