@@ -40,3 +40,5 @@ other = "Menu"
 other = "Close menu"
 [submit_proposal]
 other = "Submit proposal"
+[sponsor_promo_image]
+other = "Get sponsor promotion image"

@@ -52,3 +52,5 @@ other = "Search"
 other = "Menu"
 [close_menu]
 other = "Close menu"
+[sponsor_promo_image]
+other = "Get sponsor promotion image"
