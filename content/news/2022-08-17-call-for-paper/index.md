@@ -18,25 +18,31 @@ The UbuCon Asia team is excited to announce that we are now accepting proposals 
 
 We are open and invite you to submit proposals for how you would contribute until the deadline: `September 14th, 2022, 23:59 UTC +9 (KST)`.
 
-There are many ways you can contribute, you could present a technical paper, panel discussion, demostration, put on a tutorial, do a performance, a debate or other possibilities that you devise.
+You can currently contribute on Talks and Workshop. Call for Lightning talks and BoFs will be opened later.
 
 If you are looking for ideas of things that you could contribute, or have ideas for things that you would like to see happen at UbuCon Asia 2022, have a look at the reference topics below for you to discuss in Ubucon Asia 2022:
 
 - Desktop
-- Server/Infrastructure/Cloud
+  - GNOME, KDE, GTK, QT, Flutter, Enterprise Desktop Deployments, Active Directory, Ubuntu flavours
+- Cloud and Infrastructure
+  - Public cloud, On premise, Linux Containers(Docker, LXC, LXD), Container Orchestration(Kubernetes, Microk8s), DevOps, Juju, Multipass, Openstack, KVM, QEMU and more
 - Windows Subsystem for Linux(WSL)
-- Localization(L10n)/Fonts/Input Methods
-- Internet of Things(IoT)/Embedded
-- Security
-- Community/Social Context
-- Case Studies
-- Etc
+  - Ubuntu WSL & Windows Interoperability, WSL on Windows Server, Developing for Linux using WSL
+- Localizations, Internationalizations, and Accessibility
+- IoT, Embedded, Robotics, Appliances
+  - Ubuntu Core, Raspberry Pi, ROS, Snaps on IoT
+- Packaging: Debian packaging(*.deb), Snap packaging, Launchpad PPA, Launchpad Build Recipes, Flatpak, and more
+- Documentations, QA and Bug triage
+- Security, Compliance and Kernel: AppArmor, SELinux, Livepatch, FIPS, Open source license and more
+- Data and AI: Ubuntu for Data Science, Data Engineering, AI and ML workloads
+- Content and Design: Video and Image editing, Graphic design, 3D Graphics with open source on Ubuntu
+- Community, Diversity, Local Outreach and Social Context
 
 UbuCon Asia 2022 will be held at [Nuritkum Square, Seoul, South Korea](/venue-and-travel/venue) and will be broadcast live on the Internet where possible. Videos of the talks will be published on the web along with the presentation slides and papers. 
 
 The proposal will lets us know in advance what sort of talks we will have. This helps us in attracting affiliates, developers and potential sponsors to the conference. Your proposal should also include some information on why you're qualified to talk about this.
 
-We usually recommend to give presentation in English. But GOOD NEWS if you are not confident with your English, for talks and panels you may consider to give presentation in Korean too. 
+This year, We accepts proposals in English and Korean. To help speakers to share their stories to diverse audiences, For Talks, Simultaneous interpretation will be provided.
 
 Please review all details or submit your talks in this page [https://2022.ubucon.asia/call-for-proposals/](/call-for-proposals/)
 
