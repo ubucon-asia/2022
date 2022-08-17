@@ -12,22 +12,12 @@
     <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
-    <meta property="og_image:title" content="{{ .Title }}" />
-    <meta property="og_image:description" content="{{if .Params.description }}{{ .Params.description }}{{else if .IsHome }}{{ .Site.Params.description }}{{end}}" />
-
-
+    
+    {{- partial "og_image_layout.html" . -}}
+    {{- partial "og_image_meta.html" . -}}
+    {{- partial "sponsor_og_image_meta.html" . -}}
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary_large_image" />
-    {{ if .Params.group }}
-
-    {{ $sponsor_class := "Sponsor" }}
-
-   <!-- If sponsor page content  -->
-    
-    {{ else }}
-    <!-- Other page content  -->
-    
-    {{ end }}
 
     <!-- OGP card -->
     <meta property="og:image" content='{{.Permalink}}index.html.jpg' />

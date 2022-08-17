@@ -1,0 +1,23 @@
+{{ if .Params.group }}
+{{ $sponsor_class := "Sponsor" }}
+{{if eq .Params.group "diamond"}}
+{{ $sponsor_class = i18n "diamond_sp" }}
+{{ else if eq .Params.group "gold"}}
+{{ $sponsor_class = i18n "gold_sp" }}
+{{ else if eq .Params.group "silver"}}
+{{ $sponsor_class = i18n "silver_sp" }}
+{{ else if eq .Params.group "bronze"}}
+{{ $sponsor_class = i18n "bronze_sp" }}
+{{ else if eq .Params.group "supporter"}}
+{{ $sponsor_class = i18n "supporter_sp" }}
+{{ else if eq .Params.group "dinner"}}
+{{ $sponsor_class = i18n "dinner_sp" }}
+{{ else if eq .Params.group "venue"}}
+{{ $sponsor_class = i18n "venue_sp" }}
+{{else}}
+{{ $sponsor_class = i18n "partner_cm" }}
+{{end}}
+<meta property="og_image:sponsor_class" content="{{ $sponsor_class }}" />
+<meta property="og_image:event_name" content="{{ .Site.Title }}" />
+<meta property="og_image:sponsor_logo_path" content="{{ .Permalink | relURL }}{{ .Params.photo }}" />
+{{end}}
