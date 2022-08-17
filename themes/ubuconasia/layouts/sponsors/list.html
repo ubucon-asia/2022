@@ -83,7 +83,7 @@
         {{ end }}
 
         <h3>{{ i18n "partner_cm" }}</h3>
-        {{ range where $pages "Params.group" "partner" }}
+        {{ range where $pages "Params.group" "community" }}
         <div class="p-card col-3">
           <a href="{{ .RelPermalink }}">
           <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
