@@ -19,13 +19,15 @@ def get_og_image_metadata(file_path):
             meta_dict[key] = m.get('content', None)
     return meta_dict
 
-def render_preview_image(bg_img_path, logo_img_path, title, description, output_path):
+def render_preview_image(bg_img_path, render_params_dict, output_path):
     print(f"Rendering image for {output_path}")
-    with open("og_image.html", 'r') as f:
+    with open(render_params_dict["layout"], 'r') as f:
+        for k, v in render_params_dict.items():
+            if(k.endswith('_path')):
+                render_params_dict[k] = os.path.abspath(f"../public{v}")
         html = Template(f.read()).substitute(
             background_image=os.path.abspath(bg_img_path), 
-            image_path=os.path.abspath(logo_img_path), 
-            title=title, description=description)
+            **render_params_dict)
         imgkit.from_string(html, output_path, options={
             "width": 1200,
             "height": 600,
@@ -40,8 +42,8 @@ for file in file_list:
     print(f"Submitting image job for {file}")
     try:
         meta_dict = get_og_image_metadata(file)
-        future = executor.submit(render_preview_image, "ogimage.png",
-            "../themes/ubuconasia/static/images/uca22logo_orange.svg", meta_dict["title"], meta_dict["description"], f"{file}.jpg")
+        print(meta_dict)
+        future = executor.submit(render_preview_image, "ogimage.png", meta_dict, f"{file}.jpg")
         tasks.append(future)
     except:
         pass

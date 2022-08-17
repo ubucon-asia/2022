@@ -1,0 +1,77 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR');
+
+        body {
+            font-family: 'Ubuntu', 'Noto Sans KR', sans-serif;
+            background-image: url('$background_image');
+        }
+
+        .main {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+
+        .component {
+            margin: 20px;
+        }
+
+        span.title {
+            font-size: 3em;
+            text-align: center;
+        }
+
+        img.component {
+            max-height: 50vh;
+            max-width: 70vw;
+
+        }
+
+        div.img-container {
+            background-color: white;
+            padding: 1em;
+            border-radius: 20px;
+            width: 70%;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            flex-direction: row;
+        }
+
+        div.title-container {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+        }
+
+        div.title-container>img {
+            height: 4em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <span class="component title">$sponsor_class</span>
+        <div class="img-container">
+            <img src="$sponsor_logo_path" class="component">
+        </div>
+
+        <div class="title-container">
+            <img src="$event_logo_path">
+            <span class="component title">$event_name</span>
+        </div>
+
+    </div>
+</body>
+
+</html>
