@@ -1,0 +1,37 @@
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "{{ .Site.Title }}",
+      "startDate": "{{ .Site.Params.timetable.dateStart }}",
+      "endDate": "{{ .Site.Params.timetable.dateEnd }}",
+      "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": [{
+        "@type": "VirtualLocation",
+        "url": "{{.Site.Params.eventInfo.virtualLocationUrl}}"
+      },
+      {
+        "@type": "Place",
+        "name": "{{.Site.Params.venueName}}",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "{{.Site.Params.eventInfo.streetAddress}}",
+          "addressLocality": "{{.Site.Params.eventInfo.addressLocality}}",
+          "postalCode": "{{.Site.Params.eventInfo.postalCode}}",
+          "addressRegion": "{{.Site.Params.eventInfo.addressRegion}}",
+          "addressCountry": "{{.Site.Params.eventInfo.addressCountry}}"
+        }
+      }],
+      "image": [
+        "{{ "/images/uca22logo_orange.svg" | absURL }}"
+       ],
+      "description": "{{ .Site.Params.descriptionOnHomepage }}",
+      "organizer": {
+        "@type": "Organization",
+        "name": "{{.Site.Params.calendarOrganizer}}",
+        "url": "{{.Permalink}}about"
+      }
+    }
+    </script>

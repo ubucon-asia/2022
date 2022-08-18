@@ -17,6 +17,7 @@ languages:
         한국에서 열리는 첫 오프라인 우분투 아시아 컨퍼런스.
       description: 11월 26일 ~ 27일 | 서울 상암동 누리꿈스퀘어
       period: 2022년 11월 26일 ~ 27일 | 서울 상암동 누리꿈스퀘어
+      venueName: 누리꿈스퀘어 3~4층
     menu:
       main:
         - identifier: about
@@ -87,6 +88,7 @@ languages:
         The first In-person Ubuntu Asia conference in South Korea.
       description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
       period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
+      venueName: Nuritkum Square 3F~4F
     menu:
       main:
         - identifier: about
@@ -157,6 +159,7 @@ languages:
         The first In-person Ubuntu Asia conference in South Korea.
       description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
       period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
+      venueName: Nuritkum Square 3F~4F
     menu:
       main:
         - identifier: about
@@ -227,6 +230,7 @@ languages:
         The first In-person Ubuntu Asia conference in South Korea.
       description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
       period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
+      venueName: Nuritkum Square 3F~4F
     menu:
       main:
         - identifier: about
@@ -297,6 +301,7 @@ languages:
         The first In-person Ubuntu Asia conference in South Korea.
       description: November 26th ~ 27th | Nuritkum Square, Seoul, South Korea
       period: November 26th ~ 27th, 2022 | Nuritkum Square, Seoul, South Korea
+      venueName: Nuritkum Square 3F~4F
     menu:
       main:
         - identifier: about
@@ -367,6 +372,7 @@ languages:
         首次在韩国举行的 Ubuntu 亚洲峰会。
       description: 11 月 26 至 27 日  | 韩国，首尔市，Nuritkum Square
       period: 2022 年 11 月 26 至 27 日  | 韩国，首尔市，Nuritkum Square
+      venueName: Nuritkum Square 3F~4F
     menu:
       main:
         - identifier: about
@@ -445,9 +451,16 @@ params:
     attendee: https://eventyay.com/e/75ac7f83
     callForSpeakers: /cfs
   timetable:
-    dateStart: 2022-11-26T12:00:00+09:00
-    dateEnd: 2022-11-27T22:00:00+09:00
+    dateStart: 2022-11-26T10:00:00+09:00
+    dateEnd: 2022-11-27T18:00:00+09:00
     timeStart: 2000-01-01T13:00:00+09:00 # Use random date for timeStart param
+  eventInfo:
+    virtualLocationUrl: https://www.youtube.com/channel/UCdy5ggH4LKgUyr0WIH9DPwQ
+    streetAddress: "396, World Cup buk-ro"
+    addressLocality: "Mapo-gu"
+    postalCode: "03925"
+    addressRegion: "Seoul"
+    addressCountry: "KR"
 outputs:
   home: ["HTML", "RSS", "Calendar", "JSON"]
 markup:
