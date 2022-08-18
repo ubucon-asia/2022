@@ -49,3 +49,5 @@ Please review all details or submit your talks in this page [https://2022.ubucon
 This UbuCon Asia 2022 will be the first in-person Ubuntu Asia conference, we hope to gather as social forum and technical platform that allows various groups within asia a chance to come together, network, and share their work related to Ubuntu. 
 
 Any organizational questions about the conference can be emailed to contact@ubucon.asia
+
+We also plan to open call for sponsors soon. If you're interested and wanna get notified when call for sponsors open, You may contact sponsorship@ubucon.asia
