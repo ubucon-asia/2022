@@ -18,6 +18,24 @@ TBD
 > Make sure to read guidelines below before submitting proposal
 
 {{< button text="Talk or Workshop proposal" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="copy" >}}
+
+# Travel sponsorship
+For confirmed Talk or Workshop speakers who come from foreign country or non capital area of Korea, We plan to provide travel sponsorship for followings.
+- Round ticket fee for long-distance transportation such as Flights, Train (High speed train or inter-city train), Express Bus (Will be purchased by speaker first, Then reimbursed by organizing team after the event.)
+- 3~4 Nights of hotel near the venue. (Will be booked by organizing team)
+
+Note
+- Please note that since our budget plan isn't fixed yet, travel sponsorship details may subject to change.
+- Due to the limited travel sponsorship budget per person, Depending on departure region, It might be difficult to provide full reimbursement for flight tickets.
+
+# Proposal help on chat or email
+If you want to submit your proposal, But you might be not sure wheather your topics is proper choice for this conference.
+You may already wrote your proposal but you might want to know wheather your proposal contains sufficient information.
+
+Please feel free to reach out us by chat or email. You may contact content team (content@ubucon.asia) with email.
+Or you can also join our IRC channel (#ubucon-asia at libera.chat), Matrix (https://matrix.to/#/#ubucon-asia:libera.chat), or Telegram (https://t.me/UbuConAsia) and chat with us.
+
+UbuCon Asia team will be their to help potential speakers to prepare and submit proposal. Just note that team might not be available instantly, because they might living in quite different timezone from you. 
 # Things to know before writing proposals
 
 ## Entry requirements and Visa
@@ -126,16 +144,6 @@ We use the following process for reviewing proposals, Related information will b
 3. After review is done, You will be notified whether your proposal has been accepted with email.
 4. If your proposal has been accepted, You will be confirmed as speaker after you confirm participation by responding to our email.
 
-# Travel sponsorship
-For confirmed Talk or Workshop speakers who come from foreign country or non capital area of Korea, We plan to provide travel sponsorship for followings.
-- Round ticket fee for long-distance transportation such as Flights, Train (High speed train or inter-city train), Express Bus (Will be purchased by speaker first, Then reimbursed by organizing team after the event.)
-- 3~4 Nights of hotel near the venue. (Will be booked by organizing team)
 
-Note
-- Please note that since our budget plan isn't fixed yet, travel sponsorship details may subject to change.
-- Due to the limited travel sponsorship budget per person, Depending on departure region, It might be difficult to provide full reimbursement for flight tickets.
-
-# Questions
-If you have any questions about writting or submitting proposal, Contact content team(content@ubucon.asia).
 
 
