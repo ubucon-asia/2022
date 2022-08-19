@@ -102,6 +102,6 @@ UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
     desc="Global team | Sponsorship and Finances" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="syazwan.png"
     heading="Muhd Syazwan" bold="Ubuntu Malaysia"
     desc="Global team" >}}

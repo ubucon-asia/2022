@@ -97,6 +97,6 @@ title: "UbuCon Asia 2022 소개"
     desc="Global team | Sponsorship and Finances" >}}
 
 {{<profile
-    profile="/images/uca22logo_orange.svg"
+    profile="syazwan.png"
     heading="Muhd Syazwan" bold="Ubuntu Malaysia"
     desc="Global team" >}}
