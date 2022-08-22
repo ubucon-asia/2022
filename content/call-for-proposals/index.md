@@ -24,7 +24,8 @@ For confirmed Talk or Workshop speakers who come from foreign country or non cap
 - For people who come from non-capital region of South Korea: Round trip ticket fee for Domestic Flights, Train, Express bus, or Domestic Ferry
   - Upto 150,000 KRW, Will be purchased by speaker first, Then reimbursed by organizing team after the event.
 - For people who arrive from foreign countries, Round trip ticket fee for International Flights and Ferry
-  - Upto 1,300,000 KRW (Approx 1,000 USD - This is standard, can be less or more depending on departure city), Will be purchased by speaker first, Then reimbursed by organizing team after the event.)
+  - Upto 1,300,000 KRW (Approx 1,000 USD - This is standard, can be less or more depending on departure city)
+  - Will be purchased by speaker first, Then reimbursed by organizing team after the event.
 - 3~4 Nights of hotel near the venue. (Will be booked by organizing team)
 
 Note
