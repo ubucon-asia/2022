@@ -29,7 +29,7 @@ For confirmed Talk or Workshop speakers who come from foreign country or non cap
 - 3~4 Nights of hotel near the venue. (Will be booked by organizing team)
 
 Note
-- Since our budget is limited, It might be difficult to provide travel sponsorship for every speakers. While we do our best to provide travel sponsorship as much as possible, In case we may not able to provide expenses We also recommend you to check wheather you can get travel expenses support from you work, school or other organizations.
+- Since our budget is limited, It might be difficult to provide travel sponsorship for every speakers. While we do our best to provide travel sponsorship as much as possible, In case we may not able to provide expenses, We also recommend you to check wheather you can get travel expenses support from you work, school or other organizations.
 
 # Proposal help on chat or email
 If you want to submit your proposal, But you might be not sure wheather your topics is proper choice for this conference.
