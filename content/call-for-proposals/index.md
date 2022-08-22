@@ -36,8 +36,11 @@ Note
 If you want to submit your proposal, But you might be not sure wheather your topics is proper choice for this conference.
 You may already wrote your proposal but you might want to know wheather your proposal contains sufficient information.
 
-Please feel free to reach out us by chat or email. You may contact content team (content@ubucon.asia) with email.
-Or you can also join our IRC channel (#ubucon-asia at libera.chat), Matrix (https://matrix.to/#/#ubucon-asia:libera.chat), or Telegram (https://t.me/UbuConAsia) and chat with us.
+Please feel free to reach out us by chat or email to ask for help and questions.
+- Email: Please contact our content team(content@ubucon.asia).
+- Chat (IRC): [#ubucon-asia at libera.chat](https://web.libera.chat/#ubucon-asia)
+- Chat (Matrix): https://matrix.to/#/#ubucon-asia:libera.chat
+- Chat (Telegram): https://t.me/UbuConAsia
 
 UbuCon Asia team will be their to help potential speakers to prepare and submit proposal. Just note that team might not be available instantly, because they might living in quite different timezone from you. 
 # Things to know before writing proposals

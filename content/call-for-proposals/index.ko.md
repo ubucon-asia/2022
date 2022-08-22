@@ -33,8 +33,11 @@ description: "강연 및 워크샵 제안서 모집: 8월 17일 ~ 9월 14일"
 # 채팅이나 이메일로 제안서 작성 도움 받기
 제안서를 작성하고 싶지만, 생각중인 주제가 이 행사에 적절한지 확실하지 않을 수 있습니다. 제안서를 작성 했지만, 제안서에 필요한 내용이 충분히 들어갔는지 확인하고 싶을 수도 있습니다.
 
-부담 가지시지 마시고, 언제든지 채팅이나 이메일로 도움을 청하세요. 이메일로는 컨텐츠 팀(content@ubucon.asia)에 문의 해 주시면 되며,
-채팅의 경우 IRC 채널(#ubucon-asia at libera.chat), Matrix (https://matrix.to/#/#ubucon-asia:libera.chat)나 Telegram (https://t.me/UbuConAsia) 에서 저희와 이야기 해 보고 도움을 받으실 수 있습니다.
+부담 가지시지 마시고, 언제든지 채팅이나 이메일로 도움을 청하세요. 아래와 같은 채널에서 저희와 이야기 해 보고 도움을 받으실 수 있습니다.
+- 이메일: 컨텐츠 팀(content@ubucon.asia)에 문의 해 주세요.
+- 채팅(IRC): [#ubucon-asia at libera.chat](https://web.libera.chat/#ubucon-asia)
+- 채팅(Matrix): https://matrix.to/#/#ubucon-asia:libera.chat
+- 채팅(Telegram): https://t.me/UbuConAsia
 
 저희 UbuCon Asia 팀이 잠재력 있는 발표자 분들께서 제안서를 준비하고 제출할 수 있도록 도와드릴 것 입니다. 다만 몇몇 팀원 분들은 시차가 큰 시간대에 거주하시기도 하기 때문에, 바로바로 도움을 받지 못하실 수도 있음을 참고 해 주세요. 
 
