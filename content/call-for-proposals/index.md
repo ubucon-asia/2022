@@ -27,6 +27,7 @@ For confirmed Talk or Workshop speakers who come from foreign country or non cap
   - Upto 1,300,000 KRW (Approx 1,000 USD - This is standard, can be less or more depending on departure city)
   - Will be purchased by speaker first, Then reimbursed by organizing team after the event.
 - 3~4 Nights of hotel near the venue. (Will be booked by organizing team)
+  - You may choose and book other accommodations. In that case, accomodation expenses will be also reimbursed after the event.
 
 Note
 - Since our budget is limited, It might be difficult to provide travel sponsorship for every speakers. While we do our best to provide travel sponsorship as much as possible, In case we may not able to provide expenses, We also recommend you to check wheather you can get travel expenses support from you work, school or other organizations.
