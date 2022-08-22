@@ -3,7 +3,7 @@ title: "Become a sponsor"
 photo: "placeholder.png"
 group: bronze
 website: "https://ubucon-asia.github.io/2022/"
-# brochure: UbuConAsia2021_Sponsorship_Brochure.pdf 
+# brochure: UbuConAsia2022_Sponsorship_Brochure.pdf 
 ---
 Thank you for your interest in Ubuntu and Ubucon Asia. UbuCon Asia is organized solely by group of volunteers without any financial compensation. 
 
