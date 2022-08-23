@@ -23,62 +23,67 @@ languages:
         - identifier: about
           name: 소개
           url: about
-          weight: 1
+          weight: 10
         - identifier: venue-travel-group
           name: 행사장 및 여행정보
           url: venue-and-travel
-          weight: 2
+          weight: 20
         - identifier: venue
           parent: venue-travel-group
           name: 행사장
           url: venue-and-travel/venue
-          weight: 2
+          weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
           name: 입국요건과 비자
           url: venue-and-travel/entry-and-visa
-          weight: 2
+          weight: 22
         - identifier: programs-group
           name: 프로그램
           url: programs
-          weight: 3
+          weight: 30
         - identifier: call-for-proposals
           parent: programs-group
           name: 발표 제안
           url: call-for-proposals
-          weight: 3
+          weight: 31
         - identifier: sessions
           parent: programs-group
           name: 세션
           url: sessions
-          weight: 3
+          weight: 32
         - identifier: confirmed
           parent: programs-group
           name: 참여 확인된 세션
           url: confirmed
-          weight: 3
+          weight: 33
         - identifier: sponsors-group
           name: 후원사/개인후원
           url: sponsors
-          weight: 4
+          weight: 40
+        - identifier: become-a-sponsor
+          parent: sponsors-group
+          name: 후원사 등록 안내
+          url: become-a-sponsor
+          weight: 41
         - identifier: sponsors
           parent: sponsors-group
           name: 후원사
           url: sponsors
-          weight: 4
+          weight: 42
         - identifier: patrons
           parent: sponsors-group
           name: 개인 후원자
           url: patrons
-          weight: 4
+          weight: 43
         - identifier: news
           name: 소식
           url: news
-          weight: 5
+          weight: 50
         - identifier: wiki
           name: 위키
           url: https://wiki.ubuntu.com/UbuconAsia/2022
-          weight: 6
+          weight: 60
   en:
     languageName: English
     title: UbuCon Asia 2022
@@ -94,62 +99,67 @@ languages:
         - identifier: about
           name: About
           url: about
-          weight: 1
+          weight: 10
         - identifier: venue-travel-group
           name: Venue & Travel
           url: venue-and-travel
-          weight: 2
+          weight: 20
         - identifier: venue
           parent: venue-travel-group
           name: Venue
           url: venue-and-travel/venue
-          weight: 2
+          weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
-          weight: 2
+          weight: 22
         - identifier: programs-group
           name: Programs
           url: programs
-          weight: 3
+          weight: 30
         - identifier: call-for-proposals
           parent: programs-group
           name: Call for proposals
           url: call-for-proposals
-          weight: 3
+          weight: 31
         - identifier: sessions
           parent: programs-group
           name: Sessions
           url: sessions
-          weight: 3
+          weight: 32
         - identifier: confirmed
           parent: programs-group
           name: Confirmed sessions
           url: confirmed
-          weight: 3
+          weight: 33
         - identifier: sponsors-group
           name: Sponsors/Patrons
           url: sponsors
-          weight: 4
+          weight: 40
+        - identifier: become-a-sponsor
+          parent: sponsors-group
+          name: Become a sponsor
+          url: become-a-sponsor
+          weight: 41
         - identifier: sponsors
           parent: sponsors-group
           name: Sponsors
           url: sponsors
-          weight: 4
+          weight: 42
         - identifier: patrons
           parent: sponsors-group
           name: Individual patrons
           url: patrons
-          weight: 4
+          weight: 43
         - identifier: news
           name: News
           url: news
-          weight: 5
+          weight: 50
         - identifier: wiki
           name: Wiki
           url: https://wiki.ubuntu.com/UbuconAsia/2022
-          weight: 6
+          weight: 60
   id:
     languageName: Bahasa Indonesia
     title: UbuCon Asia 2022
@@ -165,62 +175,67 @@ languages:
         - identifier: about
           name: Tentang
           url: about
-          weight: 1
+          weight: 10
         - identifier: venue-travel-group
           name: Venue & Travel
           url: venue-and-travel
-          weight: 2
+          weight: 20
         - identifier: venue
           parent: venue-travel-group
           name: Venue
           url: venue-and-travel/venue
-          weight: 2
+          weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
-          weight: 2
+          weight: 22
         - identifier: programs-group
           name: Program
           url: programs
-          weight: 3
+          weight: 30
         - identifier: call-for-proposals
           parent: programs-group
           name: Call for proposals
           url: call-for-proposals
-          weight: 3
+          weight: 31
         - identifier: sessions
           parent: programs-group
           name: Sesi
           url: sessions
-          weight: 3
+          weight: 32
         - identifier: confirmed
           parent: programs-group
           name: Sesi yang Dikonfirmasi
           url: confirmed
-          weight: 3
+          weight: 33
         - identifier: sponsors-group
           name: Sponsor/Patron
           url: sponsors
-          weight: 4
+          weight: 40
+        - identifier: become-a-sponsor
+          parent: sponsors-group
+          name: Become a sponsor
+          url: become-a-sponsor
+          weight: 41
         - identifier: sponsors
           parent: sponsors-group
           name: Sponsor
           url: sponsors
-          weight: 4
+          weight: 42
         - identifier: patrons
           parent: sponsors-group
           name: Patron Individual
           url: patrons
-          weight: 4
+          weight: 43
         - identifier: news
           name: Berita
           url: news
-          weight: 5
+          weight: 50
         - identifier: wiki
           name: Wiki
           url: https://wiki.ubuntu.com/UbuconAsia/2022
-          weight: 6
+          weight: 60
   ja:
     languageName: 日本語
     title: UbuCon Asia 2022
@@ -236,62 +251,67 @@ languages:
         - identifier: about
           name: Ubucon Asiaとは
           url: about
-          weight: 1
+          weight: 10
         - identifier: venue-travel-group
           name: Venue & Travel
           url: venue-and-travel
-          weight: 2
+          weight: 20
         - identifier: venue
           parent: venue-travel-group
           name: Venue
           url: venue-and-travel/venue
-          weight: 2
+          weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
-          weight: 2
+          weight: 22
         - identifier: programs-group
           name: Programs
           url: programs
-          weight: 3
+          weight: 30
         - identifier: call-for-proposals
           parent: programs-group
           name: Call for proposals
           url: call-for-proposals
-          weight: 3
+          weight: 31
         - identifier: sessions
           parent: programs-group
           name: セッション
           url: sessions
-          weight: 3
+          weight: 32
         - identifier: confirmed
           parent: programs-group
           name: Confirmed sessions
           url: confirmed
-          weight: 3
+          weight: 33
         - identifier: sponsors-group
           name: スポンサー/Patrons
           url: sponsors
-          weight: 4
+          weight: 40
+        - identifier: become-a-sponsor
+          parent: sponsors-group
+          name: Become a sponsor
+          url: become-a-sponsor
+          weight: 41
         - identifier: sponsors
           parent: sponsors-group
           name: スポンサー
           url: sponsors
-          weight: 4
+          weight: 42
         - identifier: patrons
           parent: sponsors-group
           name: Individual patrons
           url: patrons
-          weight: 4
+          weight: 43
         - identifier: news
           name: ニュース
           url: news
-          weight: 4
+          weight: 50
         - identifier: wiki
           name: Wiki
           url: https://wiki.ubuntu.com/UbuconAsia/2022
-          weight: 5
+          weight: 60
   zh-hant-tw:
     languageName: 正體中文(臺灣)
     title: UbuCon Asia 2022
@@ -307,62 +327,67 @@ languages:
         - identifier: about
           name: About
           url: about
-          weight: 1
+          weight: 10
         - identifier: venue-travel-group
           name: Venue & Travel
           url: venue-and-travel
-          weight: 2
+          weight: 20
         - identifier: venue
           parent: venue-travel-group
           name: Venue
           url: venue-and-travel/venue
-          weight: 2
+          weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
-          weight: 2
+          weight: 22
         - identifier: programs-group
           name: Programs
           url: programs
-          weight: 3
+          weight: 30
         - identifier: call-for-proposals
           parent: programs-group
           name: Call for proposals
           url: call-for-proposals
-          weight: 3
+          weight: 31
         - identifier: sessions
           parent: programs-group
           name: Sessions
           url: sessions
-          weight: 3
+          weight: 32
         - identifier: confirmed
           parent: programs-group
           name: Confirmed sessions
           url: confirmed
-          weight: 3
+          weight: 33
         - identifier: sponsors-group
           name: Sponsors/Patrons
           url: sponsors
-          weight: 4
+          weight: 40
+        - identifier: become-a-sponsor
+          parent: sponsors-group
+          name: Become a sponsor
+          url: become-a-sponsor
+          weight: 41
         - identifier: sponsors
           parent: sponsors-group
           name: Sponsors
           url: sponsors
-          weight: 4
+          weight: 42
         - identifier: patrons
           parent: sponsors-group
           name: Individual patrons
           url: patrons
-          weight: 4
+          weight: 43
         - identifier: news
           name: News
           url: news
-          weight: 5
+          weight: 50
         - identifier: wiki
           name: Wiki
           url: https://wiki.ubuntu.com/UbuconAsia/2022
-          weight: 6
+          weight: 60
   zh-hans-cn:
     languageName: 简体中文（中国大陆）
     title: UbuCon Asia 2022
@@ -420,6 +445,11 @@ languages:
           parent: sponsors-group
           name: 赞助商
           url: sponsors
+          weight: 4
+        - identifier: become-a-sponsor
+          parent: sponsors-group
+          name: Become a sponsor
+          url: become-a-sponsor
           weight: 4
         - identifier: patrons
           parent: sponsors-group
