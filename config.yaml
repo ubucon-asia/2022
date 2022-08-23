@@ -472,7 +472,7 @@ params:
   twitter: ubuconasia
   github: ubucon-asia
   repo: https://github.com/ubucon-asia/2022
-  clickyAnalyticsId: 101377291
+  cloudflareAnalyticsToken: 25b3a95f0c9b46ebbe67afb9ea6006b2
   copyright:  >-
     © 2022 UbuCon Asia 2022 Website authors.
     Except where otherwise noted, Website source code licensed under MIT, Contents licensed under CC BY 4.0. 
