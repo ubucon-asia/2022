@@ -54,3 +54,5 @@ other = "Menu"
 other = "Close menu"
 [sponsor_promo_image]
 other = "Get sponsor promotion image"
+[last_update]
+other = "Last update"

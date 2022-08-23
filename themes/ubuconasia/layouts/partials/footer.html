@@ -11,6 +11,13 @@
       </ul>
       <p>{{.Site.Params.copyright}}</p>
       <p><a class="p-link--inverted" href="{{.Site.Params.repo}}">Source code on GitHub</a></p>
+      {{ with .GitInfo }}
+      <p>{{ i18n "last_update"}}:
+        <a href="{{$.Site.Params.repo}}/commit/{{.Hash}}">
+        {{ .Subject }} (<u class="timedisplay" style="text-decoration-style: dotted;">{{.AuthorDate.Format "2006-01-02T15:04:05-07:00"}}</u>)
+        </a> - <a href="mailto:{{.AuthorEmail}}">{{.AuthorName}}</a>
+      </p>
+      {{ end }}
     </div>
   </div>
 </div>

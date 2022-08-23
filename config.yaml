@@ -5,7 +5,7 @@ theme: ubuconasia
 Paginate: 5
 buildFuture: true
 enableRobotsTXT: true
-
+enableGitInfo: true
 defaultContentLanguage: en
 languages:
   ko:
