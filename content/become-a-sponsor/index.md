@@ -11,3 +11,18 @@ To learn more about our sponsorship program, please refer to our sponsorship bro
 To become one of our sponsors, contact sponsorship team. sponsorship@ubucon.asia
 
 {{< button text="See sponsorship prospectus" href="uca22_sponsorship_prospectus_en.pdf" icon="external-link" >}}
+
+## Sponsor slot status
+| **Class** | Diamond | Gold | Silver |
+| --- | --- | --- | --- |
+| **Occupied/Total slots** | 0/1 | 0/2 | 0/8 |
+
+| **Class** | Bronze | Supporter | Conference Dinner |
+| --- | --- | --- | --- |
+| **Occupied/Total slots** | 0/8 | 0/12 | 0/1 |
+
+## Add-on slot status
+| Add-on | Slots |
+| Gold: Select logo exposure | Nametag(Available), Swag(Available) |
+| Silver: Sponser session(20 min Short talk) | 0 Occupied/2 Total slots | 
+| Bronze: Sponser session(5 min Lightning talk) | 0 Occupied/2 Total slots | 
