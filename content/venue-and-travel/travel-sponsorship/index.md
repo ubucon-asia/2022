@@ -15,6 +15,7 @@ If you travel from foreign country or non capital area of Korea to join our even
 - For people who arrive from foreign countries, Round trip ticket fee for International Flights and Ferry
   - Upto 1,300,000 KRW (Approx 1,000 USD - This is standard, can be less or more depending on departure city)
   - Will be purchased by speaker first, Then reimbursed by organizing team after the event.
+    - In case you can't book ticket because price is too high to pay by yourself, Let us know when writting application. So that we can help with that. 
 - 3~4 Nights of hotel near the venue. (Will be booked by organizing team)
   - You may choose and book other accommodations. In that case, accomodation expenses will be also reimbursed after the event.
 
