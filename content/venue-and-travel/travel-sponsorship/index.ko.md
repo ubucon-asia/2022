@@ -25,7 +25,7 @@ UbuCon Asia에 참석하려면 항공편이나 숙박 비용으로 보통 많은
 {{< button text="지원 양식은 곧 열릴 예정입니다...." href="" icon="copy" >}}
 
 # 우분투 도네이션 펀딩(Ubuntu Donation Funding)
-**공식 우분투 멤버(Official Ubuntu Member)** 이신 경우 **우분투 도네이션 펀딩(Ubuntu Donation Funding)**에 지원하여 여행 경비를 요청해 보실 수 있습니다.
+**공식 우분투 멤버(Official Ubuntu Member)** 이신 경우 **우분투 도네이션 펀딩(Ubuntu Donation Funding)**에 지원하여 여행 경비를 요청해 보실 수 있습니다.    
 지원서 제출을 위해 [*Launchpad의 Ubuntu Members팀의 회원으로 등록된*](https://launchpad.net/~ubuntumembers) Ubuntu One 계정이 필요합니다.
 
 {{< button text="우분투 도네이션 펀딩(Ubuntu Donation Funding) 알아보기" href="https://discourse.ubuntu.com/t/ubuntu-donations-funding/29" icon="external-link" >}}

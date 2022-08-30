@@ -25,7 +25,7 @@ Note that since our budget is quite limited, It won't be able to provide sponsor
 {{< button text="Application form will be available soon..." href="" icon="copy" >}}
 
 # Ubuntu Donation Funding
-If you are a **Official Ubuntu Member** you can apply for **Ubuntu Donation Funding** to get your travel expenses covered. 
+If you are a **Official Ubuntu Member** you can apply for **Ubuntu Donation Funding** to get your travel expenses covered.   
 You will need a Ubuntu One account with a membership to [*Ubuntu Members* team on Launchpad](https://launchpad.net/~ubuntumembers) to submit application.
 
 {{< button text="About Ubuntu Donation Funding" href="https://discourse.ubuntu.com/t/ubuntu-donations-funding/29" icon="external-link" >}}
