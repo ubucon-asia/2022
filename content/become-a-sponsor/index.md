@@ -23,6 +23,7 @@ To become one of our sponsors, contact sponsorship team. sponsorship@ubucon.asia
 
 ## Add-on slot status
 | Add-on | Slots |
+| --- | --- |
 | Gold: Select logo exposure | Nametag(Available), Swag(Available) |
 | Silver: Sponser session(20 min Short talk) | 0 Occupied/2 Total slots | 
 | Bronze: Sponser session(5 min Lightning talk) | 0 Occupied/2 Total slots | 
