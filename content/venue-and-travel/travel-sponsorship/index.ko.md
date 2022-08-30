@@ -1,5 +1,5 @@
 ---
-title: "Travel sponsorship 여행 경비 지원"
+title: "여행 경비 지원"
 description: 행사에 직접 참석하기 위한 여행 경비 충당이 어려운 분들을 위한 지원 프로그램 정보입니다.
 ---
 UbuCon Asia에 참석하려면 항공편이나 숙박 비용으로 보통 많은 예산이 필요합니다. 
