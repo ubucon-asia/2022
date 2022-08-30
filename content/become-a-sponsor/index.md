@@ -10,4 +10,4 @@ Our sponsorship package offerings can help your company to empower branding with
 To learn more about our sponsorship program, please refer to our sponsorship brochure.
 To become one of our sponsors, contact sponsorship team. sponsorship@ubucon.asia
 
-> We're currently finalizing our sponsorship program. The sponsorship prospectus will be released by this sunday (Aug 28). You may contact our sponsorship team to get notified when call for sponsors open. 
+{{< button text="See sponsorship prospectus" href="uca22_sponsorship_prospectus_en.pdf" icon="external-link" >}}
