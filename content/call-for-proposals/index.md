@@ -45,7 +45,15 @@ Since UbuCon Asia 2022 is a In-person and online hybrid event, Video recording f
 After submitting the proposal, detailed discussions and meetings on the content of the proposal may be held until a final decision is made. If you submit your proposal with a little leeway, you can improve the proposal through consultation and meeting with the organizing team.
 
 ## Criteria for reviewing proposals
-The review will be conducted based on the content presented in the proposal. Personal information on applicants will not be considered in the proposal review. Please do not submit content that is unnecessary for review of the proposal, such as content that can infer who the applicant is and detailed personal information about the applicant. Personal information submitted inevitably may be processed separately during the review process.
+- We do not choose proposal based on your profile. But we choose based on content of your proposal.
+  - Do not include your personal information such as nationality, where you live, affiliation, gender and sexual orientation, race, and disability. In case we found these, It will be removed during review process.
+- Choose topic that at least related to te
+- Please suggest a topic that is at least slightly related to Ubuntu and the technologies related with Ubuntu ecosystem.
+  - Since this event is a conference for Ubuntu, We give more priority and scores to proposals with topic related to Ubuntu and Ubuntu ecosystem.
+- Please be specific! Topics such as "What is Ubuntu?" is too much broad!
+- Please refrain suggesting proposal for just simply delivering information, especially proposals that reveal the intent of the advertisement.  
+   - Many audiences attend for the presenter's own experience or hard-to-find information, rather than information that can be easily found by searching online.
+   - Your unique experiences and cases, case studies of using Ubuntu or related open sources in your company, and contents related to Ubuntu or related open sources helpful for audiences are welcomed.
 
 # Before writing proposal
 Make sure to refer followings before writing your proposal
