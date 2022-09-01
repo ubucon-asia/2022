@@ -47,7 +47,6 @@ After submitting the proposal, detailed discussions and meetings on the content 
 ## Criteria for reviewing proposals
 - We do not choose proposal based on your profile. But we choose based on content of your proposal.
   - Do not include your personal information such as nationality, where you live, affiliation, gender and sexual orientation, race, and disability. In case we found these, It will be removed during review process.
-- Choose topic that at least related to te
 - Please suggest a topic that is at least slightly related to Ubuntu and the technologies related with Ubuntu ecosystem.
   - Since this event is a conference for Ubuntu, We give more priority and scores to proposals with topic related to Ubuntu and Ubuntu ecosystem.
 - Please be specific! Topics such as "What is Ubuntu?" is too much broad!
