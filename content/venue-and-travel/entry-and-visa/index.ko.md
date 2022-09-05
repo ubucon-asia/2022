@@ -33,21 +33,11 @@ C-3-1 비자의 경우, 비자 초청장이 필요합니다. 확인된 UbuCon As
 
 # 코로나19 방역 정책
 
-## 출국 전
-현제 대한민국 단기 체류목적 입국자는 격리가 필요하지 않지만, 아래 둘중 한가지 코로나19 음성확인서를 준비 해 오셔야 합니다.
-- **출국일 0시부터 48시간 이내** 수행한 **코로나19 PCR** 검사에 대한 **음성확인서**.
-- **출국일 0시부터 24시간 이내** 전문가가 수행한(의료기관이나 방역당국이 수행한) **코로나19 RAT** 검사에 대한 **음성확인서**. 
-
-코로나19 음성 확인서를 지참하지 않으면 출국할 수 없습니다.
-
-{{< button text="대상자별 방역 조치" href="https://cov19ent.kdca.go.kr/cpassportal/biz/beffatstmnt/QuarantineMeasuresByType.do?lang=ko" icon="external-link" >}}
-{{< button text="해외입국자 방역관리 안내" href="https://ncv.kdca.go.kr/menu.es?mid=a30901000000" icon="external-link" >}}
-
-## 입국 후
-- 검역정보를 작성하여 제출 하시게 됩니다. 빠른 검역 절차를 위해 미리 Q-CODE 에서 온라인으로 검역정보를 제출하시는 것을 권장합니다. 
-- 입국 심사 후, 입국일로부터 1일 이내 코로나19 PCR 검사를 해야 합니다. 인천국제공항에 도착 하시는 경우 Safe2GO pass 에서 검사를 예약하고 공항에서 검사를 받으실 수 있습니다.
+- 2022년 9월 3일 0시(한국시간) 부터, 더이상 입국 전 코로나19 음성확인서를 제출하지 않아도 됩니다.
+- 하지만, 여전히 입국일로부터 1일 이내 코로나19 PCR 검사를 해야 합니다. 
+  - 단기체류외국인(90일 미만 체류)은 의료기관에서 검사 받으시거나, 인천국제공항에 도착 하시는 경우 Safe2GO pass 에서 검사를 예약하고 공항에서 검사를 받으실 수 있습니다.
+  - 내국인 및 장기체류외국인(90일 초과 체류)은 보건소에서 검사를 받으시면 됩니다.
 - 대한민국에 6~7일 이상 머무시는 경우, 입국 6~7일 차에 코로나19 RAT 검사를 하시는 것을 권장합니다.
 
-{{< button text="검역 정보 입력 (Q-CODE)" href="https://cov19ent.kdca.go.kr/cpassportal/?lang=ko" icon="external-link" >}}
 {{< button text="한국에서 받을 코로나19 PCR 검사 예약 (Safe2GO pass)" href="https://safe2gopass.com/" icon="external-link" >}}
 
