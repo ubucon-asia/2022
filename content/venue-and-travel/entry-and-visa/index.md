@@ -39,4 +39,5 @@ Usually, You will follow following steps to apply for visa, But process or requi
     - For foreigners who visit Korea for short period(up to 90 days), Get tested at local medical institution. If you arrive at Incheon International Airport, You may book COVID-19 PCR test at Safe2GO pass website and get tested at airport.
     - For Koreans and foreigners who stay in Korea for long period(more then 90 days), Get tested at nearby community health center.
 - If you plan to stay in Korea more then 6~7 days, It is recommended to conduct COVID-19 RAT test on 6~7th day of arrival.
+
 {{< button text="Book COVID-19 PCR test at Korea (Safe2GO pass)" href="https://safe2gopass.com/" icon="external-link" >}}
