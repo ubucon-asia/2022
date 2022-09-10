@@ -21,11 +21,11 @@ description: Learn how to get to the venue and what's inside
 
 ![Business Tower 3F Map](./business_tower_3f.png)
 ### Business Tower 3F
-- (1) Lobby & Registration
+- (1) Lobby: Registration & Sponsor booth
 - (2) International Conference Room - For Keynotes and Talks(Lectures)
   - (2-1) Speaker waiting room
 - (3) Midsize Conference Room 2 - For BoF(Birds of Feathers sessions) and Talks(Lectures)  
-- (4) Midsize Conference Room 1 - For Sponsor Exhibition Boothes
+- (4) Midsize Conference Room 1 - Rest area
 - (T) Toilets
 
 ![Business Tower 4F Map](./business_tower_4f.png)
