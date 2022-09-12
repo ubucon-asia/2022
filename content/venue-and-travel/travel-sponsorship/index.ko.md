@@ -22,7 +22,7 @@ UbuCon Asia에 참석하려면 항공편이나 숙박 비용으로 보통 많은
 예산이 한정되어 있기 때문에, 경비 지원이 필요한 모든 분께 지원해 드릴 수 없다는 점을 알아 두시기를 바랍니다. 때문에 직장, 학교 또는 다른 기관 및 단체로부터도 지원을 받으실 수 있는지 확인해 보시길 권장해 드립니다.
 
 
-{{< button text="지원 양식은 곧 열릴 예정입니다...." href="" icon="copy" >}}
+{{< button text="여행 경비 지원 신청하기" href="https://docs.google.com/forms/d/e/1FAIpQLSfcHr6syQEwUhma6ZaZir6XXuTNX7TL4q-yYGicTzPGulN4mw/viewform?usp=sf_link" icon="copy" >}}
 
 # 우분투 도네이션 펀딩(Ubuntu Donation Funding)
 **공식 우분투 멤버(Official Ubuntu Member)** 이신 경우 **우분투 도네이션 펀딩(Ubuntu Donation Funding)**에 지원하여 여행 경비를 요청해 보실 수 있습니다.    

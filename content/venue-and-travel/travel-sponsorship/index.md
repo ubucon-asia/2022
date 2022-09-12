@@ -22,7 +22,7 @@ If you travel from foreign country or non capital area of Korea to join our even
 Sponsorship will be provided for speakers who has difficulty with bringing travel budget first, then will be provided for other participants if we have remaining fund. 
 Note that since our budget is quite limited, It won't be able to provide sponsorship for everyone who need. We recommend you to also check wheather you can get travel expenses support from you work, school or other organizations.
 
-{{< button text="Application form will be available soon..." href="" icon="copy" >}}
+{{< button text="Apply for travel sponsorship" href="https://docs.google.com/forms/d/e/1FAIpQLSfcHr6syQEwUhma6ZaZir6XXuTNX7TL4q-yYGicTzPGulN4mw/viewform?usp=sf_link" icon="copy" >}}
 
 # Ubuntu Donation Funding
 If you are a **Official Ubuntu Member** you can apply for **Ubuntu Donation Funding** to get your travel expenses covered.   
