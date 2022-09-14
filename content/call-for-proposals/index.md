@@ -6,7 +6,7 @@ description: "Call for talks and workshops: Aug 17 ~ Sep 28 (Extended)"
 # Important dates
 
 ## Talks and Workshops proposals
-- Proposal submission period: {{< timedisplay datetime="2022-08-17T00:00:00+09:00" display="datetime" >}}) ~ {{< timedisplay datetime="2022-09-28T23:59:59+09:00" display="datetime" >}} (Extended)
+- Proposal submission period: {{< timedisplay datetime="2022-08-17T00:00:00+09:00" display="datetime" >}} ~ {{< timedisplay datetime="2022-09-28T23:59:59+09:00" display="datetime" >}} (Extended)
 - Proposal review period: {{< timedisplay datetime="2022-09-29" display="date" >}} ~ {{< timedisplay datetime="2022-10-12" display="date" >}}
 - Notification of acceptance and speaker confirmation: {{< timedisplay datetime="2022-10-12" display="date" >}} ~ {{< timedisplay datetime="2022-10-19" display="date" >}}
 

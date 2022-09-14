@@ -5,7 +5,7 @@ description: "강연 및 워크샵 제안서 모집: 8월 17일 ~ 9월 28일 (�
 # 중요 일정
 
 ## 강연 및 워크샵 제안서
-- 제안서 모집 기간: {{< timedisplay datetime="2022-08-17T00:00:00+09:00" display="datetime" >}}) ~ {{< timedisplay datetime="2022-09-28T23:59:59+09:00" display="datetime" >}} (연장됨)
+- 제안서 모집 기간: {{< timedisplay datetime="2022-08-17T00:00:00+09:00" display="datetime" >}} ~ {{< timedisplay datetime="2022-09-28T23:59:59+09:00" display="datetime" >}} (연장됨)
 - 제안서 검토 기간: {{< timedisplay datetime="2022-09-29" display="date" >}} ~ {{< timedisplay datetime="2022-10-12" display="date" >}}
 - 제안서 검토 결과 발표 및 참가 확인: {{< timedisplay datetime="2022-10-12" display="date" >}} ~ {{< timedisplay datetime="2022-10-19" display="date" >}}
 
