@@ -80,21 +80,21 @@ For main topic category, Choose the one that applies best to your session. Sub t
 UbuCon Asia this year is accepting proposals with following topics but not limited to:
 
 - Desktop
-  - GNOME, KDE, GTK, QT, Flutter, Enterprise Desktop Deployments, Landscape, Active Directory, Ubuntu flavours, Pipewire, X.Org, Wayland, Mir, CUPS, OpenPrinting
+  - GNOME, KDE, GTK, QT, Flutter, Enterprise Desktop Deployments, Landscape, Active Directory, Ubuntu flavours, Pipewire, X.Org, Wayland, Mir, CUPS, OpenPrinting and more
 - Cloud and Infrastructure
   - Public and private cloud, On premise: AWS, Google Cloud, Azure, OpenStack, MicroStack, MAAS, Ubuntu Cloud images and more
   - Linux Containers and Container Orchestration: Docker, LXC, LXD, Kubernetes, Microk8s, Ubuntu Container images and more
-  - DevOps: Juju, cloud-init, Multipass, MAAS, CI/CD
+  - DevOps: Juju, cloud-init, Multipass, MAAS, CI/CD and more
   - Virtualization: KVM, QEMU, Xen and more
   - Automations, Networking: Landscape, Netplan, cloud-init and more
 - Windows Subsystem for Linux(WSL)
-  - Ubuntu WSL & Windows Interoperability, WSL on Windows Server, Developing for Linux using WSL, Containers on WSL
+  - Ubuntu WSL & Windows Interoperability, WSL on Windows Server, Developing for Linux using WSL, Containers on WSL and more
 - Localizations, Internationalizations, and Accessibility
 - IoT, Embedded, Robotics, Appliances
-  - Ubuntu Core, Raspberry Pi, ROS, Snaps on IoT, Mir Display Server, Ubuntu Frame
+  - Ubuntu Core, Raspberry Pi, ROS, Snaps on IoT, Mir Display Server, Ubuntu Frame and more
 - Packaging
   - Debian packaging(*.deb), Snap packaging(Snapcraft), Flatpak, AppImage and more
-  - Operating package repositories(Using hosted service like Launchpa PPA or self hosting), Operating package mirror servers
+  - Operating package repositories(Using hosted service like Launchpa PPA or self hosting), Operating package mirror servers and more
   - Automate packaging with Launchpad Build Recipes, CIs like GitHub Actions
 - Documentations, QA and Bug triage
 - Security, Compliance and Kernel
