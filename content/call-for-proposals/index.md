@@ -18,6 +18,11 @@ TBD
 
 {{< button text="Talk or Workshop proposal" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="copy" >}}
 
+{{% accordion title="Entry requirements and Visa" id="tab4" expanded="false" hidden="true"  %}}
+
+See [this page](../venue-and-travel/entry-and-visa) for details.
+
+{{% /accordion %}}
 
 {{% accordion title="Travel sponsorship" id="tab2" expanded="false" hidden="true" %}}
 
@@ -37,12 +42,6 @@ Please feel free to reach out us by chat or email to ask for help and questions.
 - Chat (Telegram): https://t.me/UbuConAsia
 
 UbuCon Asia team will be their to help potential speakers to prepare and submit proposal. Just note that team might not be available instantly, because they might living in quite different timezone from you. 
-
-{{% /accordion %}}
-
-{{% accordion title="Entry requirements and Visa" id="tab4" expanded="false" hidden="true"  %}}
-
-See [this page](../venue-and-travel/entry-and-visa) for details.
 
 {{% /accordion %}}
 
@@ -92,7 +91,7 @@ UbuCon Asia this year is accepting proposals with following topics but not limit
   - Ubuntu WSL & Windows Interoperability, WSL on Windows Server, Developing for Linux using WSL, Containers on WSL
 - Localizations, Internationalizations, and Accessibility
 - IoT, Embedded, Robotics, Appliances
-  - Ubuntu Core, Raspberry Pi, ROS, Snaps on IoT, Mir, Ubuntu Frame
+  - Ubuntu Core, Raspberry Pi, ROS, Snaps on IoT, Mir Display Server, Ubuntu Frame
 - Packaging
   - Debian packaging(*.deb), Snap packaging(Snapcraft), Flatpak, AppImage and more
   - Operating package repositories(Using hosted service like Launchpa PPA or self hosting), Operating package mirror servers
