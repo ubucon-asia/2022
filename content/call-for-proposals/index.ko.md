@@ -80,25 +80,25 @@ description: "강연 및 워크샵 제안서 모집: 8월 17일 ~ 9월 28일 (�
 올해 UbuCon Asia에서는 아래와 같은 다양한 주제로 제안서를 받고 있습니다.
 
 - 데스크탑
-  - GNOME, KDE, GTK, QT, Flutter, 엔터프라이즈 데스크탑 배포, Landscape, Active Directory, 변형 Ubuntu 배포판, Pipewire, X.Org, Wayland, Mir, CUPS, OpenPrinting
+  - GNOME, KDE, GTK, QT, Flutter, 엔터프라이즈 데스크탑 배포, Landscape, Active Directory, 변형 Ubuntu 배포판, Pipewire, X.Org, Wayland, Mir, CUPS, OpenPrinting 등
 - 클라우드와 인프라
   - 퍼블릭/프라이빗 클라우드, 온프레미스: AWS, Google Cloud, Azure, OpenStack, MicroStack, MAAS, 우분투 클라우드 이미지 등
   - 리눅스 컨테이너와 컨테이너 오케스트레이션: Docker, LXC, LXD, Kubernetes, Microk8s, 우분투 컨테이너 이미지 등
-  - DevOps: Juju, cloud-init, Multipass, MAAS, CI/CD
+  - DevOps: Juju, cloud-init, Multipass, MAAS, CI/CD 등
   - 가상화: KVM, QEMU, Xen 등
   - 자동화, 네트워킹: Landscape, Netplan, cloud-init 등
 - Linux용 Windows 하위시스템(WSL)
-  - Ubuntu WSL & Windows 상호운용성, Windows Server 에서의 WSL, WSL로 리눅스 개발, WSL에서 컨테이너 이용
+  - Ubuntu WSL & Windows 상호운용성, Windows Server 에서의 WSL, WSL로 리눅스 개발, WSL에서 컨테이너 이용 등
 - 지역화, 국제화 및 접근성
 - 사물인터넷, 임베디드, 로보틱스 및 가전
-  - Ubuntu Core, Raspberry Pi, ROS, IoT용 Snap, Mir 디스플레이 서버, Ubuntu Frame
+  - Ubuntu Core, Raspberry Pi, ROS, IoT용 Snap, Mir 디스플레이 서버, Ubuntu Frame 등
 - 패키징
   - 데비안 패키징(*.deb), Snap 패키징(Snapcraft), Flatpak, AppImage 등
-  - 패키지 저장소 운영(Launchpa PPA등 호스팅 서비스나 직접 저장소 구축 운영), 패키지 미러 서버 운영
+  - 패키지 저장소 운영(Launchpa PPA등 호스팅 서비스나 직접 저장소 구축 운영), 패키지 미러 서버 운영 등
   - Launchpad Build Recipes, GitHub Actions과 같은 CI등 도구를 활용한 패키징 자동화
 - 문서화, 품질 관리 및 버그 분류
 - 보안, 규정준수 및 커널
-  - 보안: AppArmor, ufw, SMACK, SELinux, ESM (Extended Security Maintenance), Livepatch, CVEs and Ubuntu Security Notices 등
+  - 보안: AppArmor, ufw, SMACK, SELinux, ESM (Extended Security Maintenance), Livepatch, CVEs 및 Ubuntu Security Notices 등
   - 규정준수: FIPS, CIS, PCI-DSS, 오픈소스 라이선스 등
   - 커널: Livepatch, 우분투 커널 변형 버전, 디바이스 드라이버, 파일시스템 등
 - 데이터와 인공지능: 데이터 과학, 데이터 공학, 인공지능, 기계학습 등 워크로드를 위한 Ubuntu
