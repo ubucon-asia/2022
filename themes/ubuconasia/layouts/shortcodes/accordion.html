@@ -1,0 +1,13 @@
+<aside class="p-accordion">
+    <ul class="p-accordion__list">
+        <li class="p-accordion__group">
+            <h2 class="p-accordion__heading">
+                <button type="button" class="p-accordion__tab" id='{{.Get "id"}}' aria-controls='{{.Get "id"}}-ctl'
+                    aria-expanded='{{.Get "expanded"}}'>{{.Get "title"}}</button>
+            </h2>
+            <section class="p-accordion__panel" id='{{.Get "id"}}-ctl' aria-hidden='{{.Get "hidden"}}' aria-labelledby='{{.Get "id"}}'>
+            <p>{{.Inner}}</p>
+            </section>
+        </li>
+    </ul>
+</aside>
