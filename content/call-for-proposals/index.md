@@ -187,7 +187,7 @@ Why participants will need to join your session? What can audiences learn from y
   - Do not include your personal information such as nationality, where you live, affiliation, gender and sexual orientation, race, and disability. In case we found these, It will be removed during review process.
 - What do you want to convey? Through your session, What would you like to share?
   - Your session duration is limited. Write your proposal concretely so that you can deliver the content within a given time.
-
+- Do not submit large number of proposals at once. That doesn't increase possibility of your proposal adoption. But we may take that as spam and reject all of your proposals. Instead, As we try to invite as much speakers as possible, Put your efforts on writting a single good proposals.
 ### Discussion on your proposal
 After submitting the proposal, detailed discussions and meetings on the content of the proposal may be held until a final decision is made. If you submit your proposal with a little leeway, you can improve the proposal through consultation and meeting with the organizing team.
 {{% /accordion %}}
