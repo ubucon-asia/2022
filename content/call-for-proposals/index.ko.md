@@ -15,7 +15,8 @@ description: "강연 및 워크샵 제안서 모집: 8월 17일 ~ 9월 28일 (�
 # 발표 제안서 제출/수정
 
 - 제안서 제출 전 아래 가이드라인을 한번씩 읽어 주시기 바랍니다.
-- Google Form 으로 제안서를 제출받고 있습니다. 제안서를 제출하시면, "응답 수정" 버튼이 포함된 제안서 사본이 이메일로 발송되며, 제안서 제출 기간 동안 응답 수정 버튼으로 언제든 제안서를 수정 및 개선하실 수 있스니다
+- Google Form 으로 제안서를 제출받고 있습니다. 제안서를 제출하시면, "응답 수정" 버튼이 포함된 제안서 사본이 이메일로 발송되며, 제안서 제출 기간 동안 응답 수정 버튼으로 언제든 제안서를 수정 및 개선하실 수 있습니다.
+
 {{< button text="강연 또는 워크샵 제안서" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="copy" >}} 
 
 {{% accordion title="입국 요건 및 비자" id="tab4" expanded="false" hidden="true"  %}}
