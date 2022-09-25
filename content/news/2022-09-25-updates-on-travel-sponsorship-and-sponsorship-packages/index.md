@@ -1,7 +1,7 @@
 
 ---
 title: "Updates on Travel sponsorship and Sponsorship package details"
-date: 2022-09-15T22:00:00+09:00
+date: 2022-09-25T22:00:00+09:00
 authors:
     - name: Youngbin Han
       bio: Organizer, Ubucon Asia 2022 / Leader, Ubuntu Korea Community 
