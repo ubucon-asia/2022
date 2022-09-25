@@ -28,7 +28,7 @@ We're also announcing that our budget for flights per person has been reduced fr
 ## Sponsorship fees are now cheaper
 
 After receiving some feedbacks from companies and organizations we contacted and doing some more researches on other events sponsorship programs, We decided to lower our sponsorship fees.
-For Diaomnd, Gold and Silver, The sponsorship fees are noe 2,000,000 KRW cheaper.
-And for Bronze, Supporter and Dinner, The sponsorship fees are noe 1,000,000 KRW cheaper.
+For Diaomnd, Gold and Silver, The sponsorship fees are now 2,000,000 KRW cheaper.
+And for Bronze, Supporter and Dinner, The sponsorship fees are now 1,000,000 KRW cheaper.
 If you wanted to sponsor our event, But has been hesitated because of sponsorship fees, As our sponsorship pricing is now cheaper and more reasonable, You will be able to consider sponsoring our event more positively.
 [See this page](../../become-a-sponsor/) to learn more on our sponsorship program. To become a sponsor, [please contact our sponsorship team via email](sponsorship@ubucon.asia) 
