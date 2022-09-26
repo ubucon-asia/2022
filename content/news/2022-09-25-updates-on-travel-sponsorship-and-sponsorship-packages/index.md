@@ -23,7 +23,7 @@ If you submitted before, You should have received copy of your applicaiton from 
 
 We're also announcing that our budget for flights per person has been reduced from 1,300,000 KRW to 1,000,000 KRW. This may differ depending on final number of speakers coming from overseas, Speaker's depature location, Sponsorship status and Indicidual donations. But this amount will be the standard that we can support in maximum.
 
-[See this page to learn more.](../../venue-and-travel/travel-sponsorship/). For questions on travel sponsorship, [please contact our travel support team via email](travel@ubucon.asia)
+[See this page to learn more.](../../venue-and-travel/travel-sponsorship/) For questions on travel sponsorship, [please contact our travel support team via email](travel@ubucon.asia)
 
 ## Sponsorship fees are now cheaper
 
