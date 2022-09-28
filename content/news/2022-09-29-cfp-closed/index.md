@@ -35,7 +35,7 @@ To summarize proposals by session types, 20min and 45min Talks are the most prop
 | Talk 75min | 5 |
 | Workshop 90min | 9 |
 
-![](stat_type.png)  
+![](topic_stat.png)  
 By topic categories, Most proposals are *Cloud and Infrastructure(14 proposals)*, *Community, Diversity, Local Outreach and Social Context(14 proposals)* and *Desktop(6 proposals)* topics.
 
 ## Questions?
