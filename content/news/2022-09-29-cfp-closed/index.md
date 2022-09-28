@@ -24,7 +24,7 @@ If you submitted proposals and coming from overseas or non-capital area of Korea
 
 ## Some overview of submitted proposal
 
-We received 50 proposals this year! Note that this doesn't include lightning talks and BoFs yet.
+We received 51 proposals this year! Note that this doesn't include lightning talks and BoFs yet.
 
 ![](stat_type.png)  
 To summarize proposals by session types, 20min and 45min Talks are the most proposals submitted this year.  
@@ -33,10 +33,10 @@ To summarize proposals by session types, 20min and 45min Talks are the most prop
 | Talk 20min | 18 |
 | Talk 45min | 19 |
 | Talk 75min | 5 |
-| Workshop 90min | 8 |
+| Workshop 90min | 9 |
 
 ![](stat_type.png)  
-By topic categories, Most proposals are *Cloud and Infrastructure(13 proposals)*, *Community, Diversity, Local Outreach and Social Context(14 proposals)* and *Desktop(6 proposals)* topics.
+By topic categories, Most proposals are *Cloud and Infrastructure(14 proposals)*, *Community, Diversity, Local Outreach and Social Context(14 proposals)* and *Desktop(6 proposals)* topics.
 
 ## Questions?
 
