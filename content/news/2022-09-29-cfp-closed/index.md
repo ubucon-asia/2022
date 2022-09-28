@@ -1,6 +1,6 @@
 
 ---
-title: "Call for talks and workshop is now closed"
+title: "Call for talks and workshops is now closed"
 date: 2022-09-29T00:00:00+09:00
 authors:
     - name: Youngbin Han
@@ -13,7 +13,7 @@ authors:
       linklabel: Website
 ---
 
-Our call for talks and workshop for this year's UbuCon Asia is now closed! 
+Our call for talks and workshops for this year's UbuCon Asia is now closed! 
 Thank you every applicants for making your time on choosing topics and writing proposal for our event.
 
 Our content team will start reviewing submitted proposal from today to Oct 12.
