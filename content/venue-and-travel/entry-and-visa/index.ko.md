@@ -17,7 +17,9 @@ K-ETA(전자여행허가) 신청이 가능한 경우, 비자 없이 단기간(�
 # 비자(사증)
 
 K-ETA 신청 자격이 없는 경우, 비자(사증)을 발급하셔야 대한민국에 방문하실 수 있습니다. 대부분의 경우 UbuCon Asia 에 대면으로 참여하려면 C-3 비자(C-3-1 단기일반 또는 C-3-9 일반관광)면 충분합니다.
-C-3-1 비자의 경우, 비자 초청장이 필요합니다. 확인된 UbuCon Asia 참가자의 경우, [우분투한국커뮤니티](https://ubuntu-kr.org)에서 비자 초청장 제공을 도와드릴 수 있습니다. 자세한 사항은 여행지원팀 travel@ubucon.asia 에 문의 해 주세요.
+C-3-1 비자의 경우, 비자 초청장이 필요합니다. 확인된 UbuCon Asia 참가자의 경우, [우분투한국커뮤니티](https://ubuntu-kr.org)에서 비자 초청장 제공을 도와드릴 수 있습니다. 비자 초청장이 필요하신 경우, 요청 양식을 작성하여 제출 해 주세요.
+{{< button text="비자 초청장 요청" href="https://docs.google.com/forms/d/e/1FAIpQLScU83K4sPCgGgxH2DGvsctBbFgH8RLyOlb-_KKNd2Y1yyhpqg/viewform?usp=sf_link" icon="external-link" >}}
+
 
 ## 비자 지원하기
 보통 아래의 절차를 따라 비자를 지원하시면 되지만, 국가별로 절차나 요구되는 서류에 차이가 있을 수 있습니다. 주변 한국 대사관이나 영사관 웹사이트에서 정확한 정보를 확인 하시기 바랍니다.
