@@ -36,10 +36,9 @@ Usually, You will follow following steps to apply for visa, But process or requi
 
 # COVID-19 Quarantine policy
 
-- Since September 3rd 2022 00:00 AM KST, COVID-19 PCR/RAT test result document is no longer required prior entry to South Korea. 
-- But, You need to get COVID-19 PCR test within 1 day of arrival.
-    - For foreigners who visit Korea for short period(up to 90 days), Get tested at local medical institution. If you arrive at Incheon International Airport, You may book COVID-19 PCR test at Safe2GO pass website and get tested at airport.
-    - For Koreans and foreigners who stay in Korea for long period(more then 90 days), Get tested at nearby community health center.
-- If you plan to stay in Korea more then 6~7 days, It is recommended to conduct COVID-19 RAT test on 6~7th day of arrival.
-
+- Since October 1st, COVID-19 test before departure or after arrival is no longer required to enter South Korea. 
+- You will need to write and submit health questionnaire on arrival. You can also enter your quarintine information on Q-CODE instead before departure.
+- In case you need COVID-19 PCR test, You can book to get tested at Incheon International Airport on Safe2GO pass website.
+  - Korean nationals and foreigners with Residence Card can get COVID-19 test for free at nearby public health center within 3 days of arrival.
+{{< button text="Enter your quarintine information on Q-CODE" href="https://cov19ent.kdca.go.kr/" icon="external-link" >}}
 {{< button text="Book COVID-19 PCR test at Korea (Safe2GO pass)" href="https://safe2gopass.com/" icon="external-link" >}}
