@@ -40,5 +40,7 @@ Usually, You will follow following steps to apply for visa, But process or requi
 - You will need to write and submit health questionnaire on arrival. You can also enter your quarintine information on Q-CODE instead before departure.
 - In case you need COVID-19 PCR test, You can book to get tested at Incheon International Airport on Safe2GO pass website.
   - Korean nationals and foreigners with Residence Card can get COVID-19 test for free at nearby public health center within 3 days of arrival.
+- Masks are recommended but not mandatory on outdoors. But mandatory at indoors and public transportation.
+
 {{< button text="Enter your quarintine information on Q-CODE" href="https://cov19ent.kdca.go.kr/" icon="external-link" >}}
 {{< button text="Book COVID-19 PCR test at Korea (Safe2GO pass)" href="https://safe2gopass.com/" icon="external-link" >}}

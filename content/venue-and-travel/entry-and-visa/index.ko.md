@@ -40,6 +40,8 @@ C-3-1 비자의 경우, 비자 초청장이 필요합니다. 확인된 UbuCon As
 - 한국 입국 시 종이로 된 "건강상태 질문서"를 작성하여 제출 하셔야 하며, 온라인에서 Q-CODE 에 검역 정보를 미리 입력하는 것으로 대신 하실 수도 있습니다.
 - 코로나19 PCR 검사가 필요하신 경우, Safe2Go pass 웹사이트로 예약 후 인천국제공항에서 검사가 가능합니다.
   - 대한민국 국민이나, 외국인등록증이 있는 외국인은 입국 3일 내 가까운 보건소에서 무료로 코로나19 PCR 검사가 가능합니다.
+- 마스크는 야외에서 필수는 아니지만 권장됩니다. 실내 및 대중교통에서는 필수적으로 착용해야 합니다.
+
 {{< button text="Q-CODE 에서 검역 정보 미리 입력" href="https://cov19ent.kdca.go.kr/" icon="external-link" >}}
 {{< button text="인천국제공항 코로나19 PCR 검사 예약 (Safe2GO pass)" href="https://safe2gopass.com/" icon="external-link" >}}
 
