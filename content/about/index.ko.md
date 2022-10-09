@@ -61,10 +61,10 @@ title: "UbuCon Asia 2022 소개"
     heading="Vincent Wong" bold=""
     desc="Global team" >}}
 
-{{<profile
+<!-- {{<profile
     profile="https://avatars.githubusercontent.com/u/1658742?v=4"
     heading="Hong Phuc Dang" bold="FOSSASIA"
-    desc="Global team | Content, Sponsorship and Finances" >}}
+    desc="Global team | Content, Sponsorship and Finances" >}} -->
 
 {{<profile
     profile="burgess_chang.jpg"
