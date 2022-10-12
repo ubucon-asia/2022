@@ -12,4 +12,6 @@ region: Seoul, South Korea # eg. South Korea, Mainland China, Singapore, Hong Ko
 ---
 
 Invesume is an opensource company based in Seoul. They develop and maintain HamoniKR OS, a Linux distro based on Linux mint, and also organizes community around its project. 
-Their open source operating system, HamoniKR OS is not only used within end users but also had been adapted in many Korean government organization. Other products they have are Hamonize(An opensource Remote PC Management system) and Hamonia MediaWeaver(An opensource video call system)
+Their open source operating system, HamoniKR OS is not only used within end users but also had been adapted in many Korean government organization. 
+
+Other products they have are Hamonize(An opensource Remote PC Management system) and Hamonia MediaWeaver(An opensource video call system)
