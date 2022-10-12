@@ -2,9 +2,13 @@
 title: "정보통신산업진흥원" # Name of the sponsor
 photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: venue # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
-website: "https://www.oss.kr/"
-facebook: "https://www.facebook.com/Kosslab"
-youtube: "https://www.youtube.com/c/OpenUP_OSS"
+links:
+- name: Website
+  url: "https://www.oss.kr/"
+- name: Facebook
+  url: "https://www.facebook.com/Kosslab"
+- name: YouTube
+  url: "https://www.youtube.com/c/OpenUP_OSS"
 cover: cover.jpg
 # brochure: brochure.pdf # path to brochure pdf file
 region: 대한민국 서울 # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...

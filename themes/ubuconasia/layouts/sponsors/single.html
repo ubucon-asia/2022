@@ -51,12 +51,11 @@
           </ul>
           {{end}}
           <ul class="p-inline-list--middot">
-            {{with .Params.website}}<li class="p-inline-list__item"><a target="_blank" href="{{.}}">Web</a></li>{{end}}
-            {{with .Params.github}}<li class="p-inline-list__item"><a target="_blank" href="{{.}}">GitHub</a></li>{{end}}
-            {{with .Params.facebook}}<li class="p-inline-list__item"><a target="_blank" href="{{.}}">Facebook</a></li>{{end}}
-            {{with .Params.fbgroup}}<li class="p-inline-list__item"><a target="_blank" href="{{.}}">Facebook Group</a></li>{{end}}
-            {{with .Params.twitter}}<li class="p-inline-list__item"><a target="_blank" href="{{.}}">Twitter</a></li>{{end}}
-            {{with .Params.youtube}}<li class="p-inline-list__item"><a target="_blank" href="{{.}}">YouTube</a></li>{{end}}
+            {{range .Params.links}}
+            <li class="p-inline-list__item">
+              <a target="_blank" href="{{.url}}">{{.name}}</a>
+            </li>
+            {{end}}
           </ul>
         </div>
       </div>

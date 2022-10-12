@@ -2,10 +2,15 @@
 title: "OpenStack Korea User Group" # Name of the sponsor
 photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: community # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
-website: "https://openstack-kr.org/"
-github: "https://github.com/openstack-kr"
-fbgroup: "https://www.facebook.com/groups/openstack.kr"
-youtube: "https://www.youtube.com/c/OpenStackKoreaGroup"
+links:
+- name: Website
+  url: "https://openstack-kr.org/"
+- name: Facebook
+  url: "https://www.facebook.com/groups/openstack.kr"
+- name: YouTube
+  url: "https://www.youtube.com/c/OpenStackKoreaGroup"
+- name: GitHub
+  url: "https://github.com/openstack-kr"
 cover: cover.png
 brochure: brochure.pdf # path to brochure pdf file
 region: South Korea # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
