@@ -7,7 +7,7 @@ facebook: "https://www.facebook.com/pages/OnlyOffice/833032526736775"
 twitter: "https://twitter.com/ONLY_OFFICE"
 youtube: "https://www.youtube.com/user/onlyofficeTV"
 cover: cover.jpg
-# brochure: brochure.pdf # path to brochure pdf file
+brochure: brochure.pdf # path to brochure pdf file
 region: Riga, Latvia # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
 
