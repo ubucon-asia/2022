@@ -19,7 +19,7 @@ To become one of our sponsors, contact sponsorship team. sponsorship@ubucon.asia
 
 | **Class** | Bronze | Supporter | Conference Dinner |
 | --- | --- | --- | --- |
-| **Occupied/In progress/Total slots** | 0/1/8 | 0/1/12 | 0/0/1 |
+| **Occupied/In progress/Total slots** | 0/2/8 | 1/0/12 | 0/0/1 |
 
 ## Add-on slot status
 | Add-on | Slots |
