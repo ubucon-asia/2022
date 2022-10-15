@@ -26,7 +26,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 2. Each personal information processing and holding period is as follows. 	
 | Purpose | Items to be collected | Collected from | When and how collected | Holding period |
 | --- | --- | --- | --- | --- |
-| Attendee registration, Registration fee payment and Attendee Check-in | Name, Affiliation, Job or Titlor Nationality, Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 5 years |
+| Attendee registration, Registration fee payment and Attendee Check-in | Name, Affiliation, Job or Titlor Nationality, Email address, Payment history | Festa.io or Tito.io event platform | When registration is complete via event platform | 5 years |
 | Marketing and advertisement | Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 1 year |
 | Proposal submission and notification | (Required) Name, Email address (Optional) Phone number, Affiliation, Job or Title | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
 | Travel sponsorship registration | (Required) Name, Email address, Nationality, Affiliation (Requested if needed) Payment method information such as bank account | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
@@ -45,7 +45,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 	
 | Entrustee | Location | When and how entrueted | Contact | Entrusted items | Entrusted works | Period of holding and use |
 | --- | --- | --- | --- | --- | --- | --- |
-| Festa Inc. | 19F, 8, 331beon-gil, Seongnam-daero, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | When the participant registers at festa.io | help@festa.io | --- | Participant registration and payment management | 5 years |
+| Festa Inc. | 19F, 8, 331beon-gil, Seongnam-daero, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | When the participant registers at festa.io | help@festa.io | Name, Affiliation, Job or Titlor Nationality, Email address, Payment history | Participant registration and payment management | 5 years |
 
 2. When concluding a entrustment contract, the **The Committee** shall, in accordance with Article 26 of the 「Personal Information Protection Act」, specify processing of personal information other than for the purpose of performing entrusted tasks is prohibited, technical and administrative protection measures, restrictions on re-entrustment, processing and supervision of the entrustee, and compensation for damages, etc. in documents such as contracts, and supervises whether the entrustee processes personal information safely.		
 3. If the contents of the entrustment work or the entrustees are changed, we will disclose it through this privacy policy without any delay.
@@ -55,8 +55,8 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 
 | Entrustee | Location | When and how entrueted | Contact | Entrusted items | Entrusted works | Period of holding and use |
 | --- | --- | --- | --- | --- | --- | --- |
-| Google LLC | Unites States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | --- | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
-| Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | --- | Participant registration and payment management | 5 years |
+| Google LLC | United States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | Name, Email address, Phone number, Affiliation, Job or Title, Payment method information such as bank account, Passport number, Passport expiry date, Passport place of issue | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
+| Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | Name, Affiliation, Job or Titlor Nationality, Email address, Payment history | Participant registration and payment management | 5 years |
 
 ## Article 6 (Personal information destruction procedure and destruction method)		
 1. **The Committee** destroys the personal information without delay when the personal information becomes unnecessary, such as the elapse of the personal information retention period or achievement of the Purpose of processing.
