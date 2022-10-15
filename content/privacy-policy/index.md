@@ -83,15 +83,15 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 2. Restricting access to personal information
      - We are taking necessary measures to control access to personal information by granting, changing, and canceling access rights to the database system that processes personal information, and we use an intrusion prevention system to control unauthorized access from outside.
 
-## Article 9(Installation and operation of devices that automatically collect personal information and denial of that)		
-1. **준비위원회**는 이용자에게 개별적인 맞춤서비스를 제공하기 위해 이용정보를 저장하고 수시로 불러오는 ‘쿠키(cookie)’를 사용합니다.		
-2. 쿠키는 웹사이트를 운영하는데 이용되는 서버(http)가 이용자의 컴퓨터 브라우저에게 보내는 소량의 정보이며 이용자들의 PC 컴퓨터내의 하드디스크에 저장되기도 합니다.		
-    1. 쿠키의 사용 목적 : 이용자가 방문한 각 서비스와 웹 사이트들에 대한 방문 및 이용형태, 인기 검색어, 보안접속 여부, 등을 파악하여 이용자에게 최적화된 정보 제공을 위해 사용됩니다.		
-    2. 쿠키의 설치•운영 및 거부 : 웹브라우저 상단의 도구>인터넷 옵션>개인정보 메뉴의 옵션 설정을 통해 쿠키 저장을 거부 할 수 있습니다.		
-    3. 쿠키 저장을 거부할 경우 맞춤형 서비스 이용에 어려움이 발생할 수 있습니다.	
+## Article 9 (Installation and operation of devices that automatically collect personal information and denial of that)		
+1. **The Committee** uses 'cookies' that store and retrieve usage information from time to time to provide users with individually customized services.	
+2. A cookie is a small amount of information that the server (http) used to operate the website sends to the user's computer browser and is also stored on the hard disk of the user's PC computer.		
+    1. Purpose of use of cookies: It is used to provide optimized information to users by identifying the types of visits and usage, popular search terms, secure access, etc. to each service and website visited by the user.		
+    2. Denial of installation and operation of cookies: You can refuse to store cookies by setting the web browser settings to deny cookies.
+    3. If you refuse to store cookies, you may experience difficulties in using customized services.
 
-## 제10조(행태정보의 수집·이용·제공 및 거부 등에 관한 사항)		
-**준비위원회**는 온라인 맞춤형 광고 등을 위한 행태정보를 수집·이용·제공하지 않습니다.		
+## Article 10 (Collection, use, provision of behavioral information and its denial)		
+**The Committee** does not collect, use, or provide behavioral information for online customized advertisements.
 
 ## 제11조(추가적인 이용·제공 판단기준)		
 **준비위원회**는 ｢개인정보 보호법｣ 제15조 제3항 및 제17조 제4항에 따라 ｢개인정보 보호법 시행령｣ 제14조의 2에 따른 사항을 고려하여 정보주체의 동의 없이 개인정보를 추가적으로 이용·제공할 수 있습니다.		
