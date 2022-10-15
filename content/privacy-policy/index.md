@@ -23,23 +23,23 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 ## Article 2 (Items of personal information to be managed and its holding period)
 1. **The Committe** manages and holds personal information within the period of holding and using personal information or the period of holding and using personal information agreed upon when collecting personal information from the subject of information according to the law.
 2. Each personal information managing and holding period is as follows. 	
-| Purpose | Items to be collected | Collection path | Moment of collection and method | Holding period |
+| Purpose | Items to be collected | Collected from | When and how collected | Holding period |
 | --- | --- | --- | --- | --- |
 | Attendee registration, Registration fee payment and Attendee Check-in | Name, Affiliation, Job or Titlor Nationality, Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 5 year |
 | Marketing and advertisement | Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 1 year |
-| Proposal submission and notification | (Required) Name, Email address (Optional) Phone number, Affiliation, Job or Title | When submitting the Google Form provided by the The Committee | 1 year |
-| Travel sponsorship registration | (Required) Name, Email address, Nationality, Affiliation (Requested if needed) Payment method information such as bank account | When submitting the Google Form provided by the The Committee | 1 year |
-| Visa invitation letter request | (Required) Name, Email address, Nationality, Affiliation, Passport number, Passport expiry date (Requested if needed) Passport place of issue | When submitting the Google Form provided by the The Committee | Discard immediately after the event ends |
+| Proposal submission and notification | (Required) Name, Email address (Optional) Phone number, Affiliation, Job or Title | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
+| Travel sponsorship registration | (Required) Name, Email address, Nationality, Affiliation (Requested if needed) Payment method information such as bank account | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
+| Visa invitation letter request | (Required) Name, Email address, Nationality, Affiliation, Passport number, Passport expiry date (Requested if needed) Passport place of issue | Event website and Google Form | When submitting the Google Form provided by the The Committee | Discard immediately after the event ends |
 
-## 제3조(개인정보의 제3자 제공에 관한 사항)		
-1. **준비위원회**는 개인정보를 제1조(개인정보의 처리 목적)에서 명시한 범위 내에서만 처리하며, 정보주체의 동의, 법률의 특별한 규정 등 「개인정보 보호법」 제17조 및 제18조에 해당하는 경우에만 개인정보를 제3자에게 제공합니다.		
-2. **준비위원회**는 다음과 같이 개인정보를 제3자에게 제공하고 있습니다.		
+## Article 3 (Provision of personal information to third parties)
+1. **The Committee** manages personal information only within the scope specified in Article 1 (Purpose of managing personal information) and provides personal information to third parties only if they fall under Articles 17 and 18 of the Personal Information Protection Act, such as consent of the subject of information and special provisions of the law.		
+2. **The Committee** provides personal information to following third parties.		
 
-| 개인정보를 제공받는 자 | 위치 | 연락처 | 제공항목 | 이용목적 | 보유 및 이용기간 | 파기 방법 |
+| The subject who receives personal information | Location | Contact | Items to be provided | Purpose of use | Period of holding and use | Destruction method |
 | --- | --- | --- | --- | --- | --- | --- |
 | . | . | . | . | . | . | . |
 
-## 제4조(개인정보처리의 위탁에 관한 사항)		
+## Article 4 (개인정보처리의 위탁에 관한 사항)		
 1. **준비위원회**는 원활한 개인정보 업무처리를 위하여 다음과 같이 개인정보 처리업무를 위탁하고 있습니다.		
 	
 | 수탁자 | 위치 | 위탁 일시 및 방법 | 연락처 | 위탁 항목 | 위탁 업무 내용 | 보유 및 이용기간 |
