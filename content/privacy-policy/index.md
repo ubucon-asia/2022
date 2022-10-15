@@ -1,35 +1,35 @@
 ---
-title: "개인정보처리방침(초안)"
-description: "2022년 10월 10부터 적용"
+title: "Privacy policy"
+description: "Applied since October 10, 2022"
 ---
 
-**UbuCon Asia 준비위원회** ('https://2022.ubucon.asia' 이하 '준비위원회')는 「개인정보 보호법」 제30조에 따라 정보주체의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리방침을 수립·공개합니다.		
+The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter referred to as 'The Committee') establishes and discloses privacy policy as follows to protect personal information of subject of information and to handle related grievances quickly and smoothly under Article 30 of the Personal Information Protection Act.
+○ This privacy policy will be applied from October 10, 2022.
 
-○ 이 개인정보처리방침은 2022년 10월 10부터 적용됩니다.		
+## Article 1 (Purpose of managing personal information) 
+**The Committee** manages personal information for the following purposes. The personal information being managed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the Personal Information Protection Act.
 
-## 제1조(개인정보의 처리 목적) 
-**준비위원회**는 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며 이용 목적이 변경되는 경우에는 「개인정보 보호법」 제18조에 따라 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.		
-1. 행사 참가자 등록과 등록비 결제 및 참가자 확인
-  - 참가자 사전 등록, 참가비 결제 및, 행사 당일 참가자 확인 목적으로 처리합니다.
-2. 마케팅 및 광고에의 활용
-  - 행사 일정 및 프로그램 안내와, 후원사 요청시 후원사 홍보 메일 발송 목적으로 처리합니다.
-3. 발표 지원자 등록 및 안내
-  - 발표 제안서 제출 시 제출된 개인정보로 제안서 개선 요청, 수락 여부 안내 등을 제공할 목적으로 처리합니다.
-4. 여행 경비 지원자 등록 및 안내
-  - 현장 참석시 여행 경비 지원이 필요한 참석자에 한해 승차권 발권, 숙박 예약, 지원 대상자가 사전에 예약 한 경우 환급을 위한 목적으로 처리합니다.
-5. 비자 초청장 요청 등록 및 안내
-  - 비자 발급이 필요한 참석자에 한해 요청시 비자 초청장 발급과, 비자 발급에 필요한 서류 및 절차 안내를 위한 목적으로 처리합니다.
+1. Attendee registration, Registration fee payment and Attendee Check-in
+  - To register attendees, Accept registration fee payments, and to handle attende check-in on event dates.
+2. Marketing and advertisement
+  - To provide event schedule information, and to send promotional email when sponsor requests.
+3. Proposal submission and notification
+  - For providing a request for improvement of the proposal and notify proposal acceptance.
+4. Travel sponsorship registration
+  - To book round trip tickets, accomodation or provide reimbursement for those who applied for travel sponsorship and participate on-site.
+5. Visa invitation letter request
+  - To provide visa invitation letter, Informations on visa issue process and required documents for those who need to issue visa to participate on-site.
 
-## 제2조(처리하는 개인정보의 항목과 보유기간) 		
-1. **준비위원회**는 법령에 따른 개인정보 보유·이용기간 또는 정보주체로부터 개인정보를 수집 시에 동의받은 개인정보 보유·이용기간 내에서 개인정보를 처리·보유합니다.		
-2. 각각의 개인정보 처리 및 보유 기간은 다음과 같습니다.	
-| 이용 목적 | 수집 항목 | 수집 경로 | 수집 일시 및 방법 | 보유 기간 |
+## Article 2 (Items of personal information to be managed and its holding period)
+1. **The Committe** manages and holds personal information within the period of holding and using personal information or the period of holding and using personal information agreed upon when collecting personal information from the subject of information according to the law.
+2. Each personal information managing and holding period is as follows. 	
+| Purpose | Items to be collected | Collection path | Moment of collection and method | Holding period |
 | --- | --- | --- | --- | --- |
-| 행사 참가자 등록과 등록비 결제 및 참가자 확인 | 이름, 소속, 직업 또는 직책, 국적, 이메일 주소 | Festa.io 또는 Tito.io 이벤트 플랫폼 | 이벤트 플랫폼을 통해 참가 등록 완료 시 | 5년 |
-| 마케팅 및 광고에의 활용 | 이메일 주소 | Festa.io 또는 Tito.io 이벤트 플랫폼 | 이벤트 플랫폼을 통해 참가 등록 완료 시 | 1년 |
-| 발표자 지원 등록 및 안내 | (필수) 이름, 이메일 (선택) 휴대전화 번호, 소속, 직업 또는 직책 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 1년 |
-| 여행 경비 지원자 등록 및 안내 | (필수) 이름, 이메일, 국적, 소속 (필요시 요청) 은행 계좌 등 지급수단 정보 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 1년 |
-| 비자 초청장 요청 등록 및 안내 | (필수) 이름, 이메일, 국적, 소속, 여권번호, 여권 만료일 (필요시 요청) 여권 발급지 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 행사 종료 후 즉시 파기 |
+| Attendee registration, Registration fee payment and Attendee Check-in | 이름, 소속, 직업 또는 직책, 국적, 이메일 주소 | Festa.io 또는 Tito.io 이벤트 플랫폼 | 이벤트 플랫폼을 통해 참가 등록 완료 시 | 5년 |
+| Marketing and advertisement | 이메일 주소 | Festa.io 또는 Tito.io 이벤트 플랫폼 | 이벤트 플랫폼을 통해 참가 등록 완료 시 | 1년 |
+| Proposal submission and notification | (필수) 이름, 이메일 (선택) 휴대전화 번호, 소속, 직업 또는 직책 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 1년 |
+| Travel sponsorship registration | (필수) 이름, 이메일, 국적, 소속 (필요시 요청) 은행 계좌 등 지급수단 정보 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 1년 |
+| Visa invitation letter request | (필수) 이름, 이메일, 국적, 소속, 여권번호, 여권 만료일 (필요시 요청) 여권 발급지 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 행사 종료 후 즉시 파기 |
 
 ## 제3조(개인정보의 제3자 제공에 관한 사항)		
 1. **준비위원회**는 개인정보를 제1조(개인정보의 처리 목적)에서 명시한 범위 내에서만 처리하며, 정보주체의 동의, 법률의 특별한 규정 등 「개인정보 보호법」 제17조 및 제18조에 해당하는 경우에만 개인정보를 제3자에게 제공합니다.		
