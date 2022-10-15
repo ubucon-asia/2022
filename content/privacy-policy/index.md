@@ -110,7 +110,7 @@ Accordingly, **The Committee** has considered the following for additional use a
 
 ## Article 13 (Department that receives and processes requests for access to personal information)		
 The information subject may file a request for access to personal information pursuant to Article 35 of the 「Personal Information Protection Act」 to the following departments.
-**Preparation Committee** will make every effort to promptly process the personal information access request of the information subject.
+**The Committee** will make every effort to promptly process the personal information access request of the information subject.
 - Receiving and processing department for personal information access request
      - General Team / Youngbin Han / Representative / contact@ubucon.asia	
 
