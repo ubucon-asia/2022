@@ -105,12 +105,13 @@ Accordingly, **The Committee** has considered the following for additional use a
 	
 ## Article 12 (Privacy officer) 		
 1. **The Committee** is responsible for overall personal information processing, and has designated a privacy officer as follows to handle complaints and damage relief from information subjects related to personal information processing. 
-- Privacy officer: Youngbin Han / Representative / contact@ubucon.asia			
+    - Privacy officer: Youngbin Han / Representative / contact@ubucon.asia			
 2. The data subject may inquire about all personal information protection related inquiries, complaint handling, damage relief, etc. that occurred while using the service (or business) of the Committee to the person in charge of personal information protection and the department in charge. The Committee will answer and handle inquiries from the information subject without delay.
 
 ## Article 13 (Department that receives and processes requests for access to personal information)		
 The information subject may file a request for access to personal information pursuant to Article 35 of the 「Personal Information Protection Act」 to the following departments.
 **The Committee** will make every effort to promptly process the personal information access request of the information subject.
+
 - Receiving and processing department for personal information access request
      - General Team / Youngbin Han / Representative / contact@ubucon.asia	
 
