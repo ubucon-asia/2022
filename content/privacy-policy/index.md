@@ -3,61 +3,61 @@ title: "Privacy policy"
 description: "Applied since October 10, 2022"
 ---
 
-The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter referred to as 'The Committee') establishes and discloses privacy policy as follows to protect personal information of subject of information and to handle related grievances quickly and smoothly under Article 30 of the Personal Information Protection Act.
+The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter referred to as 'The Committee') establishes and discloses privacy policy as follows to protect personal information of subject of information and to handle related grievances quickly and smoothly under Article 30 of the 「Personal Information Protection Act」.
 ○ This privacy policy will be applied from October 10, 2022.
 
 ## Article 1 (Purpose of managing personal information) 
-**The Committee** manages personal information for the following purposes. The personal information being managed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the Personal Information Protection Act.
+**The Committee** manages personal information for the following purposes. The personal information being managed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the 「Personal Information Protection Act」.
 
 1. Attendee registration, Registration fee payment and Attendee Check-in
-  - To register attendees, Accept registration fee payments, and to handle attende check-in on event dates.
+    - To register attendees, Accept registration fee payments, and to handle attende check-in on event dates.
 2. Marketing and advertisement
-  - To provide event schedule information, and to send promotional email when sponsor requests.
+    - To provide event schedule information, and to send promotional email when sponsor requests.
 3. Proposal submission and notification
-  - For providing a request for improvement of the proposal and notify proposal acceptance.
+    - For providing a request for improvement of the proposal and notify proposal acceptance.
 4. Travel sponsorship registration
-  - To book round trip tickets, accomodation or provide reimbursement for those who applied for travel sponsorship and participate on-site.
+    - To book round trip tickets, accomodation or provide reimbursement for those who applied for travel sponsorship and participate on-site.
 5. Visa invitation letter request
-  - To provide visa invitation letter, Informations on visa issue process and required documents for those who need to issue visa to participate on-site.
+    - To provide visa invitation letter, Informations on visa issue process and required documents for those who need to issue visa to participate on-site.
 
 ## Article 2 (Items of personal information to be managed and its holding period)
 1. **The Committe** manages and holds personal information within the period of holding and using personal information or the period of holding and using personal information agreed upon when collecting personal information from the subject of information according to the law.
 2. Each personal information managing and holding period is as follows. 	
 | Purpose | Items to be collected | Collected from | When and how collected | Holding period |
 | --- | --- | --- | --- | --- |
-| Attendee registration, Registration fee payment and Attendee Check-in | Name, Affiliation, Job or Titlor Nationality, Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 5 year |
+| Attendee registration, Registration fee payment and Attendee Check-in | Name, Affiliation, Job or Titlor Nationality, Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 5 years |
 | Marketing and advertisement | Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 1 year |
 | Proposal submission and notification | (Required) Name, Email address (Optional) Phone number, Affiliation, Job or Title | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
 | Travel sponsorship registration | (Required) Name, Email address, Nationality, Affiliation (Requested if needed) Payment method information such as bank account | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
 | Visa invitation letter request | (Required) Name, Email address, Nationality, Affiliation, Passport number, Passport expiry date (Requested if needed) Passport place of issue | Event website and Google Form | When submitting the Google Form provided by the The Committee | Discard immediately after the event ends |
 
 ## Article 3 (Provision of personal information to third parties)
-1. **The Committee** manages personal information only within the scope specified in Article 1 (Purpose of managing personal information) and provides personal information to third parties only if they fall under Articles 17 and 18 of the Personal Information Protection Act, such as consent of the subject of information and special provisions of the law.		
+1. **The Committee** manages personal information only within the scope specified in Article 1 (Purpose of managing personal information) and provides personal information to third parties only if they fall under Articles 17 and 18 of the 「Personal Information Protection Act」, such as consent of the subject of information and special provisions of the law.		
 2. **The Committee** provides personal information to following third parties.		
 
 | The subject who receives personal information | Location | Contact | Items to be provided | Purpose of use | Period of holding and use | Destruction method |
 | --- | --- | --- | --- | --- | --- | --- |
 | . | . | . | . | . | . | . |
 
-## Article 4 (개인정보처리의 위탁에 관한 사항)		
-1. **준비위원회**는 원활한 개인정보 업무처리를 위하여 다음과 같이 개인정보 처리업무를 위탁하고 있습니다.		
+## Article 4 (Entrustment of personal information management)		
+1. **The Committee** entrusts personal information managing as follows for smooth personal information management.
 	
-| 수탁자 | 위치 | 위탁 일시 및 방법 | 연락처 | 위탁 항목 | 위탁 업무 내용 | 보유 및 이용기간 |
+| Entrustee | Location | When and how entrueted | Contact | Entrusted items | Entrusted works | Period of holding and use |
 | --- | --- | --- | --- | --- | --- | --- |
-| 주식회사 페스타 | 경기도 성남시 분당구 성남대로 331번길 8, 19층 | 참가자가 Festa.io 에서 참가 등록 시 | help@festa.io | --- | 참가자 등록 및 결제 관리 | 5년 |
+| Festa Inc. | 19F, 8, 331beon-gil, Seongnam-daero, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | When the participant registers at festa.io | help@festa.io | --- | Participant registration and payment management | 5 years |
 
-2. **준비위원회**는 위탁계약 체결시 「개인정보 보호법」 제26조에 따라 위탁업무 수행목적 외 개인정보 처리금지, 기술적․관리적 보호조치, 재위탁 제한, 수탁자에 대한 관리․감독, 손해배상 등 책임에 관한 사항을 계약서 등 문서에 명시하고, 수탁자가 개인정보를 안전하게 처리하는지를 감독하고 있습니다.		
-3. 위탁업무의 내용이나 수탁자가 변경될 경우에는 지체없이 본 개인정보 처리방침을 통하여 공개하도록 하겠습니다.		
+2. When concluding a entrustment contract, the **The Committee** shall, in accordance with Article 26 of the Personal Information Protection Act」, specify management of personal information other than for the purpose of performing entrusted tasks is prohibited, technical and administrative protection measures, restrictions on re-entrustment, management and supervision of the trustee, and compensation for damages, etc. in documents such as contracts, and supervises whether the entrustee handles personal information safely.		
+3. If the contents of the entrustment work or the entrustees are changed, we will disclose it through this privacy policy without any delay.
 
-## 제5조(개인정보의 국외 이전에 관한 사항)		
-1. **준비위원회**는 국외 법인에 아래와 같은 사항을 위탁하고 있습니다.		
-		
-| 수탁자 | 위치 | 위탁 일시 및 방법 | 연락처 | 위탁 항목 | 위탁 업무 내용 | 보유 및 이용기간 |
+## Article 5 (International transfer of personal information)
+2. **The Committee** entrusts followings to overseas corporations.
+
+| Entrustee | Location | When and how entrueted | Contact | Entrusted items | Entrusted works | Period of holding and use |
 | --- | --- | --- | --- | --- | --- | --- |
-| Google LLC | 미국 | 준비위원회가 제공한 Google Form 을 통해 양식 제출 시 | googlekrsupport@google.com | --- | 발표자 모집, 비자 초청장 신청, 여행 경비 지원 신청 등 | 1년 |
-| Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | 참가자가 Tito 에서 참가 등록 시 | support@tito.io | --- | 참가자 등록 및 결제 관리 | 5년 |
+| Google LLC | Unites States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | --- | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
+| Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | --- | Participant registration and payment management | 5 years |
 
-## 제6조(개인정보의 파기절차 및 파기방법)		
+## Article 6 (Personal information destruction process and destruction method)		
 1. **준비위원회**는 개인정보 보유기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 지체없이 해당 개인정보를 파기합니다.		
 2. 정보주체로부터 동의받은 개인정보 보유기간이 경과하거나 처리목적이 달성되었음에도 불구하고 다른 법령에 따라 개인정보를 계속 보존하여야 하는 경우에는, 해당 개인정보를 별도의 데이터베이스(DB)로 옮기거나 보관장소를 달리하여 보존합니다.			
 3. 개인정보 파기의 절차 및 방법은 다음과 같습니다.		
@@ -128,4 +128,4 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 ## 제15조(개인정보 처리방침 변경)		
 1. 이 개인정보처리방침은 2022년 10월 10부터 적용됩니다.		
 2. 이전의 개인정보 처리방침은 아래에서 확인하실 수 있습니다.			
-  - https://github.com/ubucon-asia/2022/commits/main/content/privacy-policy/index.ko.md
+    - https://github.com/ubucon-asia/2022/commits/main/content/privacy-policy/index.ko.md
