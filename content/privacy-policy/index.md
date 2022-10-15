@@ -25,11 +25,11 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 2. Each personal information managing and holding period is as follows. 	
 | Purpose | Items to be collected | Collection path | Moment of collection and method | Holding period |
 | --- | --- | --- | --- | --- |
-| Attendee registration, Registration fee payment and Attendee Check-in | 이름, 소속, 직업 또는 직책, 국적, 이메일 주소 | Festa.io 또는 Tito.io 이벤트 플랫폼 | 이벤트 플랫폼을 통해 참가 등록 완료 시 | 5년 |
-| Marketing and advertisement | 이메일 주소 | Festa.io 또는 Tito.io 이벤트 플랫폼 | 이벤트 플랫폼을 통해 참가 등록 완료 시 | 1년 |
-| Proposal submission and notification | (필수) 이름, 이메일 (선택) 휴대전화 번호, 소속, 직업 또는 직책 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 1년 |
-| Travel sponsorship registration | (필수) 이름, 이메일, 국적, 소속 (필요시 요청) 은행 계좌 등 지급수단 정보 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 1년 |
-| Visa invitation letter request | (필수) 이름, 이메일, 국적, 소속, 여권번호, 여권 만료일 (필요시 요청) 여권 발급지 | 준비위원회에서 제공한 Google Form 양식 제출 시 | 행사 종료 후 즉시 파기 |
+| Attendee registration, Registration fee payment and Attendee Check-in | Name, Affiliation, Job or Titlor Nationality, Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 5 year |
+| Marketing and advertisement | Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 1 year |
+| Proposal submission and notification | (Required) Name, Email address (Optional) Phone number, Affiliation, Job or Title | When submitting the Google Form provided by the The Committee | 1 year |
+| Travel sponsorship registration | (Required) Name, Email address, Nationality, Affiliation (Requested if needed) Payment method information such as bank account | When submitting the Google Form provided by the The Committee | 1 year |
+| Visa invitation letter request | (Required) Name, Email address, Nationality, Affiliation, Passport number, Passport expiry date (Requested if needed) Passport place of issue | When submitting the Google Form provided by the The Committee | Discard immediately after the event ends |
 
 ## 제3조(개인정보의 제3자 제공에 관한 사항)		
 1. **준비위원회**는 개인정보를 제1조(개인정보의 처리 목적)에서 명시한 범위 내에서만 처리하며, 정보주체의 동의, 법률의 특별한 규정 등 「개인정보 보호법」 제17조 및 제18조에 해당하는 경우에만 개인정보를 제3자에게 제공합니다.		
