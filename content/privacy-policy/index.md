@@ -1,11 +1,11 @@
 ---
 title: "Privacy policy"
-description: "Applied since October 10, 2022"
+description: "Applied since October 15, 2022"
 ---
 
 The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter referred to as 'The Committee') establishes and discloses privacy policy as follows to protect personal information of data subject and to handle related grievances quickly and smoothly under Article 30 of the 「Personal Information Protection Act」.
 
-> This privacy policy will be applied from October 10, 2022.
+> This privacy policy will be applied from October 15, 2022.
 
 ## Article 1 (Purpose of processing personal information) 
 **The Committee** processes personal information for the following purposes. The personal information being processed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the 「Personal Information Protection Act」.
@@ -127,6 +127,6 @@ In response to the requests made by the head of a public institution in response
 ※ For more information on administrative appeals, please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr).		
 	
 ## Article 15 (Changes to the Privacy Policy)		
-1. This Privacy Policy is effective from October 10, 2022.	
+1. This Privacy Policy is effective from October 15, 2022.	
 2. The previous Privacy Policy can be found below.		
     - https://github.com/ubucon-asia/2022/commits/main/content/privacy-policy/index.md
