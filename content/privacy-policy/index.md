@@ -5,7 +5,7 @@ description: "Applied since October 10, 2022"
 
 The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter referred to as 'The Committee') establishes and discloses privacy policy as follows to protect personal information of data subject and to handle related grievances quickly and smoothly under Article 30 of the 「Personal Information Protection Act」.
 
-○ This privacy policy will be applied from October 10, 2022.
+> This privacy policy will be applied from October 10, 2022.
 
 ## Article 1 (Purpose of processing personal information) 
 **The Committee** processes personal information for the following purposes. The personal information being processed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the 「Personal Information Protection Act」.
@@ -70,7 +70,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 
 ## Article 7 (Rights and obligations of subjects of information and legal representatives and methods of exercising them)		
 1. The data subject can exercise the right to view, correct, delete, and suspend processing of personal information at any time with respect to the The Committee.	
-2. The exercise of rights pursuant to Paragraph 1 may be made to the The Committee in writing, e-mail, fax, etc. in accordance with Article 41 Paragraph 1 of the Enforcement Decree of the 「Personal Information Protection Act」, and the The Committee will take action without delay.
+2. The exercise of rights pursuant to Paragraph 1 may be made to the The Committee in writing, e-mail, fax, etc. in accordance with Article 41 Paragraph 1 of the 「Enforcement Decree of the Personal Information Protection Act」, and the The Committee will take action without delay.
 3. The exercise of rights pursuant to Paragraph 1 may be done through an agent such as the legal representative of the data subject or a person who has been delegated. In this case, you must submit a power of attorney in the form of Attachment No. 11 of the “Personal Information Processing Method Notice (No. 2020-7)”.	
     1. The rights of the information subject may be restricted in accordance with Article 35 Paragraph 4 and Article 37 Paragraph 2 of the 「Personal Information Protection Act」.
     2. The request for correction and deletion of personal information cannot be requested if the personal information is specified as a collection target in other laws.
@@ -93,40 +93,40 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 ## Article 10 (Collection, use, provision of behavioral information and its denial)		
 **The Committee** does not collect, use, or provide behavioral information for online customized advertisements.
 
-## 제11조(추가적인 이용·제공 판단기준)		
-**준비위원회**는 ｢개인정보 보호법｣ 제15조 제3항 및 제17조 제4항에 따라 ｢개인정보 보호법 시행령｣ 제14조의 2에 따른 사항을 고려하여 정보주체의 동의 없이 개인정보를 추가적으로 이용·제공할 수 있습니다.		
-이에 따라 **준비위원회**가(이) 정보주체의 동의 없이 추가적인 이용·제공을 하기 위해서 다음과 같은 사항을 고려하였습니다.		
-- 개인정보를 추가적으로 이용·제공하려는 목적이 당초 수집 목적과 관련성이 있는지 여부		
-- 개인정보를 수집한 정황 또는 처리 관행에 비추어 볼 때 추가적인 이용·제공에 대한 예측 가능성이 있는지 여부		
-- 개인정보의 추가적인 이용·제공이 정보주체의 이익을 부당하게 침해하는지 여부		
-- 가명처리 또는 암호화 등 안전성 확보에 필요한 조치를 하였는지 여부		
+## Article 11 (Additional criteria for use and provision)		
+**The Committee** takes into account the matters under Article 14 Paragraph 2 of the 「Enforcement Decree of the Personal Information Protection Act」 in accordance with Article 15 Paragraph 3 and Article 17 Paragraph 4 of the 「Personal Information Protection Act」 without the consent of the information subject. may additionally be used and provided.
+Accordingly, **The Committee** has considered the following for additional use and provision without the consent of the information subject.
+- Whether the purpose of additional use and provision of personal information is related to the original purpose of collection
+- Whether there is any predictability of additional use or provision in light of the circumstances in which personal information was collected or processing practices
+- Whether the additional use or provision of personal information unreasonably infringes on the interests of the information subject
+- Whether measures necessary to secure safety, such as pseudonymization or encryption, have been taken
 
-※ 추가적인 이용·제공 시 고려사항에 대한 판단기준은 사업자/단체 스스로 자율적으로 판단하여 작성·공개함		
+※ Judgment criteria for considerations for additional use and provision are prepared and disclosed by the business operator/group autonomously.	
 	
-## 제12조 (개인정보 보호책임자에 관한 사항) 		
-1. 준비위원회 는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.		
-    - 개인정보 보호책임자		
-        - 성명 :한영빈 / 대표 / contact@ubucon.asia			
-2. 정보주체께서는 준비위원회 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. 준비위원회 는 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.		
+## Article 12 (Privacy officer) 		
+1. **The Committee** is responsible for overall personal information processing, and has designated a privacy officer as follows to handle complaints and damage relief from information subjects related to personal information processing. 
+- Privacy officer: Youngbin Han / Representative / contact@ubucon.asia			
+2. The data subject may inquire about all personal information protection related inquiries, complaint handling, damage relief, etc. that occurred while using the service (or business) of the Committee to the person in charge of personal information protection and the department in charge. The Committee will answer and handle inquiries from the information subject without delay.
+
+## Article 13 (Department that receives and processes requests for access to personal information)		
+The information subject may file a request for access to personal information pursuant to Article 35 of the 「Personal Information Protection Act」 to the following departments.
+**Preparation Committee** will make every effort to promptly process the personal information access request of the information subject.
+- Receiving and processing department for personal information access request
+     - General Team / Youngbin Han / Representative / contact@ubucon.asia	
+
+## Article 14 (Remedies for infringement of rights and interests of data subjects)	
+The data subject may apply for dispute resolution or consultation to the Personal Information Dispute Mediation Committee or the Korea Internet & Security Agency Personal Information Infringement Report Center in order to receive relief from personal information infringement. In addition, for other personal information infringement reports and consultations, please contact the following organizations.	
+		
+1. Personal Information Dispute Mediation Committee: (Without area code) 1833-6972 (www.kopico.go.kr)		
+2. Personal Information Infringement Report Center: (Without area code) 118 (privacy.kisa.or.kr)		
+3. Supreme Prosecutors' Office : (Without area code) 1301 (www.spo.go.kr)		
+4. National Police Agency : (Without area code) 182 (ecrm.cyber.go.kr)	
+
+In response to the requests made by the head of a public institution in response to the requests under Article 35 (Access to Personal Information), Article 36 (Rectification or Erasure of Personal Information), and Article 37 (Suspension of Processing of Personal Information) of the 「Personal Information Protection Act」 A person whose rights or interests have been infringed due to disposition or omission may file an administrative appeal in accordance with the Administrative Appeals Act.
+
+※ For more information on administrative appeals, please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr).		
 	
-## 제13조(개인정보의 열람청구를 접수·처리하는 부서)		
-정보주체는 ｢개인정보 보호법｣ 제35조에 따른 개인정보의 열람 청구를 아래의 부서에 할 수 있습니다.		
-**준비위원회**는 정보주체의 개인정보 열람청구가 신속하게 처리되도록 노력하겠습니다. 		
-- 개인정보 열람청구 접수·처리 부서		
-    - 총괄팀 / 한영빈 / 대표 / contact@ubucon.asia		
-
-## 제14조(정보주체의 권익침해에 대한 구제방법)		
-정보주체는 개인정보침해로 인한 구제를 받기 위하여 개인정보분쟁조정위원회, 한국인터넷진흥원 개인정보침해신고센터 등에 분쟁해결이나 상담 등을 신청할 수 있습니다. 이 밖에 기타 개인정보침해의 신고, 상담에 대하여는 아래의 기관에 문의하시기 바랍니다.		
-1. 개인정보분쟁조정위원회 : (국번없이) 1833-6972 (www.kopico.go.kr)		
-2. 개인정보침해신고센터 : (국번없이) 118 (privacy.kisa.or.kr)		
-3. 대검찰청 : (국번없이) 1301 (www.spo.go.kr)		
-4. 경찰청 : (국번없이) 182 (ecrm.cyber.go.kr)	
-
-「개인정보보호법」제35조(개인정보의 열람), 제36조(개인정보의 정정·삭제), 제37조(개인정보의 처리정지 등)의 규정에 의한 요구에 대하여 공공기관의 장이 행한 처분 또는 부작위로 인하여 권리 또는 이익의 침해를 받은 자는 행정심판법이 정하는 바에 따라 행정심판을 청구할 수 있습니다.	
-
-※ 행정심판에 대해 자세한 사항은 중앙행정심판위원회(www.simpan.go.kr) 홈페이지를 참고하시기 바랍니다.		
-	
-## 제15조(개인정보 처리방침 변경)		
-1. 이 개인정보처리방침은 2022년 10월 10부터 적용됩니다.		
-2. 이전의 개인정보 처리방침은 아래에서 확인하실 수 있습니다.			
-    - https://github.com/ubucon-asia/2022/commits/main/content/privacy-policy/index.ko.md
+## Article 15 (Changes to the Privacy Policy)		
+1. This Privacy Policy is effective from October 10, 2022.	
+2. The previous Privacy Policy can be found below.		
+    - https://github.com/ubucon-asia/2022/commits/main/content/privacy-policy/index.md
