@@ -18,7 +18,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 4. Travel sponsorship registration
     - To book round trip tickets, accomodation or provide reimbursement for those who applied for travel sponsorship and participate on-site.
 5. Visa invitation letter request
-    - To provide visa invitation letter, Informations on visa issue process and required documents for those who need to issue visa to participate on-site.
+    - To provide visa invitation letter, Informations on visa issue procedure and required documents for those who need to issue visa to participate on-site.
 
 ## Article 2 (Items of personal information to be managed and its holding period)
 1. **The Committe** manages and holds personal information within the period of holding and using personal information or the period of holding and using personal information agreed upon when collecting personal information from the subject of information according to the law.
@@ -46,7 +46,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 | --- | --- | --- | --- | --- | --- | --- |
 | Festa Inc. | 19F, 8, 331beon-gil, Seongnam-daero, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | When the participant registers at festa.io | help@festa.io | --- | Participant registration and payment management | 5 years |
 
-2. When concluding a entrustment contract, the **The Committee** shall, in accordance with Article 26 of the Personal Information Protection Act」, specify management of personal information other than for the purpose of performing entrusted tasks is prohibited, technical and administrative protection measures, restrictions on re-entrustment, management and supervision of the trustee, and compensation for damages, etc. in documents such as contracts, and supervises whether the entrustee handles personal information safely.		
+2. When concluding a entrustment contract, the **The Committee** shall, in accordance with Article 26 of the 「Personal Information Protection Act」, specify management of personal information other than for the purpose of performing entrusted tasks is prohibited, technical and administrative protection measures, restrictions on re-entrustment, management and supervision of the trustee, and compensation for damages, etc. in documents such as contracts, and supervises whether the entrustee handles personal information safely.		
 3. If the contents of the entrustment work or the entrustees are changed, we will disclose it through this privacy policy without any delay.
 
 ## Article 5 (International transfer of personal information)
@@ -57,15 +57,15 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 | Google LLC | Unites States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | --- | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
 | Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | --- | Participant registration and payment management | 5 years |
 
-## Article 6 (Personal information destruction process and destruction method)		
-1. **준비위원회**는 개인정보 보유기간의 경과, 처리목적 달성 등 개인정보가 불필요하게 되었을 때에는 지체없이 해당 개인정보를 파기합니다.		
-2. 정보주체로부터 동의받은 개인정보 보유기간이 경과하거나 처리목적이 달성되었음에도 불구하고 다른 법령에 따라 개인정보를 계속 보존하여야 하는 경우에는, 해당 개인정보를 별도의 데이터베이스(DB)로 옮기거나 보관장소를 달리하여 보존합니다.			
-3. 개인정보 파기의 절차 및 방법은 다음과 같습니다.		
-    1. 파기절차		
-        - **준비위원회**는 파기 사유가 발생한 개인정보를 선정하고, **준비위원회**의 개인정보 보호책임자의 승인을 받아 개인정보를 파기합니다.		
-    2. 파기방법		
-        - 전자적 파일 형태의 정보는 기록을 재생할 수 없는 기술적 방법을 사용합니다.		
-        - 종이에 출력된 개인정보는 분쇄기로 분쇄하거나 소각을 통하여 파기합니다	
+## Article 6 (Personal information destruction procedure and destruction method)		
+1. **The Committee** destroys the personal information without delay when the personal information becomes unnecessary, such as the elapse of the personal information retention period or achievement of the purpose of managing.
+2. If the personal information retention period agreed by the subject of information has elapsed or the personal information needs to be kept in accordance with other laws despite the achievement of the purpose of managing, the personal information may be moved to a separate database (DB) or stored in different places to preserve it.		
+3. The procedure and method of personal information destruction are as follows.	
+    1. Destruction procedure		
+        - **The Committee** selects the personal information for which the reason for destruction has occurred, and destroys personal information with the approval of the personal information protection officer of the **The Committee**.
+    2. Destruction method	
+        - Information in the form of electronic files uses a technical method that cannot reproduce the record. 
+        - Personal information printed on paper is shredded with a shredder or destroyed through incineration.
 
 ## 제7조(정보주체와 법정대리인의 권리·의무 및 그 행사방법에 관한 사항)		
 1. 정보주체는 준비위원회에 대해 언제든지 개인정보 열람·정정·삭제·처리정지 요구 등의 권리를 행사할 수 있습니다.		
