@@ -12,16 +12,16 @@ This year, we organize as paid event. The pricings are as follows. You may buy t
 
 ## Conference tickets
 
-- Early bird(For 2 days): 40,000 KRW
-- List price(For 1 day): 30,000 KRW
-- List price(For 2 days): 50,000 KRW
-- Donation ticket(For 2 days): 100,000KRW, 150,000 KRW or 200,000 KRW
-    - Free conference dinner if you choose 150,000 KRW or more
+- Early bird(For 2 days): 40,000 KRW (28 USD)
+- List price(For 1 day): 30,000 KRW (21 USD)
+- List price(For 2 days): 50,000 KRW (35 USD)
+- Donation ticket(For 2 days): 100,000KRW (70 USD), 150,000 KRW (105 USD) or 200,000 KRW (140 USD)
+    - Free conference dinner if you choose 150,000 KRW (105 USD) or more
 
 ## Tickets for Social events
 
-- Conference dinner(At Day 1 evening): 36,000 KRW
-- Group tour(At November 28th afternoon): 30,000 KRW
+- Conference dinner(At Day 1 evening): 36,000 KRW (25 USD)
+- Group tour(At November 28th afternoon): 30,000 KRW (21 USD)
 
 ## About 3rd party data provision consent
 If you consent to 3rd party data provision at registration, We may share your personal data with our sponsors. And sponsors may send you email for marketing purpose. See our [privacy policy](../privacy-policy) to learn more.
