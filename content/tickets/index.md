@@ -17,6 +17,7 @@ This year, we organize as paid event. The pricings are as follows. You may buy t
 - List price(For 2 days): 50,000 KRW (35 USD)
 - Donation ticket(For 2 days): 100,000KRW (70 USD), 150,000 KRW (105 USD) or 200,000 KRW (140 USD)
     - Free conference dinner if you choose 150,000 KRW (105 USD) or more
+- Online: Free (Registration required for participating BoFs)
 
 ## Tickets for Social events
 
