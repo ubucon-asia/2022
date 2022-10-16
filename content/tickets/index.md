@@ -3,7 +3,7 @@ title: "Get tickets"
 description: "Get your ticket on Festa.io or Tito.io"
 ---
 
-This year, we organize as paid event. The pricings are as follows. You may buy tickets at Festa.io if you use Korean payment method or Tito.io if you use foreign payment method. You can also participate online, there are no registration required unless you participate BoFs.
+This year, we organize as paid event. The pricings are as follows. You may buy tickets at **Festa.io for Korean payment method** or **Tito.io for foreign payment method.** You can also participate online, there are no registration required unless you participate BoFs.
 
 {{< button text="Get tickets at Festa.io" href="" icon="external-link" >}}
 {{< button text="Get tickets at Tito.io" href="" icon="external-link" >}}

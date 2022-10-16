@@ -46,3 +46,5 @@ other = "Get sponsor promotion image"
 other = "Last update"
 [privacy_policy]
 other = "Privacy policy"
+[tickets]
+other = "Get tickets"
