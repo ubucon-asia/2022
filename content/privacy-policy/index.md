@@ -1,24 +1,25 @@
 ---
 title: "Privacy policy"
-description: "Applied since October 15, 2022"
+description: "Applied since October 17, 2022"
 ---
 
 The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter referred to as 'The Committee') establishes and discloses privacy policy as follows to protect personal information of data subject and to handle related grievances quickly and smoothly under Article 30 of the 「Personal Information Protection Act」.
 
-> This privacy policy will be applied from October 15, 2022.
+> This privacy policy will be applied from October 17, 2022.
 
 ## Article 1 (Purpose of processing personal information) 
 **The Committee** processes personal information for the following purposes. The personal information being processed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the 「Personal Information Protection Act」.
 
 1. Attendee registration, Registration fee payment and Attendee Check-in
     - To register attendees, Accept registration fee payments, and to handle attende check-in on event dates.
-2. Marketing and advertisement
+2. To manage registration fee payment
+3. Marketing and advertisement
     - To provide event schedule information, and to send promotional email when sponsor requests.
-3. Proposal submission and notification
+4. Proposal submission and notification
     - For providing a request for improvement of the proposal and notify proposal acceptance.
-4. Travel sponsorship registration
+5. Travel sponsorship registration
     - To book round trip tickets, accomodation or provide reimbursement for those who applied for travel sponsorship and participate on-site.
-5. Visa invitation letter request
+6. Visa invitation letter request
     - To provide visa invitation letter, Informations on visa issue procedure and required documents for those who need to issue visa to participate on-site.
 
 ## Article 2 (Items of personal information to be processed and its holding period)
@@ -26,7 +27,8 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 2. Each personal information processing and holding period is as follows. 	
 | Purpose | Items to be collected | Collected from | When and how collected | Holding period |
 | --- | --- | --- | --- | --- |
-| Attendee registration, Registration fee payment and Attendee Check-in | Name, Affiliation, Job or Titlor Nationality, Email address, Payment history | Festa.io or Tito.io event platform | When registration is complete via event platform | 5 years |
+| Attendee registration, and Attendee Check-in | Name, Affiliation, Job or Titlor Nationality, Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 1 years |
+| Registration fee payment | Payment history | Festa.io or Tito.io event platform | When registration is complete via event platform | 5 years |
 | Marketing and advertisement | Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 1 year |
 | Proposal submission and notification | (Required) Name, Email address (Optional) Phone number, Affiliation, Job or Title | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
 | Travel sponsorship registration | (Required) Name, Email address, Nationality, Affiliation (Requested if needed) Payment method information such as bank account | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
@@ -45,7 +47,8 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 	
 | Entrustee | Location | When and how entrueted | Contact | Entrusted items | Entrusted works | Period of holding and use |
 | --- | --- | --- | --- | --- | --- | --- |
-| Festa Inc. | 19F, 8, 331beon-gil, Seongnam-daero, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | When the participant registers at festa.io | help@festa.io | Name, Affiliation, Job or Titlor Nationality, Email address, Payment history | Participant registration and payment management | 5 years |
+| Festa Inc. | 19F, 8, 331beon-gil, Seongnam-daero, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | When the participant registers at festa.io | help@festa.io | Name, Affiliation, Job or Titlor Nationality, Email address | Participant registration management | 1 years |
+| Festa Inc. | 19F, 8, 331beon-gil, Seongnam-daero, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | When the participant registers at festa.io | help@festa.io | Payment history | Participant payment management | 5 years |
 
 2. When concluding a entrustment contract, the **The Committee** shall, in accordance with Article 26 of the 「Personal Information Protection Act」, specify processing of personal information other than for the purpose of performing entrusted tasks is prohibited, technical and administrative protection measures, restrictions on re-entrustment, processing and supervision of the entrustee, and compensation for damages, etc. in documents such as contracts, and supervises whether the entrustee processes personal information safely.		
 3. If the contents of the entrustment work or the entrustees are changed, we will disclose it through this privacy policy without any delay.
@@ -56,7 +59,8 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 | Entrustee | Location | When and how entrueted | Contact | Entrusted items | Entrusted works | Period of holding and use |
 | --- | --- | --- | --- | --- | --- | --- |
 | Google LLC | United States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | Name, Email address, Phone number, Affiliation, Job or Title, Payment method information such as bank account, Passport number, Passport expiry date, Passport place of issue | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
-| Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | Name, Affiliation, Job or Titlor Nationality, Email address, Payment history | Participant registration and payment management | 5 years |
+| Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | Name, Affiliation, Job or Titlor Nationality, Email address | Participant registration management | 1 years |
+| Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | Payment history | Participant payment management | 5 years |
 
 ## Article 6 (Personal information destruction procedure and destruction method)		
 1. **The Committee** destroys the personal information without delay when the personal information becomes unnecessary, such as the elapse of the personal information retention period or achievement of the Purpose of processing.
@@ -128,6 +132,6 @@ In response to the requests made by the head of a public institution in response
 ※ For more information on administrative appeals, please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr).		
 	
 ## Article 15 (Changes to the Privacy Policy)		
-1. This Privacy Policy is effective from October 15, 2022.	
+1. This Privacy Policy is effective from October 17, 2022.	
 2. The previous Privacy Policy can be found below.		
     - https://github.com/ubucon-asia/2022/commits/main/content/privacy-policy/index.md
