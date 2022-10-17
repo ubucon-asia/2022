@@ -32,7 +32,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 | Marketing and advertisement | Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 1 year |
 | Proposal submission and notification | (Required) Name, Email address (Optional) Phone number, Affiliation, Job or Title | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
 | Travel sponsorship registration | (Required) Name, Email address, Nationality, Affiliation (Requested if needed) Payment method information such as bank account | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
-| Visa invitation letter request | (Required) Name, Email address, Nationality, Affiliation, Passport number, Passport expiry date (Requested if needed) Passport place of issue | Event website and Google Form | When submitting the Google Form provided by the The Committee | Discard immediately after the event ends |
+| Visa invitation letter request | (Required) Name, Email address, Nationality, Affiliation, Passport number, Passport expiry date (Requested if needed) Passport place of issue, Sex | Event website and Google Form | When submitting the Google Form provided by the The Committee | Discard immediately after the event ends |
 
 ## Article 3 (Provision of personal information to third parties)
 1. **The Committee** processes personal information only within the scope specified in Article 1 (Purpose of processing personal information) and provides personal information to third parties only if they fall under Articles 17 and 18 of the 「Personal Information Protection Act」, such as consent of the data subject and special provisions of the law.		
@@ -58,7 +58,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 
 | Entrustee | Location | When and how entrueted | Contact | Entrusted items | Entrusted works | Period of holding and use |
 | --- | --- | --- | --- | --- | --- | --- |
-| Google LLC | United States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | Name, Email address, Phone number, Affiliation, Job or Title, Payment method information such as bank account, Passport number, Passport expiry date, Passport place of issue | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
+| Google LLC | United States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | Name, Email address, Phone number, Affiliation, Job or Title, Payment method information such as bank account, Passport number, Passport expiry date, Passport place of issue, Sex | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
 | Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | Name, Affiliation, Job or Titlor Nationality, Email address | Participant registration management | 1 years |
 | Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | Payment history | Participant payment management | 5 years |
 
