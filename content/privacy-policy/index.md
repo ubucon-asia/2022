@@ -1,11 +1,11 @@
 ---
 title: "Privacy policy"
-description: "Applied since October 17, 2022"
+description: "Applied since October 19, 2022"
 ---
 
 The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter referred to as 'The Committee') establishes and discloses privacy policy as follows to protect personal information of data subject and to handle related grievances quickly and smoothly under Article 30 of the 「Personal Information Protection Act」.
 
-> This privacy policy will be applied from October 17, 2022.
+> This privacy policy will be applied from October 19, 2022.
 
 ## Article 1 (Purpose of processing personal information) 
 **The Committee** processes personal information for the following purposes. The personal information being processed will not be used for any of the following purposes, and if the purpose of use is changed, necessary measures will be implemented, such as obtaining separate consent under Article 18 of the 「Personal Information Protection Act」.
@@ -32,10 +32,10 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 | Marketing and advertisement | Email address | Festa.io or Tito.io event platform | When registration is complete via event platform | 1 year |
 | Proposal submission and notification | (Required) Name, Email address (Optional) Phone number, Affiliation, Job or Title | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
 | Travel sponsorship registration | (Required) Name, Email address, Nationality, Affiliation (Requested if needed) Payment method information such as bank account | Event website and Google Form | When submitting the Google Form provided by the The Committee | 1 year |
-| Visa invitation letter request | (Required) Name, Email address, Nationality, Affiliation, Passport number, Passport expiry date (Requested if needed) Passport place of issue, Sex | Event website and Google Form | When submitting the Google Form provided by the The Committee | Discard immediately after the event ends |
+| Visa invitation letter request | (Required) Name, Email address, Nationality, Affiliation, Date of birth, Passport number, Passport expiry date (Requested if needed) Passport place of issue, Sex | Event website and Google Form | When submitting the Google Form provided by the The Committee | Discard immediately after the event ends |
 
 ## Article 3 (Provision of personal information to third parties)
-1. **The Committee** processes personal information only within the scope specified in Article 1 (Purpose of processing personal information) and provides personal information to third parties only if they fall under Articles 17 and 18 of the 「Personal Information Protection Act」, such as consent of the data subject and special provisions of the law.		
+1. **The Committee** processes personal information only within the scope specified in Article 1 (Purpose of processing personal information) and provides personal information to third parties only if they fall under Articles 19 and 18 of the 「Personal Information Protection Act」, such as consent of the data subject and special provisions of the law.		
 2. **The Committee** provides personal information to following third parties.		
 
 | The subject who receives personal information | Location | Contact | Items to be provided | Purpose of use | Period of holding and use | Destruction method |
@@ -58,7 +58,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 
 | Entrustee | Location | When and how entrueted | Contact | Entrusted items | Entrusted works | Period of holding and use |
 | --- | --- | --- | --- | --- | --- | --- |
-| Google LLC | United States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | Name, Email address, Phone number, Affiliation, Job or Title, Payment method information such as bank account, Passport number, Passport expiry date, Passport place of issue, Sex | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
+| Google LLC | United States of America | When submitting the Google Form provided by the The Committee | googlekrsupport@google.com | Name, Email address, Phone number, Affiliation, Job or Title, Payment method information such as bank account, Date of birth, Passport number, Passport expiry date, Passport place of issue, Sex | Proposal submission, Visa invitation letter request, Travel sponsorship request and more | 1 year |
 | Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | Name, Affiliation, Job or Titlor Nationality, Email address | Participant registration management | 1 years |
 | Team Tito Limited | 64 Dame Street, Dublin, Ireland D02 RT72 | When the participant registers at Tito | support@tito.io | Payment history | Participant payment management | 5 years |
 
@@ -98,7 +98,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 **The Committee** does not collect, use, or provide behavioral information for online customized advertisements.
 
 ## Article 11 (Additional criteria for use and provision)		
-**The Committee** takes into account the matters under Article 14 Paragraph 2 of the 「Enforcement Decree of the Personal Information Protection Act」 in accordance with Article 15 Paragraph 3 and Article 17 Paragraph 4 of the 「Personal Information Protection Act」 without the consent of the information subject. may additionally be used and provided.
+**The Committee** takes into account the matters under Article 14 Paragraph 2 of the 「Enforcement Decree of the Personal Information Protection Act」 in accordance with Article 15 Paragraph 3 and Article 19 Paragraph 4 of the 「Personal Information Protection Act」 without the consent of the information subject. may additionally be used and provided.
 Accordingly, **The Committee** has considered the following for additional use and provision without the consent of the information subject.
 - Whether the purpose of additional use and provision of personal information is related to the original purpose of collection
 - Whether there is any predictability of additional use or provision in light of the circumstances in which personal information was collected or processing practices
@@ -132,6 +132,6 @@ In response to the requests made by the head of a public institution in response
 ※ For more information on administrative appeals, please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr).		
 	
 ## Article 15 (Changes to the Privacy Policy)		
-1. This Privacy Policy is effective from October 17, 2022.	
+1. This Privacy Policy is effective from October 19, 2022.	
 2. The previous Privacy Policy can be found below.		
     - https://github.com/ubucon-asia/2022/commits/main/content/privacy-policy/index.md
