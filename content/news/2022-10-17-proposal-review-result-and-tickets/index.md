@@ -13,6 +13,8 @@ authors:
       linklabel: Website
 ---
 
+> Update: To review travel sponsorship requests earlier and more carefully with enough time, We request speakers to submit every required forms by this Saturday 1 PM UTC+9 ({{< timedisplay datetime="2022-10-22T13:00:00+09:00" display="datetime" >}})  
+
 We've completed reviewing proposals and sent out result via email yesterday. If you have applied for talks or workshops before, Please check your inbox to see result for your proposal.
 
 ## Next steps to move forward
