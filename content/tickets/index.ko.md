@@ -8,7 +8,7 @@ description: "Festa.io 또는 Tito.io 에서 구입"
 > 아직 참가 등록이 시작되지 않았습니다. 등록 시작 시 저희 행사 웹사이트, 소셜미디어와, discourse.ubuntu.com 을 통해 알려 드리겠습니다.  
 
 {{< button text="Festa.io 에서 티켓 구입" href="" icon="external-link" >}}
-{{< button text="Tito.io 에서 티켓 구입" href="" icon="external-link" >}}
+{{< button text="Tito.io 에서 티켓 구입" href="https://ti.to/ubuntu-kr/uca22" icon="external-link" >}}
 
 ## 컨퍼런스 티켓
 

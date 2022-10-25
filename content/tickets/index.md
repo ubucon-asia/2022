@@ -8,7 +8,7 @@ This year, we organize as paid event. The pricings are as follows. You may buy t
 > Registration is not opened yet, We'll let you know on our website, social media and discourse.ubuntu.com once it opens.
 
 {{< button text="Get tickets at Festa.io" href="" icon="external-link" >}}
-{{< button text="Get tickets at Tito.io" href="" icon="external-link" >}}
+{{< button text="Get tickets at Tito.io" href="https://ti.to/ubuntu-kr/uca22" icon="external-link" >}}
 
 ## Conference tickets
 
