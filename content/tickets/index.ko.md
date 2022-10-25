@@ -29,5 +29,5 @@ description: "Festa.io 또는 Tito.io 에서 구입"
 
 ## 환불 정책
 
-환불은 티켓 판매 기간 동안에만 가능하며, 행사 14일 전 부터는 환불이 불가능 합니다.
+환불은 티켓 판매 기간 동안에만 가능하며, 2022년 11월 14일 부터는 환불이 불가능 합니다.
 환불 기간 내 환불하지 못했다면. Festa.io 에서 구입한 티켓은 QR 코드 공유 등을 통해 양도가 가능하며. [Tito.io 의 경우, Re-assign 절차로 양도가 가능합니다.](https://help.tito.io/en/articles/3586025-how-do-i-re-assign-my-ticket)
