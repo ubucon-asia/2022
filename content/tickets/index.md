@@ -19,6 +19,10 @@ This year, we organize as paid event. The pricings are as follows. You may buy t
     - Free conference dinner if you choose 150,000 KRW (105 USD) or more
 - Online: Free (Registration required for participating BoFs)
 
+### What's included?
+- In-person tickets: You can join Talks(Lectures), Workshops, BoF and sponsor booth at the venue. Some swags and Simultaneous interpretation between Korean and English (Only on Intl room) provided.
+- Online tickets: Join Talk sessions via live streaming (Only for Intl room session without interpretation), and participate BoF with Video call.
+
 ## Tickets for Social events
 
 - Conference dinner(At Day 1 evening): 36,000 KRW (25 USD)
