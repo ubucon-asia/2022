@@ -5,9 +5,9 @@ description: "Get your ticket on Festa.io or Tito.io"
 
 This year, we organize as paid event. The pricings are as follows. You may buy tickets at **Festa.io for Korean payment method** or **Tito.io for foreign payment method.** You can also participate online, there are no registration required unless you participate BoFs.
 
-> Registration is not opened yet, We'll let you know on our website, social media and discourse.ubuntu.com once it opens.
+> Registration is now open!
 
-{{< button text="Get tickets at Festa.io" href="" icon="external-link" >}}
+{{< button text="Get tickets at Festa.io" href="https://festa.io/events/2730" icon="external-link" >}}
 {{< button text="Get tickets at Tito.io" href="https://ti.to/ubuntu-kr/uca22" icon="external-link" >}}
 
 ## Conference tickets
@@ -26,3 +26,8 @@ This year, we organize as paid event. The pricings are as follows. You may buy t
 
 ## About 3rd party data provision consent
 If you consent to 3rd party data provision at registration, We may share your personal data with our sponsors. And sponsors may send you email for marketing purpose. See our [privacy policy](../privacy-policy) to learn more.
+
+## Refund policy
+
+You can only request to refund during ticket selling periods. Refund is not allowed 14 days before the event.
+If you could not refund your ticket within refund periods. For tickets from Festa.io, You can transfer by sharing QR codes. [And for Tito.io, You may use "Re-assign" to transfer your ticket](https://help.tito.io/en/articles/3586025-how-do-i-re-assign-my-ticket)

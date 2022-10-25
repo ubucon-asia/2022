@@ -5,9 +5,9 @@ description: "Festa.io 또는 Tito.io 에서 구입"
 
 올해 행사는 유료로 진행하며, 아래와 같은 가격으로 티켓을 판매합니다. **한국 결제수단 사용시 Festa.io 에서**, **해외 결제수단 사용시 Tito.io 에서** 구입하실 수 있습니다. 온라인으로도 참여가 가능하며, BoF 를 제외하고 별도 등록 없이 무료로 참여가 가능합니다.
 
-> 아직 참가 등록이 시작되지 않았습니다. 등록 시작 시 저희 행사 웹사이트, 소셜미디어와, discourse.ubuntu.com 을 통해 알려 드리겠습니다.  
+> 이제 참가 등록이 가능합니다!
 
-{{< button text="Festa.io 에서 티켓 구입" href="" icon="external-link" >}}
+{{< button text="Festa.io 에서 티켓 구입" href="https://festa.io/events/2730" icon="external-link" >}}
 {{< button text="Tito.io 에서 티켓 구입" href="https://ti.to/ubuntu-kr/uca22" icon="external-link" >}}
 
 ## 컨퍼런스 티켓
@@ -26,3 +26,8 @@ description: "Festa.io 또는 Tito.io 에서 구입"
 
 ## 제3자 정보제공 동의 안내
 티켓 구입시, 제3자 정보제공 동의를 한 참가자에 한하여 제출하신 개인정보가 후원사와 공유될 수 있으며, 후원사에서 마케팅 목적 이메일을 발송할 수 있습니다. 자세한 사항은 [개인정보 처리방침](../privacy-policy)를 확인 해 주세요.
+
+## 환불 정책
+
+환불은 티켓 판매 기간 동안에만 가능하며, 행사 14일 전 부터는 환불이 불가능 합니다.
+환불 기간 내 환불하지 못했다면. Festa.io 에서 구입한 티켓은 QR 코드 공유 등을 통해 양도가 가능하며. [Tito.io 의 경우, Re-assign 절차로 양도가 가능합니다.](https://help.tito.io/en/articles/3586025-how-do-i-re-assign-my-ticket)
