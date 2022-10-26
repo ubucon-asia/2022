@@ -35,3 +35,7 @@ If you consent to 3rd party data provision at registration, We may share your pe
 
 You can only request to refund during ticket selling periods. Refund is not allowed from November 14.
 If you could not refund your ticket within refund periods. For tickets from Festa.io, You can transfer by sharing QR codes. [And for Tito.io, You may use "Re-assign" to transfer your ticket](https://help.tito.io/en/articles/3586025-how-do-i-re-assign-my-ticket)
+
+## Hoodie info
+
+> Note: Hoodie are only for Speakers, Organizers, Volunteers, Patrons, etc. 

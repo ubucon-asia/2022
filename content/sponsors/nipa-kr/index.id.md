@@ -1,7 +1,7 @@
 ---
 title: "National IT Industry Promotion Agency of Korea" # Name of the sponsor
 photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
-group: venue # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
+group: government # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 links:
 - name: Website
   url: "https://www.oss.kr/"

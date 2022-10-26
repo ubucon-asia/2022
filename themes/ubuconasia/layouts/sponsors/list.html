@@ -12,8 +12,8 @@
         {{ $pages = $pages | lang.Merge .Site.Pages }}
         {{ end }}
         
-        <h3>{{ i18n "venue_sp" }}</h3>
-        {{ range where $pages "Params.group" "venue" }}
+        <h3>{{ i18n "gov_partners" }}</h3>
+        {{ range where $pages "Params.group" "government" }}
         <div class="p-card col-3">
           <a href="{{ .RelPermalink }}">
           <img src="{{ .RelPermalink }}{{.Params.photo }}" alt="" style="max-height: 100px;"/>
