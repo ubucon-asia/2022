@@ -1,6 +1,6 @@
 ---
 title: "Seoul Metropolitan Government - PLUS SEOUL Program" # Name of the sponsor
-photo: "logo.svg" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
+photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: government # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 links:
 - name: Seoul Metropolitan Government
