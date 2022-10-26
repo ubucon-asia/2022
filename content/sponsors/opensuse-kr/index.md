@@ -1,6 +1,6 @@
 ---
 title: "Korea openSUSE User Group" # Name of the sponsor
-photo: "logo.jpg" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
+photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: community # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 # website: "https://www.oss.kr/"
 links:
