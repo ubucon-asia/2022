@@ -11,7 +11,7 @@ links:
   url: https://www.sto.or.kr/english
 - name: PLUS SEOUL 프로그램
   url: https://www.miceseoul.com/
-# cover: cover.png
+cover: cover.png
 # brochure: brochure.pdf # path to brochure pdf file
 region: 대한민국 서울 # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
