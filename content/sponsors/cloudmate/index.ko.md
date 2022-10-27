@@ -1,5 +1,5 @@
 ---
-title: "Cloudmate" # Name of the sponsor
+title: "클라우드메이트" # Name of the sponsor
 photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: bronze # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 links:
@@ -13,7 +13,7 @@ links:
   url: "https://www.youtube.com/channel/UCidxBUgJUSPc-YYrTfX4vIg"
 cover: cover.jpg
 brochure: brochure.pdf # path to brochure pdf file
-region: Seoul, South Korea # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
+region: 대한민국 서울 # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
 
 Cloudmate is the certified CSP company that located in Seoul, Korea. 
