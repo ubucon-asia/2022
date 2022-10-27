@@ -1,7 +1,7 @@
 ---
 title: "Cloudmate" # Name of the sponsor
 photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
-group: silver # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
+group: bronze # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 website: "https://cloudmt.co.kr"
 github: "https://github.com/cloudmatelabs"
 facebook: "https://www.facebook.com/cloudmatekr"
