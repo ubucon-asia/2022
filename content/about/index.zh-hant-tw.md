@@ -62,7 +62,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
 {{<profile
     profile="https://avatars.githubusercontent.com/u/73894397?v=4"
     heading="Vincent Wong" bold=""
-    desc="Global team" >}}
+    desc="Global team | Content" >}}
 
 <!-- {{<profile
     profile="https://avatars.githubusercontent.com/u/1658742?v=4"
@@ -92,7 +92,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
 {{<profile
     profile="rudra_saraswat.jpg"
     heading="Rudra B. Saraswat" bold="Ubuntu Unity"
-    desc="Global team" >}}
+    desc="Global team | Content" >}}
 
 {{<profile
     profile="robbi_nespu.jpg"

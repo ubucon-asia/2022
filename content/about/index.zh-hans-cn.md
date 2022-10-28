@@ -64,7 +64,7 @@ UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
 {{<profile
     profile="https://avatars.githubusercontent.com/u/73894397?v=4"
     heading="Vincent Wong" bold=""
-    desc="Global team" >}}
+    desc="Global team | Content" >}}
 
 <!-- {{<profile
     profile="https://avatars.githubusercontent.com/u/1658742?v=4"
@@ -94,7 +94,7 @@ UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
 {{<profile
     profile="rudra_saraswat.jpg"
     heading="Rudra B. Saraswat" bold="Ubuntu Unity"
-    desc="Global team" >}}
+    desc="Global team | Content" >}}
 
 {{<profile
     profile="robbi_nespu.jpg"
