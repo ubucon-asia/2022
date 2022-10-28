@@ -43,6 +43,11 @@ languages:
           name: 여행 경비 지원
           url: venue-and-travel/travel-sponsorship
           weight: 23
+        - identifier: accommodations
+          parent: venue-travel-group
+          name: 근처 숙박시설
+          url: venue-and-travel/accommodations
+          weight: 24
         - identifier: programs-group
           name: 프로그램
           url: programs
@@ -124,6 +129,11 @@ languages:
           name: Travel sponsorship
           url: venue-and-travel/travel-sponsorship
           weight: 23
+        - identifier: accommodations
+          parent: venue-travel-group
+          name: Accomodations
+          url: venue-and-travel/accommodations
+          weight: 24
         - identifier: programs-group
           name: Programs
           url: programs
@@ -205,6 +215,11 @@ languages:
           name: Travel sponsorship
           url: venue-and-travel/travel-sponsorship
           weight: 23
+        - identifier: accommodations
+          parent: venue-travel-group
+          name: Accomodations
+          url: venue-and-travel/accommodations
+          weight: 24
         - identifier: programs-group
           name: Program
           url: programs
@@ -286,6 +301,11 @@ languages:
           name: Travel sponsorship
           url: venue-and-travel/travel-sponsorship
           weight: 23
+        - identifier: accommodations
+          parent: venue-travel-group
+          name: Accomodations
+          url: venue-and-travel/accommodations
+          weight: 24
         - identifier: programs-group
           name: Programs
           url: programs
@@ -367,6 +387,11 @@ languages:
           name: Travel sponsorship
           url: venue-and-travel/travel-sponsorship
           weight: 23
+        - identifier: accommodations
+          parent: venue-travel-group
+          name: Accomodations
+          url: venue-and-travel/accommodations
+          weight: 24
         - identifier: programs-group
           name: Programs
           url: programs
@@ -448,6 +473,11 @@ languages:
           name: Travel sponsorship
           url: venue-and-travel/travel-sponsorship
           weight: 23
+        - identifier: accommodations
+          parent: venue-travel-group
+          name: Accomodations
+          url: venue-and-travel/accommodations
+          weight: 24
         - identifier: programs-group
           name: 会议
           url: programs
