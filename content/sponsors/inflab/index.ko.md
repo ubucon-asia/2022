@@ -15,7 +15,7 @@ links:
   url: https://www.youtube.com/channel/UC0Y0T9JpgIBbyGDjvy9PbOg/videos
 - name: LinkedIn
   url: https://www.linkedin.com/company/inflab/
-# cover: cover.png
+cover: cover.png
 brochure: brochure.pdf # path to brochure pdf file
 region: 대한민국 서울 # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
