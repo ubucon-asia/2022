@@ -24,7 +24,7 @@ def render_preview_image(bg_img_path, render_params_dict, output_path):
     try:
         with open(render_params_dict["layout"], 'r') as f:
             for k, v in render_params_dict.items():
-                if(k.endswith('_path')):
+                if(k.endswith('_path') and v != ""):
                     render_params_dict[k] = os.path.abspath(f"../public{v}")
             html = Template(f.read()).substitute(
                 background_image=os.path.abspath(bg_img_path), 
@@ -33,6 +33,7 @@ def render_preview_image(bg_img_path, render_params_dict, output_path):
                 "width": 1200,
                 "height": 600,
                 "enable-local-file-access": "",
+                "window-status": "ready_to_print",
             })
     except Exception as e:
         print(f"Error rendering image for {output_path}")

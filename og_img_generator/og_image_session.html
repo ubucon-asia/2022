@@ -1,0 +1,140 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR');
+
+        body {
+            font-family: 'Ubuntu', 'Noto Sans KR', sans-serif;
+            background-image: url('$background_image');
+            padding: 0;
+            margin: 0;
+            /* background-image: url('./ogimage.png'); */
+        }
+
+        .main {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: start;
+            color: white;
+        }
+
+        .info {
+            width: 60%;
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+            justify-content: start;
+            padding: 1.3em;
+        }
+
+        .speaker_photos {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .speaker_photo {
+            width: 100%;
+            height: 100%;
+            background-position: center;
+            background-size: cover;
+        }
+
+        .component {
+            margin: 20px;
+        }
+
+        span.event-title {
+            font-size: 2em;
+            text-align: start;
+        }
+
+        span.title {
+            font-size: 3.5em;
+            text-align: start;
+        }
+
+        span.speaker-names {
+            font-size: 2em;
+            text-align: start;
+        }
+
+        div.title-container {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            padding-bottom: 1em;
+        }
+
+        div.title-container>img {
+            height: 3.3em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <div class="info">
+            <div class="title-container">
+                <img src="$event_logo_path">
+                <span class="component event-title">$event_name</span>
+            </div>
+            <span class="component title">$session_title</span>
+            <span class="component speaker-names">$speaker_names</span>
+        </div>
+
+        <div style="width: 40%;  height: 100%;
+        display: flex;
+        flex-direction: row;">
+            <div class="speaker_photos">
+            </div>
+            <div class="speaker_photos">
+            </div>
+        </div>
+
+
+    </div>
+    <script>
+        var speaker_photo_path_list = [
+            "$speaker_photo0_path",
+            "$speaker_photo1_path",
+            "$speaker_photo2_path",
+            "$speaker_photo3_path",
+            "$speaker_photo4_path",
+            "$speaker_photo5_path"];
+        var toggle = true;
+        var toggleCount = 0;
+        var count = 0;
+        for (var i = 0; i < speaker_photo_path_list.length; i++) {
+            var speaker_photo_path = speaker_photo_path_list[i];
+            if (speaker_photo_path != "") {
+                var speaker_photo = document.createElement("div");
+                speaker_photo.className = "speaker_photo";
+                speaker_photo.style.backgroundImage = "url('" + speaker_photo_path + "')";
+                if (toggle) {
+                    document.getElementsByClassName("speaker_photos")[0].appendChild(speaker_photo);
+                } else {
+                    document.getElementsByClassName("speaker_photos")[1].appendChild(speaker_photo);
+                }
+                toggleCount++;
+                if (toggleCount >= 2) {
+                    toggle = !toggle;
+                    toggleCount = 0;
+                }
+                count++;
+            }
+        }
+        if (count < 3) {
+            document.getElementsByClassName("speaker_photos")[1].style.display = "none";
+        }
+        window.status = "ready_to_print";
+    </script>
+</body>
+
+</html>

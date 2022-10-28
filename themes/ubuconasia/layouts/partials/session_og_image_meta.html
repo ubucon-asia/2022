@@ -1,0 +1,20 @@
+{{ if .Params.speakers }}
+    {{ $speaker_names := ""}}
+    {{ range $index, $item := first 6 .Params.speakers }}
+        {{ if gt $index 0 }}
+            {{ $speaker_names = printf "%s, " $speaker_names }}
+        {{ end }}
+        {{ $speaker_names = printf "%s%s" $speaker_names $item.name }}
+    {{ end }}
+    {{ range $index, $num := (seq 6) }}
+        {{ if lt $index (len $.Params.speakers) }}
+<meta property="og_image:speaker_photo{{$index}}_path" content="{{ $.Permalink | relURL }}{{ (index $.Params.speakers $index).profile }}" />
+        {{ else }}
+<meta property="og_image:speaker_photo{{$index}}_path" content="" />
+        {{ end }}
+    {{ end }}
+<meta property="og_image:speaker_names" content="{{ $speaker_names }}" />
+<meta property="og_image:session_title" content="{{ .Page.Title }}" />
+<meta property="og_image:event_name" content="{{ .Site.Title }}" />
+<meta property="og_image:event_logo_path" content='{{ "/images/uca22logo_white.svg" | relURL }}' />
+{{ end }}

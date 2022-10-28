@@ -1,5 +1,8 @@
 {{ if .Params.group }}
 <meta property="og_image:layout" content="og_image_sponsors.html" />
+{{ else if .Params.speakers }}
+<meta property="og_image:layout" content="og_image_session.html" />
 {{else}}
 <meta property="og_image:layout" content="og_image.html" />
+<meta property="og_image:event_logo_path" content='{{ "/images/uca22logo_orange.svg" | relURL }}' />
 {{end}}
