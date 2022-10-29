@@ -36,6 +36,7 @@
       slotDuration: '00:05:00',
       height: '90vh',
       scrollTime: convertTimeToLocalTZ('{{ .Site.Params.timetable.timeStart }}'),
+      date: "{{ .Site.Params.timetable.dateStart }}",
       nowIndicator: true,
       resources: [
         { id: 1, title: 'Intl room' },

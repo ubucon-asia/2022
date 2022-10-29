@@ -1,7 +1,7 @@
 ---
-title: Keynote
-date: 2022-10-29T10:30:00+09:00
-end: 2022-10-29T11:15:00+09:00
+title: Opening speech
+date: 2022-11-26T10:00:00+09:00
+end: 2022-11-26T10:30:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 featured: false # If it's true. This session will appear on main page.
 # slide: Ubucon_Subtitle_Automate.pdf
