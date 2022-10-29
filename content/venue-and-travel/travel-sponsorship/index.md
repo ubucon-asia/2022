@@ -9,6 +9,7 @@ If you have enough money to spend, You can also consider travel to Seoul with yo
 But not everyone would be able to get expenses covered in these ways. For those who who has difficulty with bring travel budget, we have some information for that.
 
 # Travel sponsorship by Organizing team
+> (Oct 29th) We don't have much budget left for flight sponsorship, Thus full flight sponsorship for multiple applicants no longer possible. Make sure to look for other travel grants.
 If you travel from foreign country or non capital area of Korea to join our event in-person. We can cover following expenses for you.
 - For people who come from non-capital region of South Korea: Round trip ticket fee for Domestic Flights, Train, Express bus, or Domestic Ferry
   - Upto 150,000 KRW, Will be purchased by speaker first, Then reimbursed by organizing team after the event.
