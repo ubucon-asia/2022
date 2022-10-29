@@ -544,7 +544,7 @@ params:
   timetable:
     dateStart: 2022-11-26T10:00:00+09:00
     dateEnd: 2022-11-27T18:00:00+09:00
-    timeStart: 2000-01-01T13:00:00+09:00 # Use random date for timeStart param
+    timeStart: 2000-01-01T09:00:00+09:00 # Use random date for timeStart param
   eventInfo:
     virtualLocationUrl: https://www.youtube.com/channel/UCdy5ggH4LKgUyr0WIH9DPwQ
     streetAddress: "396, World Cup buk-ro"

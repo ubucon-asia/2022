@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main>
-  <section class="p-strip--accent">
+  <section class="p-strip--suru">
     <div class="row">
       <h2>{{.Title}}</h2>
       {{ with .OutputFormats.Get "Calendar" -}}
@@ -13,7 +13,7 @@
   </section>
   <section class="p-strip">
     <div class="row">
-      <div id="calendar" style="height: 90vh;"></div>
+      <div id="schedule_container"></div>
     </div>
   </section>
 </main>
@@ -26,40 +26,47 @@
   function convertTimeToLocalTZ(date) {
     let toConvert = new Date(date);
     let currentTZ = new window.Intl.DateTimeFormat().resolvedOptions().timeZone;
-    return toConvert.toLocaleTimeString('en-US',{hour12: false, timeZone: currentTZ});
+    return toConvert.toLocaleTimeString('en-US', { hour12: false, timeZone: currentTZ });
   }
 
   document.addEventListener('DOMContentLoaded', function () {
-    var calendarEl = document.getElementById('calendar');
-    var calendar = new FullCalendar.Calendar(calendarEl, {
+
+    let ec = new EventCalendar(document.getElementById('schedule_container'), {
       allDaySlot: false,
-      locale: '{{ .Site.Language.Lang }}',
-      initialView: 'timeGridDay',
-      initialDate: '{{ .Site.Params.timetable.dateStart }}',
       slotDuration: '00:05:00',
+      height: '90vh',
       scrollTime: convertTimeToLocalTZ('{{ .Site.Params.timetable.timeStart }}'),
-      validRange: {
-        start: '{{ .Site.Params.timetable.dateStart }}',
-        end: '{{ .Site.Params.timetable.dateEnd }}'
+      nowIndicator: true,
+      resources: [
+        { id: 1, title: 'Intl room' },
+        { id: 2, title: 'Workshop' },
+        { id: 2, title: 'BoF' }
+      ],
+      view: 'resourceTimeGridDay',
+      views: {
+        resourceTimeGridDay: { pointer: true }
       },
-      eventClick: function(info) {
-        window.location = info.event.url;
+      eventClick: function (info) {
+        window.location = info.event.extendedProps.url;
       },
       events: [
         {{ range $pages }}
         {{ if .Params.speakers }}
           {
-            title: '{{.Title}} - {{range .Params.speakers}}{{.name}};{{end}} (Room {{.Params.room}})',
-            start: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" .Date.UTC}}'),
-            end: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" (time .Params.end).UTC}}'),
-            url: '{{.RelPermalink}}',
-            backgroundColor: '{{if eq .Params.room 1}} green {{else if (eq .Params.room 2)}} steelblue {{end}}'
+      title: '{{.Title}} - {{range .Params.speakers}}{{.name}};{{end}}',
+      start: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" .Date.UTC}}'),
+      end: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" (time .Params.end).UTC}}'),
+      // url: '{{.RelPermalink}}',
+      resourceId: {{.Params.room }},
+      extendedProps: {url: '{{.RelPermalink}}'}
           },
-        {{ end }}
-        {{ end }}
-      ]
-    });
-    calendar.render();
+    {{ end }}
+    {{ end }}
+    ]
+});
   });
+
+
 </script>
+
 {{ end }}

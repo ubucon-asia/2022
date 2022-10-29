@@ -1,8 +1,8 @@
 ---
 title: Automating boring and repetitive UbuCon Asia video and subtitle stuffs
-date: 2022-09-26T14:15:00+09:00
-end: 2022-09-26T14:45:00+09:00
-room: 2
+date: 2022-10-29T12:15:00+09:00
+end: 2022-10-29T12:45:00+09:00
+room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 featured: false # If it's true. This session will appear on main page.
 slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
