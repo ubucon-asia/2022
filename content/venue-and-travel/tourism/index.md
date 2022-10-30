@@ -60,6 +60,9 @@ You may take taxi to get to the venue. The taxi fare is about 14,510 KRW. Please
 
 # Getting around Venue and Seoul
 
+## Payments
+Almost every stores and restaurants accepts credit or debit cards with Visa or MasterCard branding. In most cases, You won't need any cash. But it is also a good idea to have some cash for in case cards not working or accepted. 
+
 ## Public transportation & Transportation card
 Seoul has a convenient public transportation and transfer system through out bus, subways and taxi. If you have a contactless transportation card, You can take advantage of easy transfer system. You can buy and top up transportation card such as T-money, Cashbee or Railplus at most convenience stores or subway stations nearby.
 
