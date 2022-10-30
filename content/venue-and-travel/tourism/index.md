@@ -80,5 +80,13 @@ Opened on May 1st, 2002, the Wolrd Cup Park was once a 15-year-old landfill that
 ### Namsan Seoul Tower
 Namsan Seoul Tower was built in 1969 as Korea's first integrated transmission tower beaming television and radio broadcasts across the capital. Since opening to the public in 1980, it has become a much-loved Seoul landmark. The tower's main attractions include multi-colored digital art projected onto the tower at night, a digital observatory, a roof terrace, the HanCook restaurant, the n.Grill restaurant, and the Haneul (Sky) Restroom. Namsan Seoul Tower's mountain surroundings on Namsan Mountain have made it a popular place to unwind for locals and tourists alike. (Source: VisitSeoul) ([Learn more](https://english.visitseoul.net/attractions/Namsan-Seoul-Tower_/37))
 
-## Gyeongbokgung Palace
+### Gyeongbokgung Palace
 Gyeongbokgung Palace was the first and largest of the royal palaces built during the Joseon Dynasty. Built in 1395, Gyeongbokgung Palace was located at the heart of the newly appointed capital of Seoul (then known as Hanyang) and represented the sovereignty of the Joseon Dynasty. The largest of the Five Grand Palaces (the others being Gyeonghuigung Palace, Deoksugung Palace, Changgyeonggung Palace, Changdeokgung Palace), Gyeongbokgung served as the main palace of the Joseon Dynasty. (Source: VisitSeoul)  ([Learn more](https://english.visitseoul.net/attractions/Gyeongbokgung_/73))
+
+## Restaurants
+
+You can find diverse restaurants at the basement of Nuritkum Square (the buliding where our venue located) and near MBC broadcasting center which is located next to Nuriktum Square.
+
+You may also find more curated list of restaurants at VisitSeoul.net
+
+{{< button text="Find more restaurants at VisitSeoul.net" href="https://english.visitseoul.net/restaurants" icon="external-link" >}}
