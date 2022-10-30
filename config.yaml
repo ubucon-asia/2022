@@ -30,8 +30,8 @@ languages:
           weight: 20
         - identifier: venue
           parent: venue-travel-group
-          name: 행사장
-          url: venue-and-travel/venue
+          name: 행사장/안전정보
+          url: venue-and-travel/venue-and-safety
           weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
@@ -116,8 +116,8 @@ languages:
           weight: 20
         - identifier: venue
           parent: venue-travel-group
-          name: Venue
-          url: venue-and-travel/venue
+          name: Venue & Safety
+          url: venue-and-travel/venue-and-safety
           weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
@@ -202,8 +202,8 @@ languages:
           weight: 20
         - identifier: venue
           parent: venue-travel-group
-          name: Venue
-          url: venue-and-travel/venue
+          name: Venue & Safety
+          url: venue-and-travel/venue-and-safety
           weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
@@ -288,8 +288,8 @@ languages:
           weight: 20
         - identifier: venue
           parent: venue-travel-group
-          name: Venue
-          url: venue-and-travel/venue
+          name: Venue & Safety
+          url: venue-and-travel/venue-and-safety
           weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
@@ -374,8 +374,8 @@ languages:
           weight: 20
         - identifier: venue
           parent: venue-travel-group
-          name: Venue
-          url: venue-and-travel/venue
+          name: Venue & Safety
+          url: venue-and-travel/venue-and-safety
           weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
@@ -461,7 +461,7 @@ languages:
         - identifier: venue
           parent: venue-travel-group
           name: 场馆介绍
-          url: venue-and-travel/venue
+          url: venue-and-travel/venue-and-safety
           weight: 21
         - identifier: entry-and-visa
           parent: venue-travel-group
