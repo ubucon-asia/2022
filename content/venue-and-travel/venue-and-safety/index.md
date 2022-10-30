@@ -44,6 +44,7 @@ To provide safe environment for every participants, We require every participant
 
 - [Police: 112](tel:112)
 - [Fire/Ambulance: 119](tel:119)
+- [Travel Helpline: 1330](tel:1330)
 
 ### Nearby Police stations, Fire stations and Hospitals
 

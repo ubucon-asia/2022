@@ -95,6 +95,11 @@ VisitSeoul.net 에서 더 많은 선별된 식당 목록을 찾아보실 수 있
 
 # 다른 유용한 정보
 
+## 관광안내전화
+여행과 관련된 도움이 빠르게 필요할 때, [1330 관광안내](tel:1330)에 전화하여 관광안내, 관광통역, 관련 기관 긴급 전화 연결, 관광경찰 연결 등 도움을 받을 수 있습니다. 관광안내전화는 24시간 연중무휴 운영됩니다. 
+
+{{< button text="1330에 대해 더 알아보기" href="https://korean.visitkorea.or.kr/notice/news_detail.do?nwsid=be22068c-a08e-4f11-94a3-c374cb74c452" icon="external-link" >}}
+
 ## SIM 카드
 공항과 가까운 편의점 (CU, 세븐일레븐, GS25 등)에서 선불 SIM 카드를 구입하실 수 있습니다. 공항 밖에서도 구입이 가능하나, 보통 공항에서 구입하는 것이 여행에 편리합니다. 휴대전화에 eSIM 이 내장되어 있다면, [eSIM Korea](https://esimkorea.net/)나 [Airalo](https://www.airalo.com/)에서 eSIM 을 구입하는 것도 좋은 방법입니다.
 

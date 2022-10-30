@@ -96,6 +96,11 @@ You may also find more curated list of restaurants at VisitSeoul.net
 
 # Other usefull informations
 
+## Travel Helpline
+If you need a quick help with your travel while in Korea, You may make phone call to [1330 1330 Korea Travel Helpline](tel:1330) for help with travel information, multilingual assistance with interpretation, emergency related services and help from tourist police. The helpline is available 24/7.
+
+{{< button text="More info on 1330" href="https://english.visitkorea.or.kr/enu/TRV/TV_ENG_3_1.jsp" icon="external-link" >}}
+
 ## SIM Cards
 Prepaid SIM Cards at Airports and also nearby convenience stores such as CU, 7-11, and GS25. Though it's possible to purchase a prepaid SIM card outside of the airport, making a purchase at the airport is more convenient and hassle-free. If your phone has eSIM built in, buying eSIM at [eSIM Korea](https://esimkorea.net/) or [Airalo](https://www.airalo.com/) is also a good idea.
 
