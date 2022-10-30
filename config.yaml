@@ -48,6 +48,11 @@ languages:
           name: 근처 숙박시설
           url: venue-and-travel/accommodations
           weight: 24
+        - identifier: tourism
+          parent: venue-travel-group
+          name: 관광정보
+          url: venue-and-travel/tourism
+          weight: 25
         - identifier: programs-group
           name: 프로그램
           url: programs
@@ -134,6 +139,11 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
+        - identifier: tourism
+          parent: venue-travel-group
+          name: Tourism
+          url: venue-and-travel/tourism
+          weight: 25
         - identifier: programs-group
           name: Programs
           url: programs
@@ -220,6 +230,11 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
+        - identifier: tourism
+          parent: venue-travel-group
+          name: Tourism
+          url: venue-and-travel/tourism
+          weight: 25
         - identifier: programs-group
           name: Program
           url: programs
@@ -306,6 +321,11 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
+        - identifier: tourism
+          parent: venue-travel-group
+          name: Tourism
+          url: venue-and-travel/tourism
+          weight: 25
         - identifier: programs-group
           name: Programs
           url: programs
@@ -392,6 +412,11 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
+        - identifier: tourism
+          parent: venue-travel-group
+          name: Tourism
+          url: venue-and-travel/tourism
+          weight: 25
         - identifier: programs-group
           name: Programs
           url: programs
@@ -478,6 +503,11 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
+        - identifier: tourism
+          parent: venue-travel-group
+          name: Tourism
+          url: venue-and-travel/tourism
+          weight: 25
         - identifier: programs-group
           name: 会议
           url: programs
