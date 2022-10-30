@@ -49,39 +49,41 @@ description: 행사장 내부 안내 및 각종 안전 및 보건 정보
 
 #### 상암파출소
 
-{{< button text="전화" href="tel:+82-2-309-9525" icon="external-link" >}}
+- [전화: +82-2-309-9525](tel:+82-2-309-9525)
+
 {{< button text="Google Maps" href="https://goo.gl/maps/bZi9WPg525dkcwp79" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/GSizf4kC" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/7925158" icon="external-link" >}}
 
 #### 마포소방서 상암119안전센터
 
-{{< button text="전화" href="tel:+82-2-309-4119" icon="external-link" >}}
+- [전화: +82-2-309-4119](tel:+82-2-309-4119)
+
 {{< button text="Google Maps" href="https://goo.gl/maps/C8hPismiyDZAEgDm7" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/G6iuUnb1" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/17801430" icon="external-link" >}}
 
 #### 24시 열린의원
-**행사장 건물 지차**에 위치한 **지역 병의원**
+- **행사장 건물 지차**에 위치한 **지역 병의원**
+- [전화: +82-2-2132-2475](tel:+82-2-2132-2475)
 
-{{< button text="전화" href="tel:+82-2-2132-2475" icon="external-link" >}}
 {{< button text="Google Maps" href="https://goo.gl/maps/hjMj7FLCzMmcisJs9" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/xKQWWOeW" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/1046838438" icon="external-link" >}}
 
 #### 세브란스 병원
-신촌역 근처에 위치한 **종합병원**
+- 신촌역 근처에 위치한 **종합병원**
+- [전화: +82-2-337-7582](tel:+82-2-337-7582)
 
-{{< button text="전화" href="tel:+82-2-337-7582" icon="external-link" >}}
 {{< button text="Google Maps" href="https://goo.gl/maps/iw5AtetepvqhbyHp6" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/56IDYDOa" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/7981165" icon="external-link" >}}
 
 #### 신촌연세병원
-서강대역 근처에 위치한 **종합병원**
+- 서강대역 근처에 위치한 **종합병원**
+- [전화: +82-2-1599-1004](tel:+82-2-1599-1004)
+- [전화 (해외 수신): +82-2-2228-1004](tel:+82-2-2228-1004)
 
-{{< button text="전화" href="tel:+82-2-1599-1004" icon="external-link" >}}
-{{< button text="전화 (해외 수신)" href="tel:+82-2-2228-1004" icon="external-link" >}}
 {{< button text="Google Maps" href="https://goo.gl/maps/mpSsSmv7GjSMMDCP8" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/GJrFT2S7" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/26822101" icon="external-link" >}}

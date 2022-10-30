@@ -51,39 +51,41 @@ To provide safe environment for every participants, We require every participant
 
 #### Sangam Police Substation
 
-{{< button text="Phone" href="tel:+82-2-309-9525" icon="external-link" >}}
+- [Phone: +82-2-309-9525](tel:+82-2-309-9525)
+
 {{< button text="Google Maps" href="https://goo.gl/maps/bZi9WPg525dkcwp79" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/GSizf4kC" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/7925158" icon="external-link" >}}
 
 #### Mapo Fire Center - Sangam 119 Safety Center
 
-{{< button text="Phone" href="tel:+82-2-309-4119" icon="external-link" >}}
+- [Phone: +82-2-309-4119](tel:+82-2-309-4119)
+
 {{< button text="Google Maps" href="https://goo.gl/maps/C8hPismiyDZAEgDm7" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/G6iuUnb1" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/17801430" icon="external-link" >}}
 
 #### 24시 열린의원 (24/7 Open clinic)
-A **local clinic** Located at **basement floor of the venue**
+- A **local clinic** Located at **basement floor of the venue**
+- [Phone: +82-2-2132-2475](tel:+82-2-2132-2475)
 
-{{< button text="Phone" href="tel:+82-2-2132-2475" icon="external-link" >}}
 {{< button text="Google Maps" href="https://goo.gl/maps/hjMj7FLCzMmcisJs9" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/xKQWWOeW" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/1046838438" icon="external-link" >}}
 
 #### Sevrance Hospital
-A **General Hospital** located near Shinchon station
+- A **General Hospital** located near Shinchon station
+- [Phone: +82-2-337-7582](tel:+82-2-337-7582)
 
-{{< button text="Phone" href="tel:+82-2-337-7582" icon="external-link" >}}
 {{< button text="Google Maps" href="https://goo.gl/maps/iw5AtetepvqhbyHp6" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/56IDYDOa" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/7981165" icon="external-link" >}}
 
 #### Shinchon Yeonsei Hospital
-A **General Hospital** located near Sogang Univ. station
+- A **General Hospital** located near Sogang Univ. station
+- [Phone: +82-2-1599-1004](tel:+82-2-1599-1004)
+- [Phone (from overseas): +82-2-2228-1004](tel:+82-2-2228-1004)
 
-{{< button text="Phone" href="tel:+82-2-1599-1004" icon="external-link" >}}
-{{< button text="Phone (from overseas)" href="tel:+82-2-2228-1004" icon="external-link" >}}
 {{< button text="Google Maps" href="https://goo.gl/maps/mpSsSmv7GjSMMDCP8" icon="external-link" >}}
 {{< button text="Naver Maps" href="https://naver.me/GJrFT2S7" icon="external-link" >}}
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/26822101" icon="external-link" >}}
