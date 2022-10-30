@@ -64,7 +64,7 @@ description: 행사장 내부 안내 및 각종 안전 및 보건 정보
 {{< button text="Kakao Maps" href="https://place.map.kakao.com/17801430" icon="external-link" >}}
 
 #### 24시 열린의원
-- **행사장 건물 지차**에 위치한 **지역 병의원**
+- **행사장 건물 지하**에 위치한 **지역 병의원**
 - [전화: +82-2-2132-2475](tel:+82-2-2132-2475)
 
 {{< button text="Google Maps" href="https://goo.gl/maps/hjMj7FLCzMmcisJs9" icon="external-link" >}}
