@@ -92,3 +92,15 @@ VisitSeoul.net 에서 더 다양한 관광지 정보를 찾을 수 있습니다.
 VisitSeoul.net 에서 더 많은 선별된 식당 목록을 찾아보실 수 있습니다.
 
 {{< button text="VisitSeoul.net 에서 더 다양한 식당 찾아보기" href="https://korean.visitseoul.net/restaurants" icon="external-link" >}}
+
+# 다른 유용한 정보
+
+## SIM 카드
+공항과 가까운 편의점 (CU, 세븐일레븐, GS25 등)에서 선불 SIM 카드를 구입하실 수 있습니다. 공항 밖에서도 구입이 가능하나, 보통 공항에서 구입하는 것이 여행에 편리합니다. 휴대전화에 eSIM 이 내장되어 있다면, [eSIM Korea](https://esimkorea.net/)나 [Airalo](https://www.airalo.com/)에서 eSIM 을 구입하는 것도 좋은 방법입니다.
+
+## VisitSeoul 및 VistiKorea 웹사이트
+
+정부에서 관리하는 VisitSeoul 및 VisitKorea 웹사이트에서는 잘 정리된 전반적인 서울 및 한국 여행 정보를 제공하고 있습니다. 여행에 유용한 대부분의 정보는 이 웹사이트에서 찾아보실 수 있습니다.
+
+{{< button text="VisitSeoul.Net" href="https://korean.visitseoul.net/" icon="external-link" >}}
+{{< button text="VisitKorea" href="https://korean.visitkorea.or.kr/" icon="external-link" >}}

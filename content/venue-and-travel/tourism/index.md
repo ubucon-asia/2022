@@ -93,3 +93,15 @@ You can find diverse restaurants at the basement of Nuritkum Square (the bulidin
 You may also find more curated list of restaurants at VisitSeoul.net
 
 {{< button text="Find more restaurants at VisitSeoul.net" href="https://english.visitseoul.net/restaurants" icon="external-link" >}}
+
+# Other usefull informations
+
+## SIM Cards
+Prepaid SIM Cards at Airports and also nearby convenience stores such as CU, 7-11, and GS25. Though it's possible to purchase a prepaid SIM card outside of the airport, making a purchase at the airport is more convenient and hassle-free. If your phone has eSIM built in, buying eSIM at [eSIM Korea](https://esimkorea.net/) or [Airalo](https://www.airalo.com/) is also a good idea.
+
+## VisitSeoul and VistiKorea Website
+
+VisitSeoul and VisitKorea websites provides well organized comprehensive tour information on Seoul and Korea and maintained by government. Most usefull infromation on tour can be found on this website.
+
+{{< button text="VisitSeoul.Net" href="https://english.visitseoul.net/index" icon="external-link" >}}
+{{< button text="VisitKorea" href="https://english.visitkorea.or.kr/" icon="external-link" >}}
