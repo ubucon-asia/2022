@@ -3,6 +3,7 @@ title: "근처 숙박시설"
 description: 행사장 근처 호텔 및 기타 숙박시설 정보
 ---
 
+# 호텔
 ## 스탠포드 호텔 서울
 - 행사장에서 걸어서 7분 / 한국관광협회중앙회 4성 인증 
 - 주소: 서울특별시 마포구 월드컵북로 58길 15
@@ -45,3 +46,7 @@ description: 행사장 근처 호텔 및 기타 숙박시설 정보
 {{< button text="Naver Maps 에서 골든 서울 호텔 확인" href="https://naver.me/GoztzWT3" icon="external-link" >}}
 {{< button text="Kakao Maps 에서 골든 서울 호텔 확인" href="https://place.map.kakao.com/21369384" icon="external-link" >}}
 
+# 게스트하우스
+
+여행 예산이 많지 않다면, Airbnb 등 게스트하우스 또한 예산에 맞는 합리적인 선택지가 될 수도 있습니다.
+{{< button text="VisitSeoul.net 에서 게스트하우스 찾기" href="https://korean.visitseoul.net/seoul-stay" icon="external-link" >}}

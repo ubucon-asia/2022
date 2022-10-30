@@ -3,6 +3,7 @@ title: "Accomodations"
 description: Hotels and other accomodation nearby venue
 ---
 
+# Hotels
 ## Stanford Hotel Seoul
 - 7 min by walk from venue / 4 Stsrs (by Korea Tourism Association)
 - Address: 15, World Cup buk-ro 58-gil, Mapo-gu, Seoul, Republic of Korea
@@ -45,3 +46,8 @@ description: Hotels and other accomodation nearby venue
 {{< button text="Find Golden Seoul Hotel on Naver Maps" href="https://naver.me/GoztzWT3" icon="external-link" >}}
 {{< button text="Find Golden Seoul Hotel on Kakao Maps" href="https://place.map.kakao.com/21369384" icon="external-link" >}}
 
+# Guest house
+
+If you don't have a lot of budget for travel, Guest houses such as Airbnb can be also an affordable option for you.
+
+{{< button text="Find a guest house on VisitSeoul.net" href="https://english.visitseoul.net/seoul-stay" icon="external-link" >}}
