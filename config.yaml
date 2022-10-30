@@ -53,6 +53,11 @@ languages:
           name: 관광정보
           url: venue-and-travel/tourism
           weight: 25
+        - identifier: visitseoul
+          parent: venue-travel-group
+          name: VisitSeoul.net
+          url: https://korean.visitseoul.net
+          weight: 26
         - identifier: programs-group
           name: 프로그램
           url: programs
@@ -144,6 +149,11 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
+        - identifier: visitseoul
+          parent: venue-travel-group
+          name: VisitSeoul.net
+          url: https://english.visitseoul.net/index
+          weight: 26
         - identifier: programs-group
           name: Programs
           url: programs
@@ -235,6 +245,11 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
+        - identifier: visitseoul
+          parent: venue-travel-group
+          name: VisitSeoul.net
+          url: https://english.visitseoul.net/index
+          weight: 26
         - identifier: programs-group
           name: Program
           url: programs
@@ -326,6 +341,11 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
+        - identifier: visitseoul
+          parent: venue-travel-group
+          name: VisitSeoul.net
+          url: https://japanese.visitseoul.net/
+          weight: 26
         - identifier: programs-group
           name: Programs
           url: programs
@@ -417,6 +437,11 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
+        - identifier: visitseoul
+          parent: venue-travel-group
+          name: VisitSeoul.net
+          url: https://tchinese.visitseoul.net/
+          weight: 26
         - identifier: programs-group
           name: Programs
           url: programs
@@ -508,6 +533,11 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
+        - identifier: visitseoul
+          parent: venue-travel-group
+          name: VisitSeoul.net
+          url: https://chinese.visitseoul.net/index
+          weight: 26
         - identifier: programs-group
           name: 会议
           url: programs
