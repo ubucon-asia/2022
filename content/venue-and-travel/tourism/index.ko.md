@@ -66,3 +66,18 @@ description: 서울에 있는 동안 필요할 관광 정보 모음
 
 {{< button text="디스커버 서울 패스" href="https://www.discoverseoulpass.com/" icon="external-link" >}}
 {{< button text="코리아 투어 카드" href="https://www.koreatourcard.kr/" icon="external-link" >}}
+
+## 근처 관광지
+
+VisitSeoul.net 더 다양한 관광지 정보를 찾을 수 있습니다.
+
+{{< button text="VisitSeoul.Net" href="https://korean.visitseoul.net/attractions" icon="external-link" >}}
+
+### 월드컵공원
+2002년 3월 1일 열린 월드컵공원은 아름다운 섬 난지도 80여 만평에 1978년부터 1993년까지 15년간 서울시 쓰레기 약 9,200만 톤을 매립하여 버려졌던 땅에 환경공원을 조성한 곳으로 평화의 공원, 하늘공원, 노을공원, 난지천공원, 난지한강공원으로 이루어져 있습니다. (출처: VisitKorea) ([자세히 알아보기](https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=6a59bb86-f4d1-4e63-97e7-671479ca32a5&big_category=A02&mid_category=A0202&big_area=1))
+
+### 남산서울타워
+남산서울타워는 1969년에 세워진 국내 최초의 통합 송신탑으로 텔레비전과 라디오를 수도권 전역에 송출하고 있습니다. 1980년 대중에게 공개된 이후 많은 사랑을 받는 서울의 랜드마크가 되었습니다. 주요 볼거리로는 야간에 타워에 투사되는 형형색색의 디지털 아트, 디지털 전망대, 옥상 테라스, 한쿡 레스토랑, 엔그릴 레스토랑, 하늘 화장실 등이 있습니다. 남산 서울 타워의 남산 주변 산은 현지인과 관광객 모두에게 인기 있는 휴식처가 되었습니다. (Source: VisitSeoul) ([자세히 알아보기](https://korean.visitseoul.net/attractions/%EB%82%A8%EC%82%B0%EC%84%9C%EC%9A%B8%ED%83%80%EC%9B%8C_/36))
+
+## 경복궁
+경복궁은 조선 시대에 지어진 왕궁 중 가장 큰 궁궐이었다. 조선 왕조 개국 3년인 1395년에 완공된 궁궐은 390여 칸으로 한양의 중심축에 자리했다. 개국공신 정도전은 태조로부터 첫 번째 궁궐의 이름을 지으라는 명을 받았고, 고심 끝에 '새 왕조가 큰 복을 누려 번영할 것'이라는 의미로 경복궁(景福宮)이라는 이름을 붙였다. 경복궁은 5대궁인 경희궁, 덕수궁, 창경궁, 창덕궁 중 가장 큰 궁궐로 조선 왕조의 주요 궁궐 역할을 했다. ([자세히 알아보기](https://korean.visitseoul.net/attractions/%EA%B2%BD%EB%B3%B5%EA%B6%81_/72))
