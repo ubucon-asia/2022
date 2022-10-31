@@ -1,7 +1,7 @@
 ---
 title: Using Multipass as replacement for WSL2
-date: 2022-11-27T16:30:00+09:00
-end: 2022-11-27T17:00:00+09:00
+date: 2022-11-27T16:00:00+09:00
+end: 2022-11-27T16:20:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 3
 #1: Desktop 데스크탑
@@ -19,7 +19,7 @@ featured: false # If it's true. This session will appear on main page.
 lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: 조병승
+    - name: Byeongseung Cho
       bio: N/A
       email: chobs01kr@naver.com # Email
       launchpad: # link to launchpad.net profile

@@ -1,7 +1,7 @@
 ---
 title: Ubuntu Contributions and Membership
 date: 2022-11-26T11:30:00+09:00
-end: 2022-11-26T12:30:00+09:00
+end: 2022-11-26T12:15:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 11
 #1: Desktop 데스크탑

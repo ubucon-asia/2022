@@ -1,9 +1,9 @@
 ---
-title: Status and future of LibreOffice Korean team
-date: 2022-11-27T11:00:00+09:00
-end: 2022-11-27T11:20:00+09:00
-room: 3 # 1: Intl room, 2: Workshop, 3: BoF
-category: 11
+title: WebAssembly & Ubuntu Containers The Power Couple
+date: 2022-11-27T10:00:00+09:00
+end: 2022-11-27T10:45:00+09:00
+room: 1 # 1: Intl room, 2: Workshop, 3: BoF
+category: 2
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
@@ -16,12 +16,12 @@ category: 11
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: Korean
+lang: 영어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: DAEHYUN SUNG(성대현)
+    - name: Shivay Lamba
       bio: N/A
-      email: sungdh86@gmail.com # Email
+      email: shivaylamba@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo

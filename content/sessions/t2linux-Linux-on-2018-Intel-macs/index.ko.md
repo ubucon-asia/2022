@@ -1,9 +1,9 @@
 ---
-title: Status and future of LibreOffice Korean team
-date: 2022-11-27T11:00:00+09:00
-end: 2022-11-27T11:20:00+09:00
-room: 3 # 1: Intl room, 2: Workshop, 3: BoF
-category: 11
+title: t2linux Linux on 2018+ Intel Macs
+date: 2022-11-26T16:30:00+09:00
+end: 2022-11-26T16:50:00+09:00
+room: 1 # 1: Intl room, 2: Workshop, 3: BoF
+category: 8
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
@@ -16,12 +16,12 @@ category: 11
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: Korean
+lang: 한국어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: DAEHYUN SUNG(성대현)
+    - name: t2linux Team (조우현, Mark Vainomaa et al.)
       bio: N/A
-      email: sungdh86@gmail.com # Email
+      email: himesaka@noa.codes # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo

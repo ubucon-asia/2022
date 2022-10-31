@@ -1,5 +1,5 @@
 ---
-title: Status and future of LibreOffice Korean team
+title: LibreOffice 한국커뮤니티의 현재 상황과 앞으로 나아갈길
 date: 2022-11-27T11:00:00+09:00
 end: 2022-11-27T11:20:00+09:00
 room: 3 # 1: Intl room, 2: Workshop, 3: BoF
@@ -16,10 +16,10 @@ category: 11
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: Korean
+lang: 한국어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: DAEHYUN SUNG(성대현)
+    - name: 성대현
       bio: N/A
       email: sungdh86@gmail.com # Email
       launchpad: # link to launchpad.net profile

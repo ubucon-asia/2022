@@ -1,9 +1,9 @@
 ---
-title: Status and future of LibreOffice Korean team
-date: 2022-11-27T11:00:00+09:00
-end: 2022-11-27T11:20:00+09:00
-room: 3 # 1: Intl room, 2: Workshop, 3: BoF
-category: 11
+title: Using Multipass as replacement for WSL2
+date: 2022-11-27T16:00:00+09:00
+end: 2022-11-27T16:20:00+09:00
+room: 1 # 1: Intl room, 2: Workshop, 3: BoF
+category: 3
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
@@ -19,9 +19,9 @@ featured: false # If it's true. This session will appear on main page.
 lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: DAEHYUN SUNG(성대현)
+    - name: 조병승
       bio: N/A
-      email: sungdh86@gmail.com # Email
+      email: chobs01kr@naver.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
