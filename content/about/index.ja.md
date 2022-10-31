@@ -90,7 +90,7 @@ UbuCon Asia 2022 is a not-for-profit conference and a community-driven event mad
     desc="Global team | Content, Travel support, Marketing" >}}
 
 {{<profile
-    profile="rudra_saraswat.jpg"
+    profile="rudra_saraswat.png"
     heading="Rudra B. Saraswat" bold="Ubuntu Unity"
     desc="Global team | Content" >}}
 
