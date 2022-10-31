@@ -1,9 +1,9 @@
 ---
-title: Breaking down barriers to Linux Kernel Networking Stack
-date: 2022-11-27T16:30:00+09:00
-end: 2022-11-27T16:50:00+09:00
-room: 1 # 1: Intl room, 2: Workshop, 3: BoF
-category: 8
+title: 좌충우돌 서버룸에서 Ubuntu로 Private Cloud 구성하기 
+date: 2022-11-26T16:00:00+09:00
+end: 2022-11-26T17:30:00+09:00
+room: 2 # 1: Intl room, 2: Workshop, 3: BoF
+category: 2
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
@@ -16,12 +16,12 @@ category: 8
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: Korean
+lang: 한국어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: Juhee Kang
+    - name: 김세준
       bio: N/A
-      email: claudiajkang@gmail.com # Email
+      email: kimsejun@outlook.kr # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
