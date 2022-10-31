@@ -92,3 +92,34 @@ other = "티켓 구입"
 other = "정부 기관"
 [session_promo_image]
 other = "세션 홍보용 이미지 받기"
+[cat_other]
+other = "기타"
+[cat_desktop]
+other = "데스크탑"
+[cat_cloud]
+other = "클라우드와 인프라"
+[cat_wsl]
+other = "Linux용 Windows 하위시스템 (WSL)"
+[cat_l10n]
+other = "지역화, 국제화 및 접근성"
+[cat_iot]
+other = "사물인터넷, 임베디드, 로보틱스, 가전"
+[cat_packaging]
+other = "패키징"
+[cat_docs]
+other = "문서화, 품질 관리 및 버그 분류"
+[cat_sec]
+other = "보안, 규정준수 및 커널"
+[cat_data]
+other = "데이터와 인공지능"
+[cat_content]
+other = "컨텐츠와 디지인"
+[cat_community]
+other = "커뮤니티, 다양성, 지역 사회 협력과 사회적 관점"
+
+[room_intlroom]
+other = "국제회의실"
+[room_mid]
+other = "중회의실2"
+[room_mid]
+other = "대회의실"

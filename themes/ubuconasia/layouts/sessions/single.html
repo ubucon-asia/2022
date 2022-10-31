@@ -1,6 +1,22 @@
 {{ define "title"}} {{ .Title}} {{end}}
 {{ define "header"}} {{ partial "header" .}} {{end}}
 {{ define "main"}}
+
+{{ $catrgoryColors := slice "grey" "orange" "purple" "skyblue" "yellow" "green" "red" "blue" "silver" "peru" "steelblue" "coral" }}
+{{ $categoryNames := slice 
+                (i18n "cat_other")
+                (i18n "cat_desktop")
+                (i18n "cat_cloud")
+                (i18n "cat_wsl")
+                (i18n "cat_l10n")
+                (i18n "cat_iot")
+                (i18n "cat_packaging")
+                (i18n "cat_docs")
+                (i18n "cat_sec")
+                (i18n "cat_data")
+                (i18n "cat_content")
+                (i18n "cat_community") }}
+{{ $roomNames := slice "Unknown" (i18n "room_intlroom") (i18n "room_mid") (i18n "room_mid")}}
 <main>
     <section class="p-strip--suru">
         <div class="row">
@@ -8,10 +24,16 @@
             <h2>{{.Title}}</h2>
             <p><u class="timedisplay" style="text-decoration-style: dotted;">{{.Date.Format "2006-01-02T15:04:05-07:00"}}</u></p>
             <div>
-              <div class="p-label--new">Room {{.Params.room}}</div>
+              <div class="p-label--new">{{ index $roomNames (.Params.room) }}</div>
               {{if .Params.end}}
               <div class="p-label--new">{{ i18n "session_duration" }} {{(time .Params.end).Sub .Date}}</div>
               {{end}}
+              <div class="p-chip" style="background-color: {{ index $catrgoryColors (.Params.category) }} ;">
+                <span class="p-chip__value">
+                  {{ index $categoryNames (.Params.category) }}
+                </span>
+              </div>
+              
             </div>
         </div>
       </section>

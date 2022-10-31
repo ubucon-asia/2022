@@ -52,3 +52,33 @@ other = "Get tickets"
 other = "Government partners"
 [session_promo_image]
 other = "Get session promotion image"
+[cat_other]
+other = "Other"
+[cat_desktop]
+other = "Desktop"
+[cat_cloud]
+other = "Cloud and Infrastructure "
+[cat_wsl]
+other = "Windows Subsystem for Linux (WSL)"
+[cat_l10n]
+other = "Localizations, Internationalizations, and Accessibility"
+[cat_iot]
+other = "IoT, Embedded, Robotics, Appliances"
+[cat_packaging]
+other = "Packaging"
+[cat_docs]
+other = "Documentations, QA and Bug triage"
+[cat_sec]
+other = "Security, Compliance and Kernel"
+[cat_data]
+other = "Data and AI"
+[cat_content]
+other = "Content and Design"
+[cat_community]
+other = "Community, Diversity, Local Outreach and Social Context"
+[room_intlroom]
+other = "Intl room"
+[room_mid]
+other = "Midsize room 2"
+[room_large]
+other = "Large room"
