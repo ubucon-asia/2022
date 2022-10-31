@@ -28,6 +28,11 @@
               {{if .Params.end}}
               <div class="p-label--new">{{ i18n "session_duration" }} {{(time .Params.end).Sub .Date}}</div>
               {{end}}
+              <div class="p-chip" style="background-color: white ;">
+                <span class="p-chip__value">
+                  {{ .Params.lang }}
+                </span>
+              </div>
               <div class="p-chip" style="background-color: {{ index $catrgoryColors (.Params.category) }} ;">
                 <span class="p-chip__value">
                   {{ index $categoryNames (.Params.category) }}

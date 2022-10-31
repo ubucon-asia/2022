@@ -16,6 +16,7 @@ category: 0
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
+lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: N/A

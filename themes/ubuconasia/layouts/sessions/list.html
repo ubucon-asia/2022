@@ -69,7 +69,7 @@
         {{ range $pages }}
         {{ if .Params.speakers }}
           {
-      title: '{{.Title}} - {{range .Params.speakers}}{{.name}};{{end}}',
+      title: '{{.Title}} - {{range .Params.speakers}}{{.name}};{{end}} ({{.Params.lang}})',
       start: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" .Date.UTC}}'),
       end: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" (time .Params.end).UTC}}'),
       // url: '{{.RelPermalink}}',
