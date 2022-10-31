@@ -1,7 +1,7 @@
 ---
-title: Play with MAAS (Metal as a Service) CLI
-date: 2022-11-27T11:30:00+09:00
-end: 2022-11-27T11:50:00+09:00
+title: Securely protected Kubernetes Container environment with AppArmor
+date: 2022-11-26T15:30:00+09:00
+end: 2022-11-26T16:15:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 2
 #1: Desktop 데스크탑
@@ -16,12 +16,12 @@ category: 2
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: English
+lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: Saputro Aryulianto
+    - name: Hoon Jo
       bio: N/A
-      email: aryuliantos@gmail.com # Email
+      email: pagaia@hotmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo

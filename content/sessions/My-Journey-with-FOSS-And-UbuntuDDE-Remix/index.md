@@ -1,7 +1,7 @@
 ---
 title: My Journey with FOSS And UbuntuDDE Remix
 date: 2022-11-27T17:00:00+09:00
-end: 2022-11-27T17:30:00+09:00
+end: 2022-11-27T17:20:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 1
 #1: Desktop 데스크탑

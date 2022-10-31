@@ -1,8 +1,7 @@
 ---
 title: OpenStack 한국 커뮤니티의 컨트리뷰션 멘토링 도전기
-
 date: 2022-11-26T11:30:00+09:00
-end: 2022-11-26T12:30:00+09:00
+end: 2022-11-26T12:15:00+09:00
 room: 2 # 1: Intl room, 2: Workshop, 3: BoF
 category: 11
 #1: Desktop 데스크탑
@@ -17,10 +16,10 @@ category: 11
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: Korean
+lang: 한국어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: Seongsoo Cho
+    - name: 조성수
       bio: N/A
       email: ppiyakk2@printf.kr # Email
       launchpad: # link to launchpad.net profile

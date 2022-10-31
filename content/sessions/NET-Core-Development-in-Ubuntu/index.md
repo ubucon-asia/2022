@@ -1,5 +1,5 @@
 ---
-title:  .NET Core Development in Ubuntu
+title: .NET Core Development in Ubuntu
 date: 2022-11-27T11:00:00+09:00
 end: 2022-11-27T12:30:00+09:00
 room: 2 # 1: Intl room, 2: Workshop, 3: BoF
@@ -19,7 +19,7 @@ featured: false # If it's true. This session will appear on main page.
 lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: 최영선
+    - name: Yeongseon Choi
       bio: N/A
       email: yeongseon.choe@gmail.com # Email
       launchpad: # link to launchpad.net profile

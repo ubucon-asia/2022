@@ -1,7 +1,7 @@
 ---
 title: MicroK8s, Kubernetes and deploying Applications
 date: 2022-11-26T14:30:00+09:00
-end: 2022-11-26T15:30:00+09:00
+end: 2022-11-26T15:15:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 2
 #1: Desktop 데스크탑
