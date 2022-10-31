@@ -1,7 +1,7 @@
 ---
 title: Handling Remaining Funds after UbuCon Asia
 date: 2022-11-27T10:00:00+09:00
-end: 2022-11-27T11:30:00+09:00
+end: 2022-11-27T10:45:00+09:00
 room: 2 # 1: Intl room, 2: Workshop, 3: BoF
 category: 11
 #1: Desktop 데스크탑
