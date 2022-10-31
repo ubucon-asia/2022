@@ -1,5 +1,5 @@
 ---
-title: 2022's Ubuntu Desktop Printing Technology
+title: 2022년의 우분투 데스크톱 프린팅 기술
 date: 2022-11-27T12:00:00+09:00
 end: 2022-11-27T12:20:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
@@ -16,7 +16,7 @@ category: 1
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: English
+lang: 영어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Naruhiko Ogasawara

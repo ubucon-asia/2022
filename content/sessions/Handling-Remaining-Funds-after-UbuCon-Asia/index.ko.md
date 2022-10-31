@@ -1,9 +1,9 @@
 ---
-title: 2022's Ubuntu Desktop Printing Technology
-date: 2022-11-27T12:00:00+09:00
-end: 2022-11-27T12:20:00+09:00
-room: 1 # 1: Intl room, 2: Workshop, 3: BoF
-category: 1
+title: Handling Remaining Funds after UbuCon Asia
+date: 2022-11-27T10:00:00+09:00
+end: 2022-11-27T11:30:00+09:00
+room: 2 # 1: Intl room, 2: Workshop, 3: BoF
+category: 11
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
@@ -16,12 +16,12 @@ category: 1
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: English
+lang: 한국어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: Naruhiko Ogasawara
+    - name: 한영빈
       bio: N/A
-      email: naruoga@gmail.com # Email
+      email: sukso96100@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo

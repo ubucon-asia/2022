@@ -1,7 +1,7 @@
 ---
 title: Install Windows and WSL on LXD/VM
 date: 2022-11-27T11:30:00+09:00
-end: 2022-11-27T12:30:00+09:00
+end: 2022-11-27T12:15:00+09:00
 room: 3 # 1: Intl room, 2: Workshop, 3: BoF
 category: 1
 #1: Desktop 데스크탑
@@ -16,7 +16,7 @@ category: 1
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: Japanese+English
+lang: Japanese
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Mitsuya Shibata

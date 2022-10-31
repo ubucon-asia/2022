@@ -1,9 +1,9 @@
 ---
-title: Laptop-2-Library Using Low End Old Laptop as Digital Library in Remote Villages in Nepal’ Using Base Ubuntu
-date: 2022-11-27T11:00:00+09:00
-end: 2022-11-27T12:00:00+09:00
-room: 1 # 1: Intl room, 2: Workshop, 3: BoF
-category: 11
+title: Install Windows and WSL on LXD/VM
+date: 2022-11-27T11:30:00+09:00
+end: 2022-11-27T12:15:00+09:00
+room: 3 # 1: Intl room, 2: Workshop, 3: BoF
+category: 1
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
@@ -16,12 +16,12 @@ category: 11
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: English
+lang: 일본어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: Ravi Bhattarai
+    - name: Mitsuya Shibata
       bio: N/A
-      email: axon.rb@gmail.com # Email
+      email: mty.shibata@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo

@@ -1,7 +1,7 @@
 ---
 title: CUDA with WSL2 and Ubuntu without Docker
 date: 2022-11-27T15:30:00+09:00
-end: 2022-11-27T16:00:00+09:00
+end: 2022-11-27T15:50:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 3
 #1: Desktop 데스크탑
@@ -19,7 +19,7 @@ featured: false # If it's true. This session will appear on main page.
 lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: 윤성국(Geoff Yoon)
+    - name: Geoff Yoon
       bio: N/A
       email: koock1994@gmail.com # Email
       launchpad: # link to launchpad.net profile
