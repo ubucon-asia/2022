@@ -25,8 +25,8 @@ speakers: # Speaker info
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: Twitter # Other website link url
-      linklabel: https://twitter.com/codingbear03 # Label for linkurl
+      linkurl: https://twitter.com/codingbear03 # Other website link url
+      linklabel: Twitter # Label for linkurl
 ---
 
 I am working as an executive in the computer central club of the school. Among the executives, as one of technology-related executives, I contribute to the club by maintaining various services (GitLab, Wiki, Mail, etc.) used by members and the Backoffice that executives use for club management.

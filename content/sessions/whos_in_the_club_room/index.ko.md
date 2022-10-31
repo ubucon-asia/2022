@@ -25,8 +25,8 @@ speakers: # Speaker info
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: Twitter # Other website link url
-      linklabel: https://twitter.com/codingbear03 # Label for linkurl
+      linkurl: https://twitter.com/codingbear03 # Other website link url
+      linklabel: Twitter # Label for linkurl
 ---
 
 저는 학교의 컴퓨터 중앙동아리에 임원진으로 일하고 있습니다. 임원진 중에서도 기술 관련 임원진으로, 부원들이 사용하는 여러 가지 서비스들 (GitLab, Wiki, Mail 등)과 임원진들이 동아리 관리를 위한 Backoffice 제작 등을 지원하며 동아리에 기여하고 있습니다.
