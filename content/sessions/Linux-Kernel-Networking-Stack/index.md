@@ -1,7 +1,7 @@
 ---
-title: t2linux Linux on 2018+ Intel Macs
-date: 2022-11-26T16:30:00+09:00
-end: 2022-11-26T17:00:00+09:00
+title: Linux Kernel Networking Stack 진입장벽 허물기
+date: 2022-11-27T16:30:00+09:00
+end: 2022-11-27T17:00:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 8
 #1: Desktop 데스크탑
@@ -16,12 +16,12 @@ category: 8
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: false # If it's true. This session will appear on main page.
-lang: English
+lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: t2linux Team (조우현, Mark Vainomaa et al.)
+    - name: 강주희
       bio: N/A
-      email: himesaka@noa.codes # Email
+      email: claudiajkang@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo

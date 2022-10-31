@@ -1,9 +1,9 @@
 ---
-title: t2linux Linux on 2018+ Intel Macs
-date: 2022-11-26T16:30:00+09:00
-end: 2022-11-26T17:00:00+09:00
+title: Laptop-2-Library Using Low End Old Laptop as Digital Library in Remote Villages in Nepal’ Using Base Ubuntu
+date: 2022-11-27T11:00:00+09:00
+end: 2022-11-27T12:00:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
-category: 8
+category: 11
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
@@ -19,9 +19,9 @@ featured: false # If it's true. This session will appear on main page.
 lang: English
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: t2linux Team (조우현, Mark Vainomaa et al.)
+    - name: Ravi Bhattarai
       bio: N/A
-      email: himesaka@noa.codes # Email
+      email: axon.rb@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
