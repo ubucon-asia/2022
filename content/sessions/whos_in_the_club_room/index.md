@@ -1,5 +1,5 @@
 ---
-title: "Who's in the cloud room?: From Freeradius to ARP Scanner"
+title: "Who's in the club room?: From Freeradius to ARP Scanner"
 date: 2022-11-27T14:30:00+09:00
 end: 2022-11-27T15:15:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
