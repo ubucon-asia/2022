@@ -39,3 +39,20 @@ If you could not refund your ticket within refund periods. For tickets from Fest
 ## Hoodie info
 
 > Note: Hoodie are only for Speakers, Organizers, Volunteers, Patrons, etc. 
+
+![](.hoodie_sizechart.png)
+
+| Size(CM) | Shoulder(어깨) | Chest(가슴) | Height(총기장) | Arm length(소매길이) |
+| -- | -- | -- | -- | -- |
+| 13호(2~3세,110) |	- |	33 | 44 | - |
+| 14호(4~5세,120) |	- |	35 | 46 | - |
+| 15호(6~7세,130) |	- |	37 | 49 | - |
+| 16호(8~9세,140) |	- |	40 | 52 | - |
+| 17호(10~11세,150) | - | 42 | 55 |	- |
+| 18호(12~13세,160) | - | 44 | 58 |	- |
+| S(85) | - | 48.5 | 61 | - |
+| M(90) | - | 51.5 | 63 | - |
+| L(95) | - | 54 | 68 |	- |
+| XL(100) | - |	57 | 71 | - |
+| 2XL(105) | - | 59 | 72 | - |
+| 3XL(110) | - | 61.5 |	75 | - |
