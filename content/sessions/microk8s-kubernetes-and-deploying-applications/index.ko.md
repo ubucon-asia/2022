@@ -29,29 +29,27 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
-Google에서 시작된 Kubernetes는 
-Kubernetes는 현대 인프라용 컨테이너에 추상화 계층을 제공하기 위해 Google 내부에서 시작되었습니다. 이 기술은 이제 많은 회사에서 채택되었으며 모든 클라우드 네이티브 애플리케이션에 대한 사실상의 표준이 되었습니다. 오픈 소스 시스템은 컨테이너의 관리, 배포 및 확장을 제공합니다.
+Google에서 시작된 Kubernetes는 Kubernetes는 현대 인프라용 컨테이너에 추상화 계층을 제공하기 위해 Google 내부에서 시작되었습니다. 이 기술은 이제 많은 회사에서 채택되었으며 모든 클라우드 네이티브 애플리케이션에 대한 사실상의 표준이 되었습니다. 오픈 소스 시스템은 컨테이너의 관리, 배포 및 확장을 제공합니다.
 
 이 워크샵에서는 Kubernetes 클러스터에 로컬로 설치할 수 있는 가장 단순한 프로덕션 등급 k8s인 microk8s를 사용하여 먼저 매니페스트를 사용하여 생성한 다음 생성할 Helm 차트를 사용하여 생성하는 간단한 Python 애플리케이션을 배포합니다.
 
 이 과정이 벅차 보일 수 있지만, 그렇지 않다고 약속합니다! Python은 초보자와 숙련된 프로그래머 모두에게 훌륭한 언어입니다. 그리고 일단 익숙해지면 Docker 및 Kubernetes를 사용하여 애플리케이션을 배포하는 것은 매우 쉽습니다.
 
-먼저 간단한 Python 응용 프로그램을 만드는 방법을 보여 드리겠습니다. 그런 다음 컨테이너화하고 컨테이너로 실행합니다. 그런 다음 microk8에서 내장 이미지 레지스트리로 푸시하고 Kubernetes에 배포합니다. 마지막으로, 우리는 microk8s의 helm 지원을 사용하여 helm 차트를 생성하여 Helm을 이해하면서 애플리케이션을 관리하고 배포하는 데 도움을 줍니다.
-## Prior knowledge
-- Working knowledge of kubectl
-- A bit of Python or any general programming language 
-- Some knowledge about Kubernetes and Docker
+먼저 간단한 Python 응용 프로그램을 만드는 방법을 보여 드리겠습니다. 그런 다음 컨테이너화하고 컨테이너로 실행하고, microk8에서 내장 이미지 레지스트리로 푸시하고 Kubernetes에 배포하는 방법을 보여 드리겠습니다. 마지막으로, 앱 배포와 관리에 도움을 받기 위해 microk8s 의 helm 지원을 활용하여 helm 차트를 만들어 보면서 Helm 에 대해 이해 해 보는 시간을 가지도록 하겠습니다.
+## 청중 사전 지식
+- kubectl 사용 경험
+- Python 또는 다른 범용 프로그래밍 언어에 대한 약간의 지식
+- Kubernetes, Docker 에 대한 조금의 지식
+## 참여자가 미리 준비 해야 할 사항
+- 코드 편집기
+- Python 이 설치 된 환경 
+- Microk8s 설치를 위한 관리자 권한(sudo 사용 가능 여부 등)
+- 기기에서 관리자 권한 사용 불가 시, 클라우드 환경에 구성된 Ubuntu VM 및 VM에 대한 SSH 접근
 
-## What participants need to prepare
-- A Code Editor 
-- Python Installed on your machine 
-- sudo permission to their devices to install microk8s
-- Any cloud provider to create a Ubuntu VM and SSH if there's no sudo access to their machines
+## 이 세션을 통해 배울 수 있는 것
+워크샵을 통해 어떻게 엔드포인트를 만들고 컨테이너화 할수 있는지, 예를 들어 여기서는 Python 엔드포인트로 할 수 있는지 이해할 수 있습니다. 앱을 패키징 하여 클러스터 구동을 위해 Microk8s 을 설치하고, 애드온 활성화와 클러스터에 컨테이너 배포 또한 이에 포함되어 있습니다.
 
-## What audience can learn from this session
-After completing the workshop, attendees will understand how to create and containerize an endpoint, which in this case will be a Python endpoint. After packing your application, installing microk8s to run your cluster, enabling add-ons, and deploying your container to the cluster will be included. 
+워크샵 끝에는, Helm 의 기본에 대해 알고, helm 차트를 만들어 어떻게 앱을 템플릿화 할 수 있는지, helm 으로 앱 배포하는 법, YAML 과 함께 오브젝트 매니페스트로 앱 이미지를 배포할 수 있게 됩니다.
 
-By the end of this workshop, you will have completed the Helm foundation and learned how to templatize your application by creating a helm chart, deploy your application with helm, and deploy your application image using object manifest manually with packing and playing with YAML.
-
-## About the speaker
-Hrittik is currently a Community Engineering Intern at Harness and a pre final undergrad, who has previously worked at various startups helping them scale their content efforts. He loves diving deep into distributed systems and creating articles on them and has spoken at conferences such as Azure Cloud Summit, and Kubernetes Community Days among others! His best days are when he finds ways to create impact in the communities he's a part of either by code, content, or mentorship!
+## 발표자 소개
+Hrittik 님은 Harness 커뮤니티 엔지니어링 인턴이자, 학부 졸업을 준비중인 학생이기도 합니다. 이전에 다양한 스타트업에서 콘텐츠 관련 확장에 기여 하기도 했습니다. 분산시스템에 몰두하고 관련 글을 쓰는 것을 좋아하며, Azure Cloud Summit, Kubernetes Community Days 등에서 관련 발표를 한 적도 있습니다! Hrittk 님에게 최고의 순간은 코드와 콘텐츠, 멘토링으로 커뮤니티에 영향을 줄 방법을 찾을 때 입니다.
