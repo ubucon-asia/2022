@@ -40,7 +40,7 @@ description: "Festa.io 또는 Tito.io 에서 구입"
 
 > 참고: 후드티는 준비위원, 자원봉사자, 발표자, 개인후원자 등 전용 입니다.
 
-![](.hoodie_sizechart.png)
+![](hoodie_sizechart.png)
 
 | Size(CM) | Shoulder(어깨) | Chest(가슴) | Height(총기장) | Arm length(소매길이) |
 | -- | -- | -- | -- | -- |

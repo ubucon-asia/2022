@@ -40,7 +40,7 @@ If you could not refund your ticket within refund periods. For tickets from Fest
 
 > Note: Hoodie are only for Speakers, Organizers, Volunteers, Patrons, etc. 
 
-![](.hoodie_sizechart.png)
+![](hoodie_sizechart.png)
 
 | Size(CM) | Shoulder(어깨) | Chest(가슴) | Height(총기장) | Arm length(소매길이) |
 | -- | -- | -- | -- | -- |
