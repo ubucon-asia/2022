@@ -1,5 +1,5 @@
 ---
-title: Building microk8s Server on Raspberry Pi - to understand k8s mechanism
+title: (Workshop) Building microk8s Server on Raspberry Pi - to understand k8s mechanism
 date: 2022-11-27T16:00:00+09:00
 end: 2022-11-27T17:30:00+09:00
 room: 2 # 1: Intl room, 2: Workshop, 3: BoF
@@ -20,12 +20,36 @@ lang: English
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Masafumi Ohta
-      bio: N/A
+      bio: Founder and Representative, Japanese Raspberry Pi Users Group
       email: masafumi@pid0.org # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://twitter.com/masafumiohta# Other website link url
+      linklabel: Twitter # Label for linkurl
 ---
-TBD
+
+Have you tried Ubuntu on Raspberry Pi? Raspberry Pi is now standard 'Single Board Computer' works with several OSes. It is cheap and easy to handle - IoT devices and server evaluation. 
+In this workshop, Masafumi focus on Ubuntu Server on Raspberry Pi, especially k8s+container on 8GB Raspberry Pi 4B; Masafumi will instruct how to build the container environment with microk8s - a lightweight k8s to understand k8s easily:
+ - Install the Ubuntu environment
+ - Install container environment
+ - Install microk8s
+ - Try container cluster with microk8s
+   - Suppose the k8s web server cluster 
+      - Ingress setting
+      - replica set setting to auto-scaling
+      - external routing
+      - issues on the server Certificate
+
+## Prior knowledge
+Container environment knowledges: What container is and What kubernetes is
+
+## What participants need to prepare for your workshop 
+Bring your Laptop to make Ubuntu OS media with Etcher or Raspberry Pi imager and control Raspberry Pi from your PC.
+
+## What audience can learn from this session
+Attendess will expect how to use Raspberry Pi on Ubuntu and how to try container environment on Raspberry Pi
+
+## About the speaker
+Masafumi is leading Raspberry Pi community in Japan and helping Raspberry Pi business/community in Asian area - not only Japan but also Taiwan/China/Korea and more.
+for more detail please visit https://masafumi.me/ my personal introduction.
