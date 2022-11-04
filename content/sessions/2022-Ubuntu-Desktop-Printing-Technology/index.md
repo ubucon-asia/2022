@@ -20,12 +20,24 @@ lang: English
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Naruhiko Ogasawara
-      bio: N/A
+      bio: Senior Security Engineer, Shift Security Inc.
       email: naruoga@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
-      profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      profile: profile.png # Speaker photo
+      linkurl: https://twitter.com/naru0ga # Other website link url
+      linklabel: Twitter # Label for linkurl
 ---
-TBD
+In 2022, Do you have a printer? And, do you print documents from Ubuntu?
+Printing from Ubuntu was a bit difficult 10 years ago, but now, with driverless printing, it's easy with printers that support Apple AirPrint. Let's take a peek at the technology behind it.
+
+This talk would include following tech stacks: CUPS, OpenPrinting and Internet Printing Protocol (IPP).
+
+## Prior knowledge
+Ubuntu Desktop, cups, printing
+
+## What audience can learn from this session
+How the Ubuntu printing system works
+
+## About the speaker
+Naruhiko Ogasawara is FLOSS enthusiast in Japan.  He continues to be primarily interested in desktop FLOSS.  He was a printer vendor with whom he worked until around 2010 and was involved in OpenPrinting Japan. Since then, he has been watching Linux desktop printing trends as a hobby. He is also a supporter of LibreOffice.
