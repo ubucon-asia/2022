@@ -1,5 +1,5 @@
 ---
-title: .NET Core Development in Ubuntu
+title: (Workshop) .NET Core development on Ubuntu 22.04
 date: 2022-11-27T11:00:00+09:00
 end: 2022-11-27T12:30:00+09:00
 room: 2 # 1: Intl room, 2: Workshop, 3: BoF
@@ -20,12 +20,24 @@ lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Yeongseon Choi
-      bio: N/A
+      bio: Support Engineer, Microsoft Korea
       email: yeongseon.choe@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://www.linkedin.com/in/yeongseonchoe/ # Other website link url
+      linklabel: LinkedIn # Label for linkurl
 ---
-TBD
+Did you know that you can now install .NET 6 on Ubuntu 22.04 LTS with just `sudo apt install dotnet6`?
+With this workshop, Let's learn about .NET 6 and official support in Ubuntu 22.04 LTS.
+And also learn how to develop your web app and deploy it on Microsoft Azure using .NET 6 support on Ubuntu! 
+(See this link to learn more on .NET 6 on Ubuntu 22.04 LTS: https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
+
+## Prior knowledge
+Basic knowledges on Programming and cloud, Experience with developing apps on Ubuntu
+
+## What participants need to prepare for workshop
+Ububtu 22.04, VS Code
+
+## About the speaker
+Yeongseon is a support engineer at Microsoft Korea who provides technical support for Microsoft Azure PaaS products. Previously he worked at Tmax Soft and SPI Labs Korea as a software engineer.
