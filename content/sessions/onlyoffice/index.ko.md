@@ -1,7 +1,7 @@
 ---
 title: "ONLYOFFICE: Ubuntu에서의 문서작업 자동화와 스마트 협업"
-date: 2022-11-27T17:00:00+09:00
-end: 2022-11-27T17:20:00+09:00
+date: 2022-11-26T17:00:00+09:00
+end: 2022-11-26T17:20:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 10
 #1: Desktop 데스크탑
