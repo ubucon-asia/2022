@@ -13,7 +13,7 @@ links:
   url: "https://www.youtube.com/user/elasticsearch"
 - name: LinkedIn
   url: https://www.linkedin.com/company/elastic-co/
-cover: cover.png
+cover: cover.jpg
 # brochure: brochure.pdf # path to brochure pdf file
 region: Global # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
