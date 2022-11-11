@@ -1,5 +1,5 @@
 ---
-title: OpenStack 한국 커뮤니티의 컨트리뷰션 멘토링 도전기
+title: How OpenStack Korea built their own contribution mentoring program
 date: 2022-11-26T11:30:00+09:00
 end: 2022-11-26T12:15:00+09:00
 room: 2 # 1: Intl room, 2: Workshop, 3: BoF
