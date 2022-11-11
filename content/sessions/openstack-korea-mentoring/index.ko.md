@@ -20,12 +20,23 @@ lang: 한국어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: 조성수
-      bio: N/A
+      bio: 오픈스택 한국 커뮤니티 대표
       email: ppiyakk2@printf.kr # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://twitter.com/seongsoo_kr # Other website link url
+      linklabel: Twitter # Label for linkurl
 ---
-TBD
+오픈스택 한국 커뮤니티는 2018년부터 컨트리뷰션 아카데미에 멘토로 참여하면서, 오픈스택에 코드를 기여하는 문화를 한국에 만들기 위해 노력하고 있습니다. 오픈스택은 수 많은 컴포넌트로 이루어진 거대한 프로젝트로 오픈스택 구축/운영에 숙련된 사람이라 할 지라도 오픈스택에 코드를 기여하는 것은 결코 쉽지 않을 수 있는 일입니다. 
+이 발표에서는 우리 커뮤니티는 오픈스택을 처음 접하는 사람들도 오픈스택에 코드를 기여할 수 있는 멘토링 프로그램을 어떻게 만들었는지, 그 과정속에서 겪었던 어려움은 무엇이었는지 공유합니다.
+
+>이 발표는 2022 OpenInfra Day Vietnam에서 발표한 이력이 있습니다.
+>https://docs.google.com/presentation/d/15PcG_UhXLdhaBOtWodqqtnFmpdiO3Et8vltAM8CJGEg/edit?usp=sharing
+
+## 이 세션을 통해 배울 수 있는 것
+- 오픈스택의 코드 개발 문화와 기여 방법
+- 오픈소스에 기여하기 위해 필요한 자세와 지식
+
+## 발표자 소개
+Organizer of OpenStack Korea User Group. Big fan of python and OpenStack. 

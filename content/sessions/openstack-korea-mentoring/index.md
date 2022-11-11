@@ -25,7 +25,19 @@ speakers: # Speaker info
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://twitter.com/seongsoo_kr # Other website link url
+      linklabel: Twitter # Label for linkurl
 ---
-TBD
+
+Since 2018, OpenStack Kore Community has been participating Opensource Contribution Academy as Mentor. To build culture that contributes code to OpenStack. As OpenStack is a huge project consisted with countless components, It is difficult to contribute code even for whom has many experience on deploying and operating OpenStack cluster.
+In this talk, I'll talk about how our community built our mentoring program for those who new to contributing code to OpenStack. And what was our difficulty during building the program.
+
+> I already presented this talk on OpenInfra Day Vietnam before.
+>https://docs.google.com/presentation/d/15PcG_UhXLdhaBOtWodqqtnFmpdiO3Et8vltAM8CJGEg/edit?usp=sharing
+
+## What you can learn from this session
+- How to contribute code to OpenStack and its contribution culture.
+- What kind of knowledge and mind required to contribute to opensource.
+
+## About the speaker
+Organizer of OpenStack Korea User Group. Big fan of python and OpenStack. 
