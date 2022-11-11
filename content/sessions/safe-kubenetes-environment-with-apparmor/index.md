@@ -20,12 +20,24 @@ lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Hoon Jo
-      bio: N/A
+      bio: Cloud Solutions Architect, Megazone Soft
       email: pagaia@hotmail.com # Email
       launchpad: # link to launchpad.net profile
-      github:  # link to github profile
-      profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      github: https://github.com/sysnet4admin/ # link to github profile
+      profile: profile.png # Speaker photo
+      linkurl: https://www.linkedin.com/in/hoonjo/  # Other website link url
+      linklabel: LinkedIn # Label for linkurl
 ---
-TBD
+With AppArmor, You can control container applications running on Kubernetes effectively!
+Let's see how we can make Kubernetes based container infra environment secure with AppArmor through number of examples!
+https://kubernetes.io/ko/docs/tutorials/security/apparmor/
+
+## Prior knowledge
+Basic knowledge on Kubernetes
+## What you can learn from the session
+Understand How to use AppArmor and why to use with some examples.
+## About the speaker
+
+After experience as a system/network IT vendor, At Megazone GCP Cloud Team, He provides Tech Advisor and Container Architecture Design for all projects related to Kubernetes. In addition, he is in charge of the management team of Facebook's 'IT Infrastructure Engineers Group' and is also an open source contributor.
+
+Other than that, He likes to share his knowledge, so He write lectures on Ansible and Kubernetes in Inlearn/Udemy, and He also think that he should document what he know, so He wrote a books (“System/Network Administrator Python Practical Programming for ', 『Elegantly Ansible』), 『Kubernetes/Docker for Building Container Infrastructure Environment』 (Gilbot), and also writing articles for IT magazines. As a Kubernetes master (ambassador) of NAVER CLOUD, he is also contributing to the more active spread of the Kubernetes ecosystem.
