@@ -1,0 +1,25 @@
+---
+title: "Microsoft" # Name of the sponsor
+photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
+group: supporter # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
+links:
+- name: Website
+  url: "https://azure.microsoft.com/en-us/ubuntu/?ocid=AID3035196"
+- name: GitHub
+  url: "https://github.com/microsoft"
+- name: Facebook 
+  url: "https://www.facebook.com/MicrosoftKorea/"
+- name: YouTube
+  url: "https://www.youtube.com/c/MicrosoftKorea"
+- name: Twitter
+  url: "https://twitter.com/MicrosoftKorea"
+cover: cover1.png
+# brochure: brochure.pdf # path to brochure pdf file
+region: Global # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
+---
+  
+Our mission is to empower every person and every organization on the planet to achieve more.
+
+Ubuntu-based workloads are among the fastest growing on Azure. Microsoft has partnered with Canonical to deliver an Azure-optimized kernel, improved performance, advanced security, automatic patching and updates, and flexible pricing options for Ubuntu on Azure as well as open source communities.
+
+[Click here to learn more about **Ubuntu on Azure**](https://azure.microsoft.com/en-us/ubuntu/?ocid=AID3035196)
