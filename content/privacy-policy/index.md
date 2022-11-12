@@ -41,6 +41,7 @@ The **UbuCon Asia Organizing Committee** ('https://2022.ubucon.asia' hereinafter
 | The subject who receives personal information | Location | Contact | Items to be provided | Purpose of use | Period of holding and use | Destruction method |
 | --- | --- | --- | --- | --- | --- | --- |
 | NHN Cloud Corp. | 7F, 4, 16, Daewangpangyo-ro 645beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | support@nhncloud.com | Name, Affiliation, Job or title, Nationality, Email | To provide event, promotions and latest information for marketing purpose | 2 years | Data on papers will be burned or shredded. Digital data will be deleted using technologies that makes data not readable or recoverable. |
+| NAVER Cloud Corp. | 13F-15F, 131, Bundangnaegok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea | Sangin Kim (sangin.kim@navercorp.com) | Name, Affiliation, Job or title, Nationality, Email, Whether checked-in (In-person), Types of tickets purchased, Whether participated last time, How participant get to know about the event | To provide NAVER Cloud Platform (ncloud.com) Monthly newsletter, Education/Webinars/Event informations | 2 years | Will be deleted automatically once period expires | 
 
 ## Article 4 (Entrustment of personal information process)		
 1. **The Committee** entrusts personal information processing as follows for smooth personal information processing.
