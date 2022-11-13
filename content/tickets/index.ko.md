@@ -36,7 +36,13 @@ description: "Festa.io 또는 Tito.io 에서 구입"
 환불은 티켓 판매 기간 동안에만 가능하며, 2022년 11월 14일 부터는 환불이 불가능 합니다.
 환불 기간 내 환불하지 못했다면. Festa.io 에서 구입한 티켓은 QR 코드 공유 등을 통해 양도가 가능하며. [Tito.io 의 경우, Re-assign 절차로 양도가 가능합니다.](https://help.tito.io/en/articles/3586025-how-do-i-re-assign-my-ticket)
 
-## 후트디 정보
+## 자원봉사자 모집
+
+티켓 등록을 완료 하셨다면, 자원 봉사자 지원이 가능합니다.
+{{< button text="자원봉사 지원" href="https://docs.google.com/forms/d/e/1FAIpQLSe_rglvCfmmkN7y3sRRjyOvGN5HmIvGNBwf94_0QIsqc4HUWQ/viewform
+" icon="external-link" >}}
+
+## 후트티 정보
 
 > 참고: 후드티는 준비위원, 자원봉사자, 발표자, 개인후원자 등 전용 입니다.
 
