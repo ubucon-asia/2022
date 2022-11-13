@@ -20,12 +20,23 @@ lang: English
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Khairul Aizat Kamarudzzaman
-      bio: N/A
+      bio: Ubuntu Malaysian LoCo Organizer & Ubuntu Membership Board
       email: fenris@ubuntu.com # Email
-      launchpad: # link to launchpad.net profile
-      github:  # link to github profile
+      launchpad: https://launchpad.net/~fenris # link to launchpad.net profile
+      github: https://github.com/fenris # link to github profile
       profile: profile.jpg # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+
+As you already know, Ubuntu is an opensource project that anyone can participate and contribute. But it might be difficult to start contributing to the project or its community if you are a newcomer. 
+
+In this talk, Let's learn many different ways of contributing to Ubuntu. such as development, packaging, translation, IRC support, support on forum, organizing local community and more! 
+
+With significant and sustained contribution to Ubuntu or Ubuntu community, You can also get recognized with Official Ubuntu Membership! As part of Ubuntu Membership Board, I'll also give you some introduction how you can apply for Ubuntu Membership and its application process. I'll be also talke about why you would want to apply for Ubuntu Membership and its benefits for you and the Ubuntu community.
+
+## What audience can learn from this session
+Introduction and application process to Ubuntu Membership
+
+## About the speaker
+Khairul is one of Ubuntu Malaysian Local Community organizer who manages Malaysian team websites, forums and their activities. He is also part on Ubuntu Membership Board.
