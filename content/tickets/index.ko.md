@@ -39,8 +39,7 @@ description: "Festa.io 또는 Tito.io 에서 구입"
 ## 자원봉사자 모집
 
 티켓 등록을 완료 하셨다면, 자원 봉사자 지원이 가능합니다.
-{{< button text="자원봉사 지원" href="https://docs.google.com/forms/d/e/1FAIpQLSe_rglvCfmmkN7y3sRRjyOvGN5HmIvGNBwf94_0QIsqc4HUWQ/viewform
-" icon="external-link" >}}
+{{< button text="자원봉사 지원" href="https://docs.google.com/forms/d/e/1FAIpQLSe_rglvCfmmkN7y3sRRjyOvGN5HmIvGNBwf94_0QIsqc4HUWQ/viewform" icon="external-link" >}}
 
 ## 후트티 정보
 
