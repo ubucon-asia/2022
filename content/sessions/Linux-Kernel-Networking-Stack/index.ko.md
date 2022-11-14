@@ -24,7 +24,7 @@ speakers: # Speaker info
       email: claudiajkang@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
-      profile: profile.jpg # Speaker photo
+      profile: profile.png # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
