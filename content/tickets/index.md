@@ -40,8 +40,7 @@ If you could not refund your ticket within refund periods. For tickets from Fest
 
 If you got your ticket, You can apply to become our volunteer!
 
-{{< button text="Become a volunteer" href="https://docs.google.com/forms/d/e/1FAIpQLSe_rglvCfmmkN7y3sRRjyOvGN5HmIvGNBwf94_0QIsqc4HUWQ/viewform
-" icon="external-link" >}}
+{{< button text="Become a volunteer" href="https://docs.google.com/forms/d/e/1FAIpQLSe_rglvCfmmkN7y3sRRjyOvGN5HmIvGNBwf94_0QIsqc4HUWQ/viewform" icon="external-link" >}}
 
 ## Hoodie info
 
