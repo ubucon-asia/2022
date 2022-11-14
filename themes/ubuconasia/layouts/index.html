@@ -26,33 +26,10 @@
   <section class="p-strip--light">
     <div class="row">
       <h2>{{ i18n "featured" }}</h2>
-      {{ range first 6 ( sort (intersect (where $regularPages "Section" "sessions") (where $allPages "Params.featured" true)) "Date" "asc" ) }}
-      {{ $.Scratch.Add "i" 1 }}{{ $i := $.Scratch.Get "i" }}
-      <div class="col-6">
-        <div class="p-media-object--large">
-          {{ $permalink := .Permalink }}
-          {{$firstSpeaker := index .Params.speakers 0}}
-          {{with $firstSpeaker.profile}}
-          <img src="{{ $permalink }}{{ . }}" class="p-media-object__image is-round" alt="">
-          {{ else }}
-          <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
-          {{end}}
-          <div class="p-media-object__details">
-            <a href="{{.Permalink}}">
-              <h3>{{.Title}}</h3>
-            </a>
-            <b><u class="timedisplay" style="text-decoration-style: dotted;">{{.Date.Format "2006-01-02T15:04:05-07:00"}}</u></b>
-            <ul class="p-inline-list--middot">
-              {{range .Params.speakers}}
-              <li class="p-inline-list__item">
-                {{.name}}
-              </li>
-              {{end}}
-            </ul>
-          </div>
-        </div>
-      </div>
-      {{ end }}
+    </div>
+    <div class="row" id="random_speakers">
+    </div>
+    <div class="row">
       <a href="sessions"><button>{{ i18n "all_sessions" }}</button></a>
     </div>
   </section>
@@ -181,4 +158,48 @@
          </div>
   </section>
 </main>
+<script>
+  function shuffle(array) {
+    array.sort(() => Math.random() - 0.5);
+  }
+  let speakers = []
+  {{ range ( sort (where $regularPages "Section" "sessions") "Date" "asc" ) }}
+  {{ $permalink := .Permalink }}
+  {{ $title := .Title }}
+    {{ range .Params.speakers }}
+      speakers.push({
+        name: "{{.name}}",
+        profile: '{{with .profile}}{{ $permalink }}{{.}}{{else}}{{ "/images/ubuntu.png" | relURL }}{{end}}',
+        title: '{{$title}}',
+        time: '{{.Date.Format "2006-01-02T15:04:05-07:00"}}',
+        permalink: '{{$permalink}}'
+      })
+    {{ end }}
+  {{ end }}
+  shuffle(speakers)
+  let speakerSection = document.getElementById('random_speakers')
+  for(let i = 0; i < 6; i++) {
+    let speaker = speakers[i];
+    speakerSection.innerHTML += `
+      <div class="col-6">
+        <div class="p-media-object--large">
+          <img src="${speaker.profile}" class="p-media-object__image is-round" alt="">
+          <div class="p-media-object__details">
+            <a href="${speaker.permalink}">
+              <h3>${speaker.name}</h3>
+            </a>
+            <ul class="p-inline-list--middot">
+              <li class="p-inline-list__item">
+                ${speaker.title}
+              </li>
+            </ul>
+            <b><u class="timedisplay" style="text-decoration-style: dotted;">${speaker.time}</u></b>
+          </div>
+        </div>
+      </div>
+    `
+  }
+</script>
 {{ end }}
+
+
