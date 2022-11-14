@@ -20,12 +20,22 @@ lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Sejun Kim
-      bio: N/A
+      bio: Tech Manager, Cloudmate Co., Ltd.
       email: kimsejun@outlook.kr # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://www.linkedin.com/in/kimsejun2000/ # Other website link url
+      linklabel: LinkedIn # Label for linkurl
 ---
-TBD
+
+We talk about the case of configuring a virtualized environment with MAAS in a server room by collecting old PCs. The configured infrastructure connects the network through a VPN connection with Azure, and uses Azure Arc to monitor the server status in Azure. Let's practice configuring MAAS on Azure with this overall content, and discuss how to simply configure Hybrid Cloud by connecting MAAS and Azure.
+
+## Prior knowledge
+Understanding on Cloud, Cloud Service or Microsoft Azure and How to install Ubuntu
+
+## What participants need to prepare for the workshop
+Laptop, SSH Key, Your will to complete
+
+## What audience can learn from this session
+Learn how to use MAAS, understand and practice Microsoft Azure and Hybrid-cloud configuration.
