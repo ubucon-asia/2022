@@ -20,12 +20,23 @@ lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Geoff Yoon
-      bio: N/A
+      bio: CEO of Epsilon Delta Co. Ltd.
       email: koock1994@gmail.com # Email
       launchpad: # link to launchpad.net profile
-      github:  # link to github profile
+      github: https://github.com/kooock # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://www.facebook.com/koock.yoon # Other website link url
+      linklabel: Facebook # Label for linkurl
 ---
-TBD
+
+Unlike WSL1, WSL2 comes wiht real Linux Kernel and it enables many more tasks that was not possible with WSL1. Working with Deep learning with CUDA also got much better on WSL2. In this talk, Let's see how we've been used CUDA on WSL in past. And How it got better and different on WSL2 environment by understanding architecture of WSL2 and CUDA. After that, I'll show you how you can install CUDA without Docker on WSL 2 and running deep learning code applicates GPU acceleration on the WSL2 CUDA environment we configured with some demonstrations.
+
+## Prior knowledge
+
+Basic understanding on WSL and CUDA
+
+## What audience can learn from this session
+You will be able to run Deep learning code on WSL2 environment without using Docker
+
+## About the speaker
+I am a deep learning engineer developing AI services. I am currently running a one-person company.  I'm one of the maintainers of the developer community "NO(Not Only) Coding"
