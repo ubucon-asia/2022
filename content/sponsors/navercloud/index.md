@@ -1,5 +1,5 @@
 ---
-title: "Elastic" # Name of the sponsor
+title: "NAVER Cloud" # Name of the sponsor
 photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: silver # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 links:
