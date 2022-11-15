@@ -1,5 +1,5 @@
 ---
-title: "Keynote: Improving FOSS Security"
+title: "기조연설: Improving FOSS Security"
 date: 2022-11-26T10:30:00+09:00
 end: 2022-11-26T11:15:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
@@ -20,7 +20,7 @@ lang: English
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Mark Esler
-      bio: I work for Canonical's Security Team to perform security maintenance, audit software, manage CVE assignment, and answer community questions.
+      bio: Canonical Security Team에서 보안 유지 관리를 수행, 소프트웨어를 감사, CVE 할당을 관리, 커뮤니티 질문 답변 등 업무를 하고 있습니다.
       email: mark.esler@canonical.com # Email
       launchpad: https://launchpad.net/~eslerm # link to launchpad.net profile
       github: https://github.com/eslerm  # link to github profile
@@ -28,10 +28,10 @@ speakers: # Speaker info
       linkurl: https://twitter.com/markesler  # Other website link url
       linklabel: Twitter # Label for linkurl
 ---
-This presentation breaks down how Canonical performs security maintenance to patch vulnerable software and offers advice on how FOSS projects can disclose and preemptively discover vulnerabilities.
+이 프레젠테이션은 Canonical에서 취약한 소프트웨어를 패치하기 위해 보안 유지 관리를 수행하는 방법을 분석하고 FOSS 프로젝트가 취약성을 공개하고 선제적으로 발견할 수 있는 방법에 대한 조언을 제공합니다.
 
-## What audience can learn from this session
-The two key messages I want to convey is that finding and disclosing vulnerabilities in your projects is okay and to write a security policy. The presentation will introduce how security maintenance at Canonical is performed and give many suggestions on how FOSS projects can tighten their security. Links to resources are provided in the slides.
+## 이 세션에서 배울 수 있는 것
+제가 전달하고 싶은 두 가지 핵심 메시지는 프로젝트에서 취약점을 찾아 공개하는 것은 괜찮다는 것과 보안 정책을 작성하는 것입니다. 프레젠테이션에서는 Canonical에서 보안 유지 관리가 수행되는 방법을 소개하고 FOSS 프로젝트가 보안을 강화할 수 있는 방법에 대한 많은 제안을 제공합니다. 자료에 대한 링크는 슬라이드에 제공됩니다.
 
-## About the speaker
-I work for Canonical's Security Team to perform security maintenance, audit software, manage CVE assignment, and answer community questions.
+## 발표자 소개
+Canonical Security Team에서 보안 유지 관리를 수행, 소프트웨어를 감사, CVE 할당을 관리, 커뮤니티 질문 답변 등 업무를 하고 있습니다.
