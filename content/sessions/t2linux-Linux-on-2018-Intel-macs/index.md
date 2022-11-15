@@ -21,7 +21,6 @@ lang: English
 speakers: # Speaker info
     - name: t2linux Team
       bio: t2linux is an projects that brings linux support on Intel Macs with T2 chips
-      bio: N/A
       email: himesaka@noa.codes # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
