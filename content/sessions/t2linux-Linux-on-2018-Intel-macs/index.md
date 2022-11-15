@@ -19,13 +19,31 @@ featured: false # If it's true. This session will appear on main page.
 lang: English
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: t2linux Team (조우현, Mark Vainomaa et al.)
+    - name: t2linux Team
+      bio: t2linux is an projects that brings linux support on Intel Macs with T2 chips
       bio: N/A
       email: himesaka@noa.codes # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
-      profile: profile.jpg # Speaker photo
+      profile: profile.webp # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+
+Short introduction of our team, explaining the difference between normal PCs which Linux x86_64 is targeted on and 2018 or newer Macs with T2 chip which is very different despite using same Intel CPU, our efforts trying to get Linux run on those Macs, including but not limited to reverse engineering, writing kernel module, building and automating supporting packages for multiple distros including Ubuntu. We'll demonstrate Ubuntu running on Macs with our efforts. See https://t2linux.org and https://wiki.t2linux.org to see what we do.
+
+## Prior knowledge 
+Some knowledge of Linux and kernel, Some understanding about Apple's Mac platform.
+
+## What audience can learn from this session
+Differences between normal PCs and 2018+ Macs, the presence of t2linux project, what we do, what we have achieved, and our future roadmap. Since our project is not well known and not many people know the difference between later stage Intel Macs and normal PCs this will introduce people to those differences and knowledge about Intel Mac's different internals.
+
+## About the speaker
+t2linux is an projects that brings linux support on Intel Macs with T2 chips. You will meet following speakers in this talk.
+
+- Woohyeon Cho
+  - I maintain t2linux for Arch linux and related linux distros on the t2linux team. I also operate mirror.funami.tech mirror.
+- Mark Vainomaa
+  - I focus on backend development & backend architecture designing; Unix system administration.
+- networkException
+  - I'm a developer, maintainer and system administrator working a variety of open source projects
