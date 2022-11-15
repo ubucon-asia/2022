@@ -24,7 +24,7 @@ speakers: # Speaker info
       email: shivaylamba@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
-      profile: profile.jpg # Speaker photo
+      profile: profile.png # Speaker photo
       linkurl: https://twitter.com/howdevelop # Other website link url
       linklabel: Twitter # Label for linkurl
 ---
