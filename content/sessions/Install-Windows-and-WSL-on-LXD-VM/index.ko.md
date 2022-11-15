@@ -1,5 +1,5 @@
 ---
-title: LXD/CM 에 Windows 와 WSL 설치하기
+title: LXD/VM 에 Windows 와 WSL 설치하기
 date: 2022-11-27T11:30:00+09:00
 end: 2022-11-27T12:15:00+09:00
 room: 3 # 1: Intl room, 2: Workshop, 3: BoF
