@@ -80,8 +80,19 @@
             </div>
           </div>
           {{ end }}
-          <a href='{{ ref . "/sessions/" }}'><button>{{ i18n "more_sessions" }}</button></a>
-          <a href='index.html.jpg'><button>{{ i18n "session_promo_image" }}</button></a>
+          <nav class="p-pagination" aria-label="Pagination">
+            <ol class="p-pagination__items">
+              <li class="p-pagination__item">
+                <a class="p-pagination__link--previous" href='{{ ref . "/sessions/" }}' title='{{ i18n "more_sessions" }}'><span>{{ i18n "more_sessions" }}</span></a>
+              </li>
+              <li class="p-pagination__item">
+                <a class="p-pagination__link--next" href='../../tickets' title='{{ i18n "tickets" }}'><span>{{ i18n "tickets" }}</span></a>
+              </li>
+              <li class="p-pagination__item">
+                <a class="p-pagination__link--next" href='index.html.jpg' title='{{ i18n "session_promo_image" }}'><span>{{ i18n "session_promo_image" }}</span></a>
+              </li>
+            </ol>
+          </nav>
         </div>
       </section>
 </main>
