@@ -20,7 +20,7 @@ lang: Japanese
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Mitsuya Shibata
-      bio: N/A
+      bio: Member, Ubuntu Japanese LoCo Team
       email: mty.shibata@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
@@ -28,4 +28,31 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+
+LXD is a system container manager.
+In addition, LXD 5.0 on Ubuntu 22.04 LTS offers enhanced support for virtual machine functions such as vTPM and many devices hotplug.
+
+For those unfortunate users who must use Windows on Ubuntu, this session provides how to install Windows without purchasing a new PC.
+
+I will talk the followings.
+
+* Explain about prerequisites.
+* How to setup LXD on Ubuntu Desktop.
+* How to prepare vTPM on LXD instance.
+* How to install Windows 11 to LXD instance on Ubuntu Desktop.
+* Use RDP to control Windows instance.
+* Setup WSLg on Windows 11.
+
+## Prior knowledge
+What is LXD and Virtual Machine.
+
+## What audience can learn from this session
+How to use VM with GUI on LXD and Windows on Ubuntu host.
+
+## About the speaker
+I'm member of the Ubuntu Japanese Team.
+As a secret identity, I work on embedded software programming, but I'm essentially lazy.
+I want to drink beer.
+I want to enjoy a good sleep.
+I want to relax in a hot spring.
+I want to play with Ubuntu and LXD.
