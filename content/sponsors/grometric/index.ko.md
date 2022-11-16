@@ -6,7 +6,7 @@ links:
 - name: Website
   url: "http://www.grometric.kr/"
 # cover: cover.png
-# brochure: brochure.pdf # path to brochure pdf file
+brochure: brochure.pdf # path to brochure pdf file
 region: 대한민국 # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
 
