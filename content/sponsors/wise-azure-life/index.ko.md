@@ -1,6 +1,6 @@
 ---
 title: "슬기로운 Azure 생활" # Name of the sponsor
-photo: "logo.png" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
+photo: "logo.svg" # Path to sponsor logo: sponsors/<sponsor-item-directory>/logo.png
 group: community # One of followings: gold, silver, bronze, supporter, infra, record, videoi18n, swag, partner
 links:
 - name: Facebook Group
