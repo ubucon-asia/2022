@@ -28,4 +28,10 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+Laptop-2-Library: Using Low End Old Laptop as Digital Library in Remote Villages in Nepal’ Using Base Ubuntu is an approach to use locally available system to make a content server in a low power setup where internet reliability is poor.
+
+## Prior knowledge
+Ubuntu and Ansible
+
+## What audience can learn from this session
+Making a functional content server using Ubuntu and any recent or old laptop
