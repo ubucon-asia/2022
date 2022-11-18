@@ -23,6 +23,9 @@ This year, we organize as paid event. The pricings are as follows. You may buy t
 - In-person tickets: You can join Talks(Lectures), Workshops, BoF and sponsor booth at the venue. Some swags and Simultaneous interpretation between Korean and English (Only on Intl room) provided.
 - Online tickets: Join Talk sessions via live streaming (Only for Intl room session without interpretation), and participate BoF with Video call.
 
+### Discounts or free tickets
+We offer some discounts or free tickets for eligible participants. See [*Ticket discount promotion*](../news/2022-11-18-tickets-promotions/) for details.
+
 ## Tickets for Social events
 
 - Conference dinner(At Day 1 evening): 36,000 KRW (25 USD)
