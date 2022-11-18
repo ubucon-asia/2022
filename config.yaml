@@ -613,7 +613,8 @@ params:
     addressRegion: "Seoul"
     addressCountry: "KR"
 outputs:
-  home: ["HTML", "RSS", "Calendar", "JSON"]
+  home: ["HTML", "RSS", "JSON"]
+  section: ["HTML", "RSS", "Calendar", "JSON"]
 markup:
   goldmark:
     renderer:
