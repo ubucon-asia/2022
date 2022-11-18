@@ -35,6 +35,6 @@ These are the documents we accept for student verifications. **Note that it must
 Note that iscounts are not applied for social events (conference dinner and group tour), but only for regular schedule tickets.
 
 ## Get a ticket!
-Made decision to participate? Time to grab your ticket! Click button below to get one today.]
+Made decision to participate? Time to grab your ticket! Click button below to get one today.
 
 {{< button text="Get your ticket" href="../../tickets" icon="information" >}}
