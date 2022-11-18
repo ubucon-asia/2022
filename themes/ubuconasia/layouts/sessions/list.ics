@@ -17,7 +17,7 @@ DTSTAMP:{{dateFormat "20060102T150405Z" .Date.UTC}}
 DTSTART:{{dateFormat "20060102T150405" .Date.UTC}}
 DTEND:{{dateFormat "20060102T150405" (time .Params.end).UTC}}
 {{ $roomNames := slice "Unknown" (i18n "room_intlroom") (i18n "room_mid") (i18n "room_mid")}}
-LOCATION:{{.Site.Title}} - {{ index $roomNames (.Params.room) }}
+LOCATION:{{ index $roomNames (.Params.room) }}
 DESCRIPTION:{{.Content}}
 URL:{{.Permalink}}
 END:VEVENT
