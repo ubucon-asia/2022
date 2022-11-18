@@ -3,7 +3,7 @@ title: Integrated system monitoring with Elastic Observability
 date: 2022-11-27T14:00:00+09:00
 end: 2022-11-27T14:20:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
-category: 11
+category: 2
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
