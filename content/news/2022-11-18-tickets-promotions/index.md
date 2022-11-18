@@ -35,7 +35,7 @@ These are the documents we accept for student verifications. **Note that it must
 If it's difficult for you to made your way to Seoul, Get a ticket for online attendee! Online registrations are available for free and provides access to BoF sessions via video calls and talks on Intl room with live streaming.
 
 ## Notes
-Note that iscounts are not applied for social events (conference dinner and group tour), but only for regular schedule tickets.
+Note that discounts are not applied for social events (conference dinner and group tour), but only for regular schedule tickets.
 
 ## Get a ticket!
 Made decision to participate? Time to grab your ticket! Click button below to get one today.
