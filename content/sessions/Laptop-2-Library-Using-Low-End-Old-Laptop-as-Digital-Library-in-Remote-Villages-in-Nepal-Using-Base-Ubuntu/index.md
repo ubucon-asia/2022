@@ -20,18 +20,33 @@ lang: English
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Ravi Bhattarai
-      bio: N/A
+      bio: FOSS Nepal Organizer & Axon System CEO
       email: axon.rb@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://www.linkedin.com/in/rabibhattarai/ # Other website link url
+      linklabel: LinkedIn # Label for linkurl
 ---
 Laptop-2-Library: Using Low End Old Laptop as Digital Library in Remote Villages in Nepal’ Using Base Ubuntu is an approach to use locally available system to make a content server in a low power setup where internet reliability is poor.
 
 ## Prior knowledge
 Ubuntu and Ansible
 
-## What audience can learn from this session
+## What you can learn from this session
 Making a functional content server using Ubuntu and any recent or old laptop
+
+## About the speaker
+Ravi Bhattarai is a technological enthusiast with love for free/open source technologies since his college days. Author & Co-Author of a dozen of technologies text book, course book on Quality circle and proactive advocate on use and application of problem solving in business, life and society.
+
+He is amid speaker with national and internation portfolio from Asia, USA to Europe on Quality Circle, Technology and Education. He had developed dozens of trainings and workshops on problem solving, team building, quality implementation and building agile culture with
+
+He has been facilitating Strategic Planning & Implementations on TQM/Hoshin Kanri through an integration with ERP system to several organizations and corporate houses. He brings a unique blend of quality and agility to any organizations.
+
+Currently he is buidling his brain child what he calles a Business Box and aims at bringing ERP to small and medium scale enterprizes.
+
+He is Six Sigma, Black Belt Certified, Hoshin Kanri and QFD Qualified, Certified SCRUM Developer.
+
+A long time Toastmaster Member and Advanced Communicator GOLD and Advanced Leader Bronze, he has been helping organization realize a unique values and business advantages.
+
+As a national ambassador to Agora Speakers International, he is promoting Agora Speakers Clubs and Agora Youth Clubs across the country to help both young learners and professionals to be a thinker, speaker and a great leaders and contribute to a social good through personal excellence.
