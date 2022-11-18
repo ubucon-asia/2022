@@ -19,14 +19,14 @@ featured: false # If it's true. This session will appear on main page.
 lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: UbuCon Asia Team
-      bio: Organizers of UbuCon Asia
+    - name: UbuCon Asia 준비위원회
+      bio: UbuCon Asia 준비위원회
       email: contact@ubucon.asia # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
-      profile: # Speaker photo
+      profile:  # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
 
-Welcome to the first in-person UbuCon Asia! Before event starts, We'll provide quick overview of the event.
+대면 행사로 처음 열리는 UbuCon Asia 참석을 환영합니다! 이 시간에는 행사 시작 전, 행사에 대한 전반적인 정보를 제공해 드릴 예정입니다.
