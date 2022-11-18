@@ -28,4 +28,5 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+
+We don't provide lunch. Have a lunch near venue instead. See [Tourism](../../venue-and-travel/tourism/) page for some restaurant information.

@@ -28,4 +28,6 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+
+행사에서 점심식사를 제공하지 않습니다. 행사장 근처 식당에서 식사 하시기 바랍니다. [관광정보](../../venue-and-travel/tourism/) 페이지에서 식당 정보를 확인하세요.
+
