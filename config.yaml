@@ -591,6 +591,8 @@ params:
   facebook: ubuconasia
   twitter: ubuconasia
   github: ubucon-asia
+  linkedin: ubucon-asia
+  mastodon: https://mastodon.social/@UbuConAsia
   repo: https://github.com/ubucon-asia/2022
   cloudflareAnalyticsToken: 25b3a95f0c9b46ebbe67afb9ea6006b2
   copyright:  >-
