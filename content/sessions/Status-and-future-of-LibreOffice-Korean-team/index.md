@@ -2,6 +2,7 @@
 title: Status and future of LibreOffice Korean community
 date: 2022-11-27T17:00:00+09:00
 end: 2022-11-27T17:20:00+09:00
+
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 11
 #1: Desktop 데스크탑
@@ -15,7 +16,7 @@ category: 11
 #9: Data and AI 데이터와 인공지능
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
-featured: false # If it's true. This session will appear on main page.
+featured: true # If it's true. This session will appear on main page.
 lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info

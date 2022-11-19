@@ -2,6 +2,7 @@
 title: My Journey with FOSS And UbuntuDDE Remix
 date: 2022-11-27T11:00:00+09:00
 end: 2022-11-27T11:20:00+09:00
+
 room: 3 # 1: Intl room, 2: Workshop, 3: BoF
 category: 1
 #1: Desktop 데스크탑
@@ -15,7 +16,7 @@ category: 1
 #9: Data and AI 데이터와 인공지능
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
-featured: false # If it's true. This session will appear on main page.
+featured: true # If it's true. This session will appear on main page.
 lang: English
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
@@ -28,4 +29,19 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+In this session, I will be taking about my experience with Free and Open Source Software, how I started using GNU/Linux, and how my COVID-19 lock-down experience ended up with an Ubuntu Remix Project. I will be sharing about the following:
+1. I will be sharing my journey from a user to developer in FOSS ecosystem.
+2. What is UbuntuDDE project and Why?
+3. The progress so far with roadmaps on project's future.
+4. How anyone can contribute to UbuntuDDE Remix, Ubuntu, and Debian projects.
+
+## Prior knowledge
+None.
+
+## What audience can learn from this session
+"From my session, the audience will learn the following:
+1. Learn what UbuntuDDE Remix project is all about.
+2. How to contribute to UbuntuDDE project and/or any other FOSS project.
+3. Get inspired from my experience."
+
+## About the speaker

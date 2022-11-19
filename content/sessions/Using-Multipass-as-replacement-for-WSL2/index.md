@@ -15,7 +15,7 @@ category: 3
 #9: Data and AI 데이터와 인공지능
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
-featured: false # If it's true. This session will appear on main page.
+featured: true # If it's true. This session will appear on main page.
 lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
@@ -28,4 +28,11 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+Compare Docker without Docker Desktop between WSL2 and Multipass
+- Difference between WSL2 and Multipass
+- Advantages and disadvantages of Multipass
+- Select a development environment suitable for the purpose
+## Prior knowledge
+Difference between WSL1 and WSL2, virtualization environment based on VirtualBox or Hyper-V
+## What you can learn from this session
+Multipass usability similar to WSL but different

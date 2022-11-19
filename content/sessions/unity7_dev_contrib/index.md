@@ -3,7 +3,7 @@ title: "Contributing to Unity7 development"
 date: 2022-11-26T14:00:00+09:00
 end: 2022-11-26T14:20:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
-featured: false # If it's true. This session will appear on main page.
+featured: true # If it's true. This session will appear on main page.
 lang: English
 category: 1
 #1: Desktop 데스크탑
