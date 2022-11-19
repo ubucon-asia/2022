@@ -28,4 +28,15 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+Raising and managing funds for huge event is not easy, But can be easier thanks to fiscal hosts in many cases. But what about after the event? You may donate to other opensource funds, But you might also want to keep it for next event. Unless fiscal hosts like SPI, Open Collective Foundation available in your region, that could be also challenging due to tax issues.
+
+For Ubuntu Korea, We've been managing our funds on LoCo leader's seperate individual bank account. But receiving remaining funds after UbuCon Asia raised issues around tax.
+So we did some research on how we should address this issue. Our answer was to register ourselves on tax office as small nonprofit to got a business registration. opening a corporate bank account and corporate cards for Ubuntu Korea using the business registration.
+In this session, You will hear some detailed stories behind this. It might not be a best practice, but i hope it would be helpful for other LoCo folks with similar concern.
+
+## Prior knowledge
+None
+## What audience can learn from this session
+This session might not be relevant to Ubuntu. But will let Local community organizers to think about on managing their finances in better way. This session might not be a best practices, But It will be a small helpful reference for them.
+
+## About the speaker

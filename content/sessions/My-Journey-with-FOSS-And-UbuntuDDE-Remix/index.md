@@ -30,4 +30,19 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+In this session, I will be taking about my experience with Free and Open Source Software, how I started using GNU/Linux, and how my COVID-19 lock-down experience ended up with an Ubuntu Remix Project. I will be sharing about the following:
+1. I will be sharing my journey from a user to developer in FOSS ecosystem.
+2. What is UbuntuDDE project and Why?
+3. The progress so far with roadmaps on project's future.
+4. How anyone can contribute to UbuntuDDE Remix, Ubuntu, and Debian projects.
+
+## Prior knowledge
+None.
+
+## What audience can learn from this session
+"From my session, the audience will learn the following:
+1. Learn what UbuntuDDE Remix project is all about.
+2. How to contribute to UbuntuDDE project and/or any other FOSS project.
+3. Get inspired from my experience."
+
+## About the speaker
