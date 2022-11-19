@@ -1,5 +1,5 @@
 ---
-title: Handling Remaining Funds after UbuCon Asia
+title: UbuCon Asia 끝나고 남은 돈 처리하기
 date: 2022-11-27T10:00:00+09:00
 end: 2022-11-27T10:45:00+09:00
 room: 2 # 1: Intl room, 2: Workshop, 3: BoF
@@ -20,26 +20,28 @@ lang: 한국어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: 한영빈
-      bio: N/A
-      email: sukso96100@gmail.com # Email
-      launchpad: # link to launchpad.net profile
-      github:  # link to github profile
+      bio: 우분투한국커뮤니티 대표, UbuCon Asia 준비위원
+      email: ybhan@ubuntu.com # Email
+      launchpad: https://launchpad.net/~ybhan # link to launchpad.net profile
+      github:  https://github.com/sukso96100 # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://youngbin.xyz # Other website link url
+      linklabel: Website # Label for linkurl
 ---
 
-대규모 행사를 위한 자금 조달 및 관리가 쉽지는 않지만 많은 경우 후원사를 모은다면 더 쉬워질 수 있습니다. 
-하지만 이벤트 이후에는 어떨까요? 다른 오픈소스 기금에 기부할 수도 있지만 다음 이벤트를 위해 보관하고 싶을 수도 있습니다.  해당 지역의 협동조합, SPI와 같은 영리 단체가 아니라면 세금 문제로 인해 어려울 수 있습니다.
+대규모 행사를 위한 자금 조달 및 관리가 쉽지는 않지만 대부분의 경우 대행사의 도움을 받아 후원사를 모은다면 어렵지 않게 진행할 수 있습니다. 
+하지만 이벤트 이후에는 어떨까요? 다른 오픈소스 기금에 기부할 수도 있지만 다음 이벤트를 위해 저축하고 싶을 수도 있습니다. 하지만 지역에 SPI(Software in Public Intereests), Open Collective Foundation 과 같이 자금을 관리해 줄 단체나 법인이 없다면, 세금 문제로 쉽지 않을 수 있습니다.
 
-우분투코리아는 그동안 로코리더 개인통장으로 자금을 관리해왔습니다.  그러나 UbuCon Asia 이후 남은 자금을 받으면 세금 문제가 발생했습니다.
-그래서 우리는 이 문제를 어떻게 해결해야 하는지 조사했습니다. 우리의 대답은 세무서에 작은 비영리 단체로 등록하여 사업자 등록을 받는 것이었습니다.  사업자등록증을 이용하여 우분투코리아의 법인계좌 및 법인카드를 개설할 수 있습니다.
-이 세션에서는 이에 대한 자세한 이야기를 듣게 됩니다.  모범 사례는 아니지만 비슷한 우려를 가진 다른 LoCo 사람들에게 도움이 되었으면 합니다.
+우분투한국커뮤니티에서는 그동안 대표자가 별도의 개인 계좌로 자금을 관리 해 왔는데요, 작년 UbuCon Asia 이후 남은 자금을 넘겨 받으면서 세금 문제가 발생 했습니다.
+그래서 어떻게 할지 내부적으로 논의와 비슷한 사례 등을 찾아 본 끝에, 세무서에 비영리 단체로 등록하여 고유번호증(또는 사업자등록증)을 받기로 했고, 법인사업자 등록을 통해 커뮤니티의 법인계좌와 법인카드를 개설하여 지금까지 관리 해 오고 있습니다.
+이 세션에서는 이 과정에 얽힌 자세한 이야기를 공유 해 보고자 합니다. 모범 사례라고 하기는 어렵지만, 비슷한 고민을 가지고 있는 다른 커뮤니티에 도움이 되었으면 합니다.
 
 ## 청중 사전 지식
 없음
 
 ## 이 세션으로 배울 수 있는 것.
-이 세션은 Ubuntu와 관련이 없을 수 있습니다.  그러나 지역 사회 조직가가 더 나은 방법으로 재정을 관리하는 방법에 대해 생각할 수 있습니다.  이 세션은 모범 사례가 아닐 수 있지만 그들에게 작은 도움이 되는 참고 자료가 될 것입니다.
+
+이 세션은 Ubuntu와 관련이 없을 수 있습니다. 하지만 커뮤니티 운영진 분들이 더 나은 방법으로 재정을 관리하는 방법에 대해 생각 해 보실 수 있는 좋은 기회가 될 수 있습니다. 모범 사례는 아닐 수 있지만 고민하고 있는 분들께 도움이 될 만한 사례가 될 수 있을 것이라고 생각합니다.
 
 ## 발표자 소개
+한영빈님은 우분투한국커뮤니티에서 대표로 활동하고 계시며, 작년에 처음 개최된 UbuCon Asia 행사에서 준비위원으로도 활동하고 있습니다. 또한 클라우드메이트 서비스 개발팀에 근무하면서, Managed Service 고객을 위한 솔루션 개발에 참여 하거나 내부 사용을 위한 서비스 개발 등에 참여하고 있습니다.
