@@ -19,7 +19,7 @@ featured: false # If it's true. This session will appear on main page.
 lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
-    - name: Yeongseon Choi
+    - name: Yeongseon Choe
       bio: Support Engineer, Microsoft Korea
       email: yeongseon.choe@gmail.com # Email
       launchpad: # link to launchpad.net profile
