@@ -61,9 +61,11 @@
           {{ range .Params.speakers }}
           <div class="p-media-object">
             {{with .profile}}
-              <img src="{{.}}" class="p-media-object__image is-round" alt="">
+              <img src="{{.}}" class="p-media-object__image is-round"
+                alt="" style="object-fit: cover; width: 48px; height: 48px;">
             {{ else }}
-              <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="" style="object-fit: cover; width: 96px; height: 96px;">
+              <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round"
+                alt="" style="object-fit: cover; width: 48px; height: 48px;">
             {{end}}
             <div class="p-media-object__details">
               <a href="mailto:{{.email}}">
