@@ -63,7 +63,7 @@
             {{with .profile}}
               <img src="{{.}}" class="p-media-object__image is-round" alt="">
             {{ else }}
-              <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="">
+              <img src='{{ "/images/ubuntu.png" | relURL }}' class="p-media-object__image is-round" alt="" style="object-fit: cover; width: 96px; height: 96px;">
             {{end}}
             <div class="p-media-object__details">
               <a href="mailto:{{.email}}">
