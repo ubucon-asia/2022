@@ -28,4 +28,11 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-TBD
+Compare Docker without Docker Desktop between WSL2 and Multipass
+- Difference between WSL2 and Multipass
+- Advantages and disadvantages of Multipass
+- Select a development environment suitable for the purpose
+## Prior knowledge
+Difference between WSL1 and WSL2, virtualization environment based on VirtualBox or Hyper-V
+## What you can learn from this session
+Multipass usability similar to WSL but different
