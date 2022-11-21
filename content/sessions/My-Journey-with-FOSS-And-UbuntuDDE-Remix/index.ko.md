@@ -41,4 +41,8 @@ speakers: # Speaker info
 ## 이 세션으로 배울 수 있는 것.
  1. UbuntuDDE Remix 프로젝트가 무엇인지 알아보십시오.
  2. UbuntuDDE 프로젝트에 기여하는 방법
+
 ## 발표자 소개
+Arun Kumar Pariyar는 무료 오픈 소스 소프트웨어이자 GNU/Linux 애호가입니다.
+그는 Deepin Desktop Environment가 포함된 Ubuntu를 기반으로 하는 인기 있는 GNU/Linux 배포판 UbuntuDDE Remix의 프로젝트 메인테이너입니다.
+Arun은 또한 2020년 11월 20일부터 데비안 관리자로서 데비안 프로젝트에서 DDE 패키지 및 Golang 소프트웨어 패키지를 유지 관리합니다.

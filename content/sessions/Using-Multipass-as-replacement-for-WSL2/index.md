@@ -36,3 +36,6 @@ Compare Docker without Docker Desktop between WSL2 and Multipass
 Difference between WSL1 and WSL2, virtualization environment based on VirtualBox or Hyper-V
 ## What you can learn from this session
 Multipass usability similar to WSL but different
+
+## About the speaker
+Not Developer and Not Engineer, Just Technical contents Editor.

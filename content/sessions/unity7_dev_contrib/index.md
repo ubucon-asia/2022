@@ -41,3 +41,6 @@ None
 
 ## What you can learn from this session
 How to contribute to Unity7, and become a Unity7 maintainer for other distros
+
+## About the speaker
+I’m Rudra Saraswat, a tech nerd who loves to develop for Linux, maintains a homelab and uses Ubuntu and Arch. I’m an Ubuntu member and the Creator and Project Lead of Ubuntu Unity (an Ubuntu flavor), Ubuntu Web, UbuntuEd, Gamebuntu and many other open source projects. I love playing the musical instrument Tabla. I also love swimming, playing Lawn Tennis and Snooker.
