@@ -29,6 +29,6 @@ A tour where you will feel the beautiful autumn of Seoul. Guided tour with Gyeon
 ### Schedule
 - 1:00 PM / Take tour bus
 - 1:30 ~ 4:00 PM / Bukchon Hanok Village, Gyeongbokgung palace
-- 5:00 ~ 6:30 PM / Wahch "The Painters:Hero" show
+- 5:00 ~ 6:30 PM / Watch "The Painters:Hero" show
 - 6:30 ~ 7:30 PM / Dinner
 - Back to hotel 
