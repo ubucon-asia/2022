@@ -39,4 +39,5 @@ WSL1과 WSL2의 차이, VirtualBox나 Hyper-V 기준 가상화 환경
 ## 청중이 이 세션을 통해 배울 수 있는 것
 WSL와 비슷한 듯 다른 Multipass 사용성
 
-## About the speaker
+## 발표자 소개
+개발자나 엔지니어가 아닌 테크니컬라이터로 활동하고있습니다.

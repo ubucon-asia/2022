@@ -40,3 +40,4 @@ None
 This session might not be relevant to Ubuntu. But will let Local community organizers to think about on managing their finances in better way. This session might not be a best practices, But It will be a small helpful reference for them.
 
 ## About the speaker
+Youngbin is a organizer of Ubuntu Korea and UbuCon Asia. He've been organizing local Ubuntu events in Korea for many years. And also have been organizing UbuCon Asia with LoCo folks around Asia since last year. Youngbin is also a Software Engineer who work for a Cloud MSP company based in Seoul, South Korea.

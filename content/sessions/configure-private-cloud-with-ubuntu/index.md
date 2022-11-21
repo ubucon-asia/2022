@@ -39,3 +39,6 @@ Laptop, SSH Key, Your will to complete
 
 ## What audience can learn from this session
 Learn how to use MAAS, understand and practice Microsoft Azure and Hybrid-cloud configuration.
+
+## About the speaker
+I am the head of the technology division at CloudMate, which aims to share our experiences with customers. We are working hard to solve customers' difficulties together with various customer cases and deep technical understanding. Ubuntu is being used as a common operating system while using Cloud, and is currently working as a Microsoft MVP. Thank you for your interest in the Facebook community called Wise Azure Life.

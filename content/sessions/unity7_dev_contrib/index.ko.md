@@ -41,3 +41,8 @@ Unity7 데스크탑이 이제 공식 변형 우분투 배포판인 Ubuntu Unity�
 
 ## 청중이 이 세션을 통해 배울 수 있는 것
 Unity7에 기여하는 방법과 다른 리눅스 배포판의 Unity7 메인테이너가 되는 방법
+
+## 발표자 소개
+저는 Linux용 개발을 좋아하고 홈랩을 유지하며 Ubuntu와 Arch를 사용하는 Rudra Saraswat입니다. 
+저는 Ubuntu 회원이자 Ubuntu Unity(Ubuntu 버전), Ubuntu Web, UbuntuEd, Gamebuntu 및 기타 여러 오픈 소스 프로젝트의 제작자이자 프로젝트 리더입니다. 
+나는 타블라 악기를 연주하는 것을 좋아하며 수영, 잔디 테니스, 스누커를 좋아합니다.

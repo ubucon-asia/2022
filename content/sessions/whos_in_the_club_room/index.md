@@ -44,3 +44,5 @@ WiFi, WPA-Enterprise, RADIUS, LDAP
 - Setting up and configuring RADIUS and LDAP server on Docker
 - Understanding ARP protocols and ARP cache
 - Deploying on Raspberry Pi
+
+## About the speaker

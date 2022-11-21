@@ -93,3 +93,4 @@ Additional Knowledges
 - Unlock STB limitations from the provider's.
 
 ## About the speaker
+Hi! I'm Akmal Pratama. I'm now currently been working as a Security Analyst in IDN Boarding School. I was also a Fulltime Malware Researcher, and an active Bug Hunter in HackerOne. Experienced as a cybersecurity trainer at Nacita Corporation with over 100 participants. Loves to modify and mess around with operating systems. <3

@@ -45,3 +45,6 @@ None.
 3. Get inspired from my experience."
 
 ## About the speaker
+Arun Kumar Pariyar is a free and open source software and GNU/Linux enthusiast.
+He is the Project Lead of a popular GNU/Linux distribution UbuntuDDE Remix which is based on Ubuntu with Deepin Desktop Environment.
+Arun also maintains DDE packages and Golang software packages in Debian Project as a Debian Maintainer since 2020-11-20.
