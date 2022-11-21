@@ -20,13 +20,13 @@ lang: Korean
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: Youngbin Han
-      bio: N/A
-      email: sukso96100@gmail.com # Email
-      launchpad: # link to launchpad.net profile
-      github:  # link to github profile
+      bio: Organizer of Ubuntu Korea and UbuCon Asia
+      email: ybhan@ubuntu.com # Email
+      launchpad: https://launchpad.net/~ybhan # link to launchpad.net profile
+      github:  https://github.com/sukso96100 # link to github profile
       profile: profile.jpg # Speaker photo
-      linkurl: # Other website link url
-      linklabel: # Label for linkurl
+      linkurl: https://youngbin.xyz # Other website link url
+      linklabel: Website # Label for linkurl
 ---
 Raising and managing funds for huge event is not easy, But can be easier thanks to fiscal hosts in many cases. But what about after the event? You may donate to other opensource funds, But you might also want to keep it for next event. Unless fiscal hosts like SPI, Open Collective Foundation available in your region, that could be also challenging due to tax issues.
 
@@ -40,4 +40,4 @@ None
 This session might not be relevant to Ubuntu. But will let Local community organizers to think about on managing their finances in better way. This session might not be a best practices, But It will be a small helpful reference for them.
 
 ## About the speaker
-Youngbin is a organizer of Ubuntu Korea and UbuCon Asia. He've been organizing local Ubuntu events in Korea for many years. And also have been organizing UbuCon Asia with LoCo folks around Asia since last year. Youngbin is also a Software Engineer who work for a Cloud MSP company based in Seoul, South Korea.
+Youngbin is the leader of Ubuntu Korea Community (Korean LoCo Team) and also organizer of UbuCon Asia which started last year for the first time. He is also a software engineer at Cloudmate Co., Ltd. Service Dev Team and work with developing software for managed service clients and internal use.   
