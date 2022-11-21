@@ -20,7 +20,7 @@ lang: 한국어
 # slide: Ubucon_Subtitle_Automate.pdf
 speakers: # Speaker info
     - name: 김광연
-      bio: 
+      bio: 우분투한국커뮤니티
       email: ghemool123@gmail.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
@@ -38,3 +38,6 @@ Linux 명령 줄 인터페이스, Linux 컨테이너, OS 기초 지식
 
 ## 청중이 이 세션을 통해 배울 수 있는 것
 Ubuntu Core/snap, Ubuntu Frame에 대한 기초적 이해
+
+## 발표자 소개
+리눅스 관련으로 가치있는 주제를 발견하고 개발과 공부를 해서 제 강점으로 만들고자 하고 있습니다. 현재 우분투한국커뮤니티의 Contribute & Development 팀에 소속 돼서 지식 공유를 주기적으로 하고 있습니다.
