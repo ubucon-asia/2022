@@ -5,7 +5,7 @@ end: 2022-11-27T15:30:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 featured: true # If it's true. This session will appear on main page.
 lang: Korean
-category: 2
+category: 5
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
