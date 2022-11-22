@@ -19,31 +19,31 @@ authors:
 ## 워크샵 세션
 
 ### Working with C++ packages with Vcpkg on Ubuntu environment
-- 일시: {{< timedisplay datetime="2022-10-22T13:00:00+09:00" display="datetime" >}}
+- 일시: {{< timedisplay datetime="2022-11-26T14:00:00+09:00" display="datetime" >}}
 - 언어: 한국어
 - 최대 20 명 참가 가능
 - [More info](../../sessions/support-package-as-Vcpkg-in-linux/)
 
 ### Configuring Private Cloud with Ubuntu in Server Room
-- 일시: {{< timedisplay datetime="2022-10-22T13:00:00+09:00" display="datetime" >}}
+- 일시: {{< timedisplay datetime="2022-11-26T16:00:00+09:00" display="datetime" >}}
 - 언어: 한국어
 - 최대 30 명 참가 가능
 - [More info](../../sessions/configure-private-cloud-with-ubuntu/)
 
 ### .NET Core development on Ubuntu 22.04
-- 일시: {{< timedisplay datetime="2022-10-22T13:00:00+09:00" display="datetime" >}}
+- 일시: {{< timedisplay datetime="2022-11-27T11:00:00+09:00" display="datetime" >}}
 - 언어: 한국어
 - 최대 50 명 참가 가능
 - [More info](../../sessions/NET-Core-Development-in-Ubuntu/)
 
 ### Ubuntu Frame on YOUR hands
-- 일시: {{< timedisplay datetime="2022-10-22T13:00:00+09:00" display="datetime" >}}
+- 일시: {{< timedisplay datetime="2022-11-27T14:00:00+09:00" display="datetime" >}}
 - 언어: 한국어
 - 최대 50 명 참가 가능
 - [More info](../../sessions/Ubuntu_Frame_on_YOUR_hands/)
 
 ### Building microk8s Server on Raspberry Pi - to understand k8s mechanism
-- 일시: {{< timedisplay datetime="2022-10-22T13:00:00+09:00" display="datetime" >}}
+- 일시: {{< timedisplay datetime="2022-11-27T16:00:00+09:00" display="datetime" >}}
 - 언어: 영어
 - 최대 8 명 참가 가능
 - [More info](../../sessions/Building-microk8s-Server-on-Raspberry-Pi-to-understand-k8s-mechanism/)
