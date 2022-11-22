@@ -22,7 +22,7 @@ authors:
 - 일시: {{< timedisplay datetime="2022-11-26T14:00:00+09:00" display="datetime" >}}
 - 언어: 한국어
 - 최대 20 명 참가 가능
-- [More info](../../sessions/support-package-as-Vcpkg-in-linux/)
+- [More info](../../sessions/support-package-as-vcpkg-in-linux/)
 
 ### Configuring Private Cloud with Ubuntu in Server Room
 - 일시: {{< timedisplay datetime="2022-11-26T16:00:00+09:00" display="datetime" >}}
@@ -34,19 +34,19 @@ authors:
 - 일시: {{< timedisplay datetime="2022-11-27T11:00:00+09:00" display="datetime" >}}
 - 언어: 한국어
 - 최대 50 명 참가 가능
-- [More info](../../sessions/NET-Core-Development-in-Ubuntu/)
+- [More info](../../sessions/net-core-development-in-ubuntu/)
 
 ### Ubuntu Frame on YOUR hands
 - 일시: {{< timedisplay datetime="2022-11-27T14:00:00+09:00" display="datetime" >}}
 - 언어: 한국어
 - 최대 50 명 참가 가능
-- [More info](../../sessions/Ubuntu_Frame_on_YOUR_hands/)
+- [More info](../../sessions/ubuntu_frame_on_your_hands/)
 
 ### Building microk8s Server on Raspberry Pi - to understand k8s mechanism
 - 일시: {{< timedisplay datetime="2022-11-27T16:00:00+09:00" display="datetime" >}}
 - 언어: 영어
 - 최대 8 명 참가 가능
-- [More info](../../sessions/Building-microk8s-Server-on-Raspberry-Pi-to-understand-k8s-mechanism/)
+- [More info](../../sessions/building-microk8s-server-on-raspberry-pi-to-understand-k8s-mechanism/)
 
 ## 워크샵 참가 등록 방법
 
