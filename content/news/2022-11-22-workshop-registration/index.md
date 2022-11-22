@@ -47,6 +47,7 @@ Workshops registration does not requires additional fees, But it is required sin
 - Language: English
 - Maximum 8 participants
 - [More info](../../sessions/building-microk8s-server-on-raspberry-pi-to-understand-k8s-mechanism/)
+- [Workshop participant requirements information from the speaker - Make sure to check before choosing!](https://masafumiohta.wordpress.com/2022/11/22/workshop-introduction-and-requirement-at-my-workshop-in-ubucon-asia-2022-1/)
 
 ## How register for workshops
 
