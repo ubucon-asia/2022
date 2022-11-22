@@ -11,7 +11,7 @@ links:
   url: "https://www.youtube.com/c/NHNCloud"
 - name: LinkedIn
   url: https://www.linkedin.com/company/nhncloud/
-cover: cover.jpg
+# cover: cover.jpg
 brochure: brochure.pdf # path to brochure pdf file
 region: 대한민국 서울 # eg. South Korea, Mainland China, Singapore, Hong Kong, Taiwan ...
 ---
