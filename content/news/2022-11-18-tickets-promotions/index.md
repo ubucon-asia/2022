@@ -17,7 +17,7 @@ Hello! It's been about a month since we opened for registration, and the event i
 To let more people to participate our event easier, We would like to offer discount or free tickets for eligible people. 
 
 ## Discount for Community partners
-If you are a member of UbuCon Asia 2022 Korean community partners such as "OpenStack Korea User Group", "LibreOffice Korean Team", "WSLHUB (Korea WSL User Group)", "Wise Azure Life", "It has nothing to do with coding," and "Korea openSUSE User Group", You may ask your community organizer for discount or free tickets. Since each community partners has their own policy for distributing tickets, please contact organizers of community partners for more details.
+If you are a member of UbuCon Asia 2022 Korean community partners such as "OpenStack Korea User Group", "LibreOffice Korean Team", "WSLHUB (Korea WSL User Group)", "Wise Azure Life", "It has nothing to do with coding," and "Korea openSUSE User Group", "Ubuntu Korea Community" You may ask your community organizer for discount or free tickets. Since each community partners has their own policy for distributing tickets, please contact organizers of community partners for more details.
 
 ## Free tickets for students who took College Scholastic Ability Test
 If you are a student who took College Scholastic Ability Test yesterday (Nov 18, 2022), You're eligible for free ticket. To get a free ticket, please apply for "수능 응시자" ticket on Festa.io then send your test ID slip to ubucon@ubuntu-kr.org. We'll approve your free ticket once we confirmed your test ID slip and ticket registration. We'll look forward to participation from students interested on IT. **Note: Please only apply for this ticket if you actually willing to attend our event.**
