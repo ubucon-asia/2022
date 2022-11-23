@@ -30,14 +30,30 @@ speakers: # Speaker info
 ---
 
 We would like to have a workshop that explains the concept of Ubuntu Frame, installation, demonstration, and Q&A.
-First, I will explain what Ubuntu Frame is, why it is needed, and how it is structured.
-Second, I would like to install and demo Ubuntu Frame. At this time, explanation and demonstration of Ubuntu Core, the technology on which Ubuntu Frame is based, will be made.
+* First, I will explain what Ubuntu Frame is, why it is needed, and how it is structured.
+  + Introduce Ubuntu Core
+  + Snap Basic Knowledges
+  + Background of Ubuntu Frame and Configuration Options
+  + Explanation for ```iot-examples-snap```
+  + Explanation for demonstrating recipe
+* Second, I'd like to follow a guide for Electron GUI App packaging in Ubuntu Frame documents together.
+  + Installation and Utilization of Ubuntu Frame on Desktop Environment
+  + Electron GUI App packaging through ```iot-example-snap```
+  + Demonstration on Real Devices using Raspberry Pi
 
 ## Prior knowledge
 Linux command line interface, Linux containers, OS basics
 
+## What participants need to prepare for workshop
+Linux environment for which is suitable for snapd, snapcraft use(I recommend to use real device)
+
+* Please make sure that whther your environment supports nested virtualization in case you'd like follow with virtual environment
+* WSL is not desirable for this course since it requires additional configuration for snap use.
+
 ## What audience can learn from this session
-Basic understanding of Ubuntu Core/snap, Ubuntu Frame
+* Basic understanding of Ubuntu Core, Ubuntu Frame
+* Snap Confinement, Recipe, Snapcraft
+* Pratices for Ubuntu Frame Development
 
 ## About the speaker
 I am trying to find valuable topics related to Linux, develop and study them, and make them my strengths. Currently, I am a member of the Contribute & Development team of the Ubuntu Korean community and share knowledge regularly.
