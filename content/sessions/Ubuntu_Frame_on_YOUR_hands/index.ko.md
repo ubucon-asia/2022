@@ -32,6 +32,7 @@ speakers: # Speaker info
 Ubuntu Frame의 개념 설명, 설치, 데모, 질의 응답을 하는 워크숍을 가지려 합니다.
 * 첫째, Ubuntu Frame이 무엇이고 왜 필요한지 그리고 구조가 어떻게 되어있는지 설명할 것입니다.
   + Ubuntu Core 소개
+  + Launchpad에 SSH Key 등록하기
   + Snap 기초
   + Ubuntu Frame 등장배경, 설정 옵션
   + ```iot-examples-snap``` 설명
@@ -42,12 +43,14 @@ Ubuntu Frame의 개념 설명, 설치, 데모, 질의 응답을 하는 워크숍
   + 라즈베리파이를 통한 물리 기기 시연
 
 ## 청중 사전 지식
-Linux 명령 줄 인터페이스, Linux 컨테이너, OS 기초 지식
+Linux 명령 줄 인터페이스, Linux 컨테이너
 
 ## 참여자가 미리 준비 해야 할 사항
 snapd와 snapcraft를 실행할 수 있는 리눅스 환경(공 노트북 권장)
 * 참여자들은 가상환경을 사용할 경우 이중가상화가 지원되는 환경인지 확인하길 바랍니다.
 * WSL은 snapd를 사용하기 위해 추가적인 설정이 필요하기 때문에 권장하지 않습니다.
+
+Launchpad 계정 생성
 
 ## 청중이 이 세션을 통해 배울 수 있는 것
 * Ubuntu Core, Ubuntu Frame에 대한 기초적 이해
