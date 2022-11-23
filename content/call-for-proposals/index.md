@@ -9,14 +9,16 @@ description: "Call for talks and workshops: Aug 17 ~ Sep 28 (Extended)"
 - Notification of acceptance and speaker confirmation: {{< timedisplay datetime="2022-10-17" display="date" >}} ~ {{< timedisplay datetime="2022-10-21" display="date" >}}
 
 ## Lighting talks and BoFs
-TBD
-
+- Lightning talk: Submit until friday midnight (KST)
+- BoF: Submnit at least 1 hour before the desired time 
 
 # Submit or edit proposal
 - Make sure to read guidelines below before submitting proposal
 - We use Google Form to accept proposals. once you submit your proposal, You will receive a copy in your inbox with "Edit response" button. You may use that to update or improve your proposal. You can edit your proposal anytime during submission periods.
 
 {{< button text="Talk or Workshop proposal" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="copy" >}}
+
+{{< button text="Lightning Talk or BoF" href="https://docs.google.com/forms/d/e/1FAIpQLSf0jLJ_UOWTFlpm71lMJ3jjY1odVKOUaGWQMSPUynMJn_TlAQ/viewform?usp=sf_link" icon="copy" >}}
 
 {{% accordion title="Entry requirements and Visa" id="tab4" expanded="false" hidden="true"  %}}
 

@@ -10,7 +10,8 @@ description: "강연 및 워크샵 제안서 모집: 8월 17일 ~ 9월 28일 (�
 - 제안서 검토 결과 발표 및 참가 확인: {{< timedisplay datetime="2022-10-17" display="date" >}} ~ {{< timedisplay datetime="2022-10-21" display="date" >}}
 
 ## 라이트닝 토크 및 BoF
-추후 공지 예정
+- 라이트닝 토크: 금요일 자정 (한국시간) 까지
+- BoF: 희망 시간으로부터 최소 1시간 전 까지
 
 # 발표 제안서 제출/수정
 
@@ -18,6 +19,9 @@ description: "강연 및 워크샵 제안서 모집: 8월 17일 ~ 9월 28일 (�
 - Google Form 으로 제안서를 제출받고 있습니다. 제안서를 제출하시면, "응답 수정" 버튼이 포함된 제안서 사본이 이메일로 발송되며, 제안서 제출 기간 동안 응답 수정 버튼으로 언제든 제안서를 수정 및 개선하실 수 있습니다.
 
 {{< button text="강연 또는 워크샵 제안서" href="https://docs.google.com/forms/d/e/1FAIpQLScSUWH4VRETTJAH1ZpgYP4Q4yZKs00lox0rZIQEh1z4zlXuDw/viewform?usp=sf_link" icon="copy" >}} 
+
+{{< button text="라이트닝 토크 또는 BoF" href="https://docs.google.com/forms/d/e/1FAIpQLSf0jLJ_UOWTFlpm71lMJ3jjY1odVKOUaGWQMSPUynMJn_TlAQ/viewform?usp=sf_link" icon="copy" >}}
+
 
 {{% accordion title="입국 요건 및 비자" id="tab4" expanded="false" hidden="true"  %}}
 
