@@ -1,7 +1,7 @@
 ---
 title: "Unity7 개발에 기여하기"
-date: 2022-11-26T14:00:00+09:00
-end: 2022-11-26T14:20:00+09:00
+date: 2022-11-27T14:00:00+09:00
+end: 2022-11-27T14:20:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 featured: true # If it's true. This session will appear on main page.
 lang: 영어
