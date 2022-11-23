@@ -29,7 +29,11 @@ speakers: # Speaker info
       linklabel:  # Label for linkurl
 ---
 
-We would like to have a workshop that explains the concept of Ubuntu Frame, installation, demonstration, and Q&A.
+Are you interested in designing system minimally to fit your requirements for embedded?
+You may know Embedded system design should be depend on system requirement, unlike PCs, to ensure reliability.
+There are many good solutions, but I think Canonical's approach, such as Ubuntu Core and Frame, is easy and general enough to focus almost exclusively on app development.
+In this course, I would like to have a workshop that explains Ubuntu Frame, the GUI solution, with its concepts, install, demonstrations, and Q&A.
+
 * First, I will explain what Ubuntu Frame is, why it is needed, and how it is structured.
   + Introduce Ubuntu Core
   + Putting SSH key onto Launchpad for Ubuntu Core
