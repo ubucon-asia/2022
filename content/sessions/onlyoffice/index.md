@@ -21,7 +21,7 @@ lang: English
 speakers: # Speaker info
     - name: Mikhail Korotaev
       bio: ONLYOFFICE
-      email: yeongseon.choe@gmail.com # Email
+      email: mikhail.korotaev@onlyoffice.com # Email
       launchpad: # link to launchpad.net profile
       github:  # link to github profile
       profile: profile.jpg # Speaker photo
