@@ -30,14 +30,30 @@ speakers: # Speaker info
 ---
 
 Ubuntu Frame의 개념 설명, 설치, 데모, 질의 응답을 하는 워크숍을 가지려 합니다.
-첫째, Ubuntu Frame이 무엇이고 왜 필요한지 그리고 구조가 어떻게 되어있는지 설명할 것입니다. 
-둘째, Ubuntu Frame을 설치, 데모 시연 하려 합니다. 이때 Ubuntu Frame이 기반하고 있는 기술인 Ubuntu Core에 대한 설명과 시연이 이루어질 예정입니다.
+* 첫째, Ubuntu Frame이 무엇이고 왜 필요한지 그리고 구조가 어떻게 되어있는지 설명할 것입니다.
+  + Ubuntu Core 소개
+  + Snap 기초
+  + Ubuntu Frame 등장배경, 설정 옵션
+  + ```iot-examples-snap``` 설명
+  + 시연 레시피 설명
+* 둘째, Electron GUI 앱을 패키징하는 Ubuntu Frame 가이드를 함께 따라하는 시연을 할 것입니다.
+  + Desktop에 Ubuntu Frame 설치/활용 하기
+  + ```iot-examples-snap```을 통한 Electron 앱 패키징
+  + 라즈베리파이를 통한 물리 기기 시연
 
 ## 청중 사전 지식
 Linux 명령 줄 인터페이스, Linux 컨테이너, OS 기초 지식
 
+## 참여자가 미리 준비 해야 할 사항
+snapd와 snapcraft를 실행할 수 있는 리눅스 환경(공 노트북 권장)
+* 참여자들은 가상환경을 사용할 경우 이중가상화가 지원되는 환경인지 확인하길 바랍니다.
+* WSL은 snapd를 사용하기 위해 추가적인 설정이 필요하기 때문에 권장하지 않습니다.
+
 ## 청중이 이 세션을 통해 배울 수 있는 것
-Ubuntu Core/snap, Ubuntu Frame에 대한 기초적 이해
+* Ubuntu Core, Ubuntu Frame에 대한 기초적 이해
+* Snap Confinement, Recipe, Snapcraft
+* 리눅스 장치로 snap 패키지 원격 업로드 하기
+* Ubuntu Frame 설치 및 개발 과정
 
 ## 발표자 소개
 리눅스 관련으로 가치있는 주제를 발견하고 개발과 공부를 해서 제 강점으로 만들고자 하고 있습니다. 현재 우분투한국커뮤니티의 Contribute & Development 팀에 소속 돼서 지식 공유를 주기적으로 하고 있습니다.
