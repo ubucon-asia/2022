@@ -2,7 +2,7 @@
 title: BoF 1-2
 date: 2022-11-26T15:00:00+09:00
 end: 2022-11-26T15:50:00+09:00
-room: 1 # 1: Intl room, 2: Workshop, 3: BoF
+room: 3 # 1: Intl room, 2: Workshop, 3: BoF
 category: 1
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
