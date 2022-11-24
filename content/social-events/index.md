@@ -23,11 +23,13 @@ Mingle with speakers and other community folks at a fancy party room at Hongdae!
 
 A tour where you will feel the beautiful autumn of Seoul. Guided tour with Gyeongbok palace, Hanok Village and painting performance show program!
 
-- When: November 28, 1:00 ~ 7:30 PM
+- When: November 28, 11:30 ~ 7:30 PM
 - Where: Gather in front of Stanford Hotel Seoul (Note: This can be changed)
+- Upto 15 people
 
 ### Schedule
-- 1:00 PM / Take tour bus
+- 11:30 AM / Take tour bus 
+- 12:30 PM / Lunch
 - 1:30 ~ 4:00 PM / Bukchon Hanok Village, Gyeongbokgung palace
 - 5:00 ~ 6:30 PM / Watch "The Painters:Hero" show
 - 6:30 ~ 7:30 PM / Dinner
