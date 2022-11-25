@@ -38,7 +38,7 @@ Some knowledge of Linux and kernel, Some understanding about Apple's Mac platfor
 Differences between normal PCs and 2018+ Macs, the presence of t2linux project, what we do, what we have achieved, and our future roadmap. Since our project is not well known and not many people know the difference between later stage Intel Macs and normal PCs this will introduce people to those differences and knowledge about Intel Mac's different internals.
 
 ## About the speaker
-t2linux is an projects that brings linux support on Intel Macs with T2 chips. You will meet following speakers in this talk.
+t2linux is a project that brings linux support on Intel Macs with T2 chips. You will meet following speakers in this talk.
 
 - Woohyeon Cho
   - I maintain t2linux for Arch linux and related linux distros on the t2linux team. I also operate mirror.funami.tech mirror.
