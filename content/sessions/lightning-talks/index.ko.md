@@ -29,4 +29,8 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
-Lightning talks
+- NHN Cloud ❤️ Ubuntu / Seongsoo Cho
+- ?
+- ?
+- ?
+- ?
