@@ -10,12 +10,12 @@ ORGANIZER;CN="{{.Site.Params.calendarOrganizer}}":mailto:{{.Site.Params.contact}
 ATTENDEE;CN="{{.name}}";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:{{.email}}
 {{end -}}
 SUMMARY:{{.Title}}
-UID:{{dateFormat "20060102T150405" .Date.UTC}}@{{.Site.Params.calendarUidSuffix}}
+UID:{{dateFormat "20060102T150405Z" .Date.UTC}}@{{.Site.Params.calendarUidSuffix}}
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:{{dateFormat "20060102T150405Z" .Date.UTC}}
-DTSTART:{{dateFormat "20060102T150405" .Date.UTC}}
-DTEND:{{dateFormat "20060102T150405" (time .Params.end).UTC}}
+DTSTART:{{dateFormat "20060102T150405Z" .Date.UTC}}
+DTEND:{{dateFormat "20060102T150405Z" (time .Params.end).UTC}}
 {{ $roomNames := slice "Unknown" (i18n "room_intlroom") (i18n "room_mid") (i18n "room_mid")}}
 LOCATION:{{ index $roomNames (.Params.room) }}
 DESCRIPTION:{{.Content}}
