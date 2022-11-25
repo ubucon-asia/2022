@@ -29,9 +29,14 @@ speakers: # Speaker info
       linklabel:  # Label for linkurl
 ---
 
-We would like to have a workshop that explains the concept of Ubuntu Frame, installation, demonstration, and Q&A.
+Are you interested in designing system minimally to fit your requirements for embedded?
+You may know Embedded system design should be depend on system requirement, unlike PCs, to ensure reliability.
+There are many good solutions, but I think Canonical's approach, such as Ubuntu Core and Frame, is easy and general enough to focus almost exclusively on app development.
+In this course, I would like to have a workshop that explains Ubuntu Frame, the GUI solution, with its concepts, install, demonstrations, and Q&A.
+
 * First, I will explain what Ubuntu Frame is, why it is needed, and how it is structured.
   + Introduce Ubuntu Core
+  + Putting SSH key onto Launchpad for Ubuntu Core
   + Snap Basic Knowledges
   + Background of Ubuntu Frame and Configuration Options
   + Explanation for ```iot-examples-snap```
@@ -42,13 +47,15 @@ We would like to have a workshop that explains the concept of Ubuntu Frame, inst
   + Demonstration on Real Devices using Raspberry Pi
 
 ## Prior knowledge
-Linux command line interface, Linux containers, OS basics
+Linux command line interface, Linux containers
 
 ## What participants need to prepare for workshop
 Linux environment for which is suitable for snapd, snapcraft use(I recommend to use real device)
 
 * Please make sure that whther your environment supports nested virtualization in case you'd like follow with virtual environment
 * WSL is not desirable for this course since it requires additional configuration for snap use.
+
+Create your own Launchpad account
 
 ## What audience can learn from this session
 * Basic understanding of Ubuntu Core, Ubuntu Frame
