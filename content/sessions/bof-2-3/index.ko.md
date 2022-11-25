@@ -1,5 +1,5 @@
 ---
-title: BoF 2-4
+title: BoF 2-3
 date: 2022-11-27T16:00:00+09:00
 end: 2022-11-27T16:50:00+09:00
 room: 3 # 1: Intl room, 2: Workshop, 3: BoF
@@ -29,6 +29,6 @@ speakers: # Speaker info
       linklabel:  # Label for linkurl
 ---
 
-Day 2 BoF 4 Slot
+Day 2 BoF 3 Slot
 
 [이 BoF 슬롯 얻기](../../call-for-proposals/)
