@@ -3,17 +3,23 @@ VERSION:2.0
 PRODID:-//{{.Site.Title}}//{{i18n "ical"}}//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-{{range $index, $item := .Pages -}}BEGIN:VEVENT
-ORGANIZER;CN="{{.Site.Params.calendarOrganizer}}({{.Site.Params.contact}})"
-SUMMARY:"{{$item.Title}} ({{range $item.Params.speakers -}}{{.name}}; {{end -}})"
-UID:{{dateFormat "20060102T150405Z" $item.Date.UTC}}@{{$item.Params.room}}@{{$index}}@{{$item.Site.Params.calendarUidSuffix}}
+{{range .Pages -}}
+BEGIN:VEVENT
+ORGANIZER;CN="{{.Site.Params.calendarOrganizer}}":mailto:{{.Site.Params.contact}}
+{{range .Params.speakers -}}
+ATTENDEE;CN="{{.name}}";CUTYPE=INDIVIDUAL;PARTSTAT=ACCEPTED:mailto:{{.email}}
+{{end -}}
+SUMMARY:{{.Title}}
+UID:{{dateFormat "20060102T150405Z" .Date.UTC}}@{{.Site.Params.calendarUidSuffix}}
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:{{dateFormat "20060102T150405Z" $item.Date.UTC}}
-DTSTART:{{dateFormat "20060102T150405Z" $item.Date.UTC}}
-DTEND:{{dateFormat "20060102T150405Z" (time $item.Params.end).UTC}}
-{{ $roomNames := slice "Unknown" (i18n "room_intlroom") (i18n "room_large") (i18n "room_mid")}}LOCATION:{{ index $roomNames ($item.Params.room) }}
-DESCRIPTION:{{$item.Content}}
-URL:{{$item.Permalink}}
+DTSTAMP:{{dateFormat "20060102T150405Z" .Date.UTC}}
+DTSTART:{{dateFormat "20060102T150405Z" .Date.UTC}}
+DTEND:{{dateFormat "20060102T150405Z" (time .Params.end).UTC}}
+{{ $roomNames := slice "Unknown" (i18n "room_intlroom") (i18n "room_mid") (i18n "room_mid")}}
+LOCATION:{{ index $roomNames (.Params.room) }}
+DESCRIPTION:{{.Content}}
+URL:{{.Permalink}}
 END:VEVENT
-{{end -}}END:VCALENDAR
+{{end -}}
+END:VCALENDAR
