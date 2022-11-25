@@ -82,3 +82,6 @@ other = "Intl room"
 other = "Midsize room 2"
 [room_large]
 other = "Large room"
+
+[join_online]
+other = "Join online"

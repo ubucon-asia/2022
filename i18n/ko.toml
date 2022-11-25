@@ -123,3 +123,6 @@ other = "국제회의실"
 other = "중회의실2"
 [room_large]
 other = "대회의실"
+
+[join_online]
+other = "온라인 참여"
