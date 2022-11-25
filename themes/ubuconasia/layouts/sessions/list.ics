@@ -6,7 +6,7 @@ METHOD:PUBLISH
 {{range .Pages -}}
 BEGIN:VEVENT
 ORGANIZER;CN="{{.Site.Params.calendarOrganizer}}({{.Site.Params.contact}})"
-SUMMARY:{{.Title}} ({{range .Params.speakers -}}{{.name}}; {{end -}})
+SUMMARY:"{{.Title}} ({{range .Params.speakers -}}{{.name}}; {{end -}})"
 UID:{{dateFormat "20060102T150405Z" .Date.UTC}}@{{.Site.Params.calendarUidSuffix}}
 SEQUENCE:0
 STATUS:CONFIRMED
