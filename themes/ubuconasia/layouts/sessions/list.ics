@@ -16,7 +16,7 @@ STATUS:CONFIRMED
 DTSTAMP:{{dateFormat "20060102T150405Z" .Date.UTC}}
 DTSTART:{{dateFormat "20060102T150405Z" .Date.UTC}}
 DTEND:{{dateFormat "20060102T150405Z" (time .Params.end).UTC}}
-{{ $roomNames := slice "Unknown" (i18n "room_intlroom") (i18n "room_mid") (i18n "room_mid")}}
+{{ $roomNames := slice "Unknown" (i18n "room_intlroom") (i18n "room_large") (i18n "room_mid")}}
 LOCATION:{{ index $roomNames (.Params.room) }}
 DESCRIPTION:{{.Content}}
 URL:{{.Permalink}}
