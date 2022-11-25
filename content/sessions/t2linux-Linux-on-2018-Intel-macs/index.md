@@ -29,7 +29,7 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
-Short introduction of our team, explaining the difference between normal PCs which Linux x86_64 is targeted on and 2018 or newer Macs with T2 chip which is very different despite using same Intel CPU, our efforts trying to get Linux run on those Macs, including but not limited to reverse engineering, writing kernel module, building and automating supporting packages for multiple distros including Ubuntu. We'll demonstrate Ubuntu running on Macs with our efforts. See https://t2linux.org and https://wiki.t2linux.org to see what we do.
+Short introduction of our team, explaining the difference between normal PCs which Linux x86_64 is targeted on and 2018 or newer Macs with T2 chip which are very different despite using same Intel CPU, our efforts trying to get Linux run on those Macs, including but not limited to reverse engineering, writing kernel module, building and automating supporting packages for multiple distros including Ubuntu. We'll demonstrate Ubuntu running on Macs with our efforts. See https://t2linux.org and https://wiki.t2linux.org to see what we do.
 
 ## Prior knowledge 
 Some knowledge of Linux and kernel, Some understanding about Apple's Mac platform.
