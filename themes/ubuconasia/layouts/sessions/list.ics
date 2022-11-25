@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//{{.Site.Title}}//{{i18n "ical"}}//EN
 CALSCALE:GREGORIAN
-METHOD:PUBLISH{{range $index, $item := .Pages -}}
-BEGIN:VEVENT
+METHOD:PUBLISH
+{{range $index, $item := .Pages -}}BEGIN:VEVENT
 ORGANIZER;CN="{{.Site.Params.calendarOrganizer}}({{.Site.Params.contact}})"
 SUMMARY:"{{$item.Title}} ({{range $item.Params.speakers -}}{{.name}}; {{end -}})"
 UID:{{dateFormat "20060102T150405Z" $item.Date.UTC}}@{{$item.Params.room}}@{{$index}}@{{$item.Site.Params.calendarUidSuffix}}
