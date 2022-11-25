@@ -11,5 +11,5 @@ DTEND:{{dateFormat "20060102T150405Z" (time $item.Params.end).UTC}}{{ $roomNames
 LOCATION:{{ index $roomNames ($item.Params.room) }}
 DESCRIPTION:{{range $item.Params.speakers -}}{{.name}}; {{end -}}\n\n{{$item.Summary}}
 URL:{{$item.Permalink}}
-END:VEVENT{{end -}}
-END:VCALENDAR
+END:VEVENT
+{{end -}}END:VCALENDAR
