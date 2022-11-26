@@ -22,7 +22,7 @@ speakers: # Speaker info
     - name: 한영빈
       bio: 우분투한국커뮤니티 대표, UbuCon Asia 준비위원
       email: ybhan@ubuntu.com # Email
-      launchpad: https://launchpad.net/~ybhan # link to launchpad.net profile
+      launchpad: ~ybhan # link to launchpad.net profile
       github:  https://github.com/sukso96100 # link to github profile
       profile: profile.jpg # Speaker photo
       linkurl: https://youngbin.xyz # Other website link url

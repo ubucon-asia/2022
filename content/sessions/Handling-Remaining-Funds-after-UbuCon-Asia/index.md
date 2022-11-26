@@ -22,7 +22,7 @@ speakers: # Speaker info
     - name: Youngbin Han
       bio: Organizer of Ubuntu Korea and UbuCon Asia
       email: ybhan@ubuntu.com # Email
-      launchpad: https://launchpad.net/~ybhan # link to launchpad.net profile
+      launchpad: ~ybhan # link to launchpad.net profile
       github:  https://github.com/sukso96100 # link to github profile
       profile: profile.jpg # Speaker photo
       linkurl: https://youngbin.xyz # Other website link url

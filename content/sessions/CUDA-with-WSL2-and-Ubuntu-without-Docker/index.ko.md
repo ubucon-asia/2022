@@ -23,7 +23,7 @@ speakers: # Speaker info
       bio: 엡실론델타 대표
       email: koock1994@gmail.com # Email
       launchpad: # link to launchpad.net profile
-      github: https://github.com/kooock # link to github profile
+      github: kooock # link to github profile
       profile: profile.jpg # Speaker photo
       linkurl: https://www.facebook.com/koock.yoon # Other website link url
       linklabel: Facebook # Label for linkurl

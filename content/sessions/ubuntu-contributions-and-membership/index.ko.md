@@ -22,8 +22,8 @@ speakers: # Speaker info
     - name: Khairul Aizat Kamarudzzaman
       bio: Ubuntu Malaysian LoCo Organizer & Ubuntu Membership Board
       email: fenris@ubuntu.com # Email
-      launchpad: https://launchpad.net/~fenris # link to launchpad.net profile
-      github: https://github.com/fenris # link to github profile
+      launchpad: ~fenris # link to launchpad.net profile
+      github: fenris # link to github profile
       profile: profile.jpg # Speaker photo
       linkurl: # Other website link url
       linklabel: # Label for linkurl

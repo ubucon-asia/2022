@@ -22,8 +22,8 @@ speakers: # Speaker info
     - name: Mark Esler
       bio: I work for Canonical's Security Team to perform security maintenance, audit software, manage CVE assignment, and answer community questions.
       email: mark.esler@canonical.com # Email
-      launchpad: https://launchpad.net/~eslerm # link to launchpad.net profile
-      github: https://github.com/eslerm  # link to github profile
+      launchpad: ~eslerm # link to launchpad.net profile
+      github: eslerm  # link to github profile
       profile: profile.jpeg # Speaker photo
       linkurl: https://twitter.com/markesler  # Other website link url
       linklabel: Twitter # Label for linkurl

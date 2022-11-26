@@ -23,7 +23,7 @@ speakers: # Speaker info
       bio: Cloud Solutions Architect, Megazone Soft
       email: pagaia@hotmail.com # Email
       launchpad: # link to launchpad.net profile
-      github: https://github.com/sysnet4admin/ # link to github profile
+      github: sysnet4admin/ # link to github profile
       profile: profile.png # Speaker photo
       linkurl: https://www.linkedin.com/in/hoonjo/  # Other website link url
       linklabel: LinkedIn # Label for linkurl

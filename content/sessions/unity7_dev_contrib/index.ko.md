@@ -22,8 +22,8 @@ speakers: # Speaker info
     - name: Rudra Saraswat
       bio: Maintainer of Ubuntu Unity
       email: rs2009@ubuntu.com # Email
-      launchpad: https://launchpad.net/~rs2009 # link to launchpad.net profile
-      github: https://github.com/RudraSwat  # link to github profile
+      launchpad: ~rs2009 # link to launchpad.net profile
+      github: RudraSwat  # link to github profile
       profile: profile.png # Speaker photo
       linkurl: https://about.ruds.io # Other website link url
       linklabel: Website # Label for linkurl

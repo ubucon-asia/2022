@@ -23,7 +23,7 @@ speakers: # Speaker info
       bio: Organizer and Developer at C++ Korea
       email: luncliff@gmail.com # Email
       launchpad: # link to launchpad.net profile
-      github: https://github.com/luncliff  # link to github profile
+      github: luncliff  # link to github profile
       profile: profile.jpg # Speaker photo
       linkurl: https://fb.com/luncliff # Other website link url
       linklabel: Facebook # Label for linkurl

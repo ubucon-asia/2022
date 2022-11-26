@@ -22,8 +22,8 @@ speakers: # Speaker info
     - name: Mark Esler
       bio: Canonical Security Team에서 보안 유지 관리를 수행, 소프트웨어를 감사, CVE 할당을 관리, 커뮤니티 질문 답변 등 업무를 하고 있습니다.
       email: mark.esler@canonical.com # Email
-      launchpad: https://launchpad.net/~eslerm # link to launchpad.net profile
-      github: https://github.com/eslerm  # link to github profile
+      launchpad: ~eslerm # link to launchpad.net profile
+      github: eslerm  # link to github profile
       profile: profile.jpeg # Speaker photo
       linkurl: https://twitter.com/markesler  # Other website link url
       linklabel: Twitter # Label for linkurl
