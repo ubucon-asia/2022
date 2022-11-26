@@ -32,5 +32,5 @@ speakers: # Speaker info
 - NHN Cloud ❤️ Ubuntu / Seongsoo Cho (Korean)
 - GNOME.Asia 2022 / fenris (English)
 - Raspberry Pi in Asia / Masafumi Ohta (English)
-- ?
+- Software and Licenses / Daniel Ginovker (English)
 - ?
