@@ -1,9 +1,9 @@
 ---
-title: BoF 2-2
+title: BoF 2-2 우분투 서밋 참석 후기 & 2023 우분투 아시아
 date: 2022-11-27T15:00:00+09:00
 end: 2022-11-27T15:50:00+09:00
 room: 3 # 1: Intl room, 2: Workshop, 3: BoF
-category: 1
+category: 11
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
 #3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
