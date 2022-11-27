@@ -1,8 +1,8 @@
 ---
 title: UbuCon Asia 끝나고 남은 돈 처리하기
-date: 2022-11-27T10:00:00+09:00
-end: 2022-11-27T10:45:00+09:00
-room: 2 # 1: Intl room, 2: Workshop, 3: BoF
+date: 2022-11-27T14:00:00+09:00
+end: 2022-11-27T14:20:00+09:00
+room: 3 # 1: Intl room, 2: Workshop, 3: BoF
 category: 11
 #1: Desktop 데스크탑
 #2: Cloud and Infrastructure 클라우드와 인프라
