@@ -1,7 +1,7 @@
 ---
 title: "Laptop-2-Library: 네팔의 외딴 마을에서 저사양 구형 노트북을 Ubuntu 기반의 디지털 도서관으로 사용하기"
-date: 2022-11-27T11:00:00+09:00
-end: 2022-11-27T11:20:00+09:00
+date: 2022-11-27T12:00:00+09:00
+end: 2022-11-27T12:20:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 11
 #1: Desktop 데스크탑
