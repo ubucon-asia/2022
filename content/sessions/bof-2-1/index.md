@@ -1,4 +1,4 @@
----
+<!-- ---
 title: BoF 2-1
 date: 2022-11-27T14:00:00+09:00
 end: 2022-11-27T14:50:00+09:00
@@ -31,4 +31,4 @@ speakers: # Speaker info
 
 Day 1 BoF 1 Slot
 
-[Get this BoF Slot](../../call-for-proposals/)
+[Get this BoF Slot](../../call-for-proposals/) -->
