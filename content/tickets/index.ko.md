@@ -5,7 +5,7 @@ description: "Festa.io 또는 Tito.io 에서 구입"
 
 올해 행사는 유료로 진행하며, 아래와 같은 가격으로 티켓을 판매합니다. **한국 결제수단 사용시 Festa.io 에서**, **해외 결제수단 사용시 Tito.io 에서** 구입하실 수 있습니다. 온라인으로도 참여가 가능하며, BoF 를 제외하고 별도 등록 없이 무료로 참여가 가능합니다.
 
-> 이제 참가 등록이 가능합니다!
+> 행사가 종료되었습니다. 참가 해 주셔서 감사합니다!
 
 {{< button text="Festa.io 에서 티켓 구입" href="https://festa.io/events/2730" icon="external-link" >}}
 {{< button text="Tito.io 에서 티켓 구입" href="https://ti.to/ubuntu-kr/uca22" icon="external-link" >}}

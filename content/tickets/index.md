@@ -5,7 +5,7 @@ description: "Get your ticket on Festa.io or Tito.io"
 
 This year, we organize as paid event. The pricings are as follows. You may buy tickets at **Festa.io for Korean payment method** or **Tito.io for foreign payment method.** You can also participate online, there are no registration required unless you participate BoFs.
 
-> Registration is now open!
+> The event has been closed, Thank you for participating!
 
 {{< button text="Get tickets at Festa.io" href="https://festa.io/events/2730" icon="external-link" >}}
 {{< button text="Get tickets at Tito.io" href="https://ti.to/ubuntu-kr/uca22" icon="external-link" >}}
