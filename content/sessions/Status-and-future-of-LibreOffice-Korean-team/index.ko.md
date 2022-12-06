@@ -18,7 +18,7 @@ category: 11
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: true # If it's true. This session will appear on main page.
 lang: 한국어
-# slide: Ubucon_Subtitle_Automate.pdf
+slide: slide.pdf
 speakers: # Speaker info
     - name: 성대현
       bio: LibreOffice Korean Team - Contributor

@@ -17,7 +17,7 @@ category: 2
 #9: Data and AI 데이터와 인공지능
 #10: Content and Design 컨텐츠와 디지인
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
-# slide: Ubucon_Subtitle_Automate.pdf
+slide: slide.pdf
 speakers: # Speaker info
     - name: Sangwan Jeon
       bio: Student, Yeonsei University
