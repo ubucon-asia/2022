@@ -17,7 +17,7 @@ category: 8
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: true # If it's true. This session will appear on main page.
 lang: English
-# slide: Ubucon_Subtitle_Automate.pdf
+slide: slide.pdf
 speakers: # Speaker info
     - name: Mark Esler
       bio: Canonical Security Team에서 보안 유지 관리를 수행, 소프트웨어를 감사, CVE 할당을 관리, 커뮤니티 질문 답변 등 업무를 하고 있습니다.

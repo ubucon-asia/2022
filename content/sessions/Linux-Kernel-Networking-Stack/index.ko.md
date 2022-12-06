@@ -17,7 +17,7 @@ category: 8
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: true # If it's true. This session will appear on main page.
 lang: 한국어
-# slide: Ubucon_Subtitle_Automate.pdf
+slide: slide.pdf
 speakers: # Speaker info
     - name: 강주희
       bio: OPEN UP 개발자
