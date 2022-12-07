@@ -30,6 +30,8 @@ speakers: # Speaker info
 ---
 This presentation breaks down how Canonical performs security maintenance to patch vulnerable software and offers advice on how FOSS projects can disclose and preemptively discover vulnerabilities.
 
+[See slides with speaker notes](https://docs.google.com/presentation/d/1WkdlbJ2JZgYiKUU_Hn6u1mjhmMiobXnBgrw9yJN3DTc/edit#slide=id.g4f424d3cdc_0_578)
+
 ## What audience can learn from this session
 The two key messages I want to convey is that finding and disclosing vulnerabilities in your projects is okay and to write a security policy. The presentation will introduce how security maintenance at Canonical is performed and give many suggestions on how FOSS projects can tighten their security. Links to resources are provided in the slides.
 
