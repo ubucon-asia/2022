@@ -1,7 +1,38 @@
 [
     {
-        "name": "Donor name",
-        "org_and_title": "Affiliation",
-        "donated_at": "Date and time"
+        "name": "Youngbin Han",
+        "org_and_title": "Organizer @ Ubuntu Korea Community"
+    },
+    {
+        "name": "Seongsoo Cho",
+        "org_and_title": "Organizer @ Openstack Korea Community"
+    },
+    {
+        "name": "Junhyun Bae",
+        "org_and_title": "Organizer @ Ubuntu Korea Community"
+    },
+    {
+        "name": "Jaehoon Jung",
+        "org_and_title": "Engineer @ MONOLITH INC."
+    },
+    {
+        "name": "Saputro Aryulianto",
+        "org_and_title": "VP of Tech Talent Delivery @ Btech"
+    },
+    {
+        "name": "Byeongseung Cho",
+        "org_and_title": "Technical Writer @ Netmarble"
+    },
+    {
+        "name": "Dongha Park",
+        "org_and_title": "Organizer @ C++ Korea"
+    },
+    {
+        "name": "Daehyun Sung",
+        "org_and_title": "Developer @ LibreOffice Korean Team & Lablup(래블업)"
+    },
+    {
+        "name": "Sangbeom Kim",
+        "org_and_title": "Student @ Soongsil University"
     }
 ]
