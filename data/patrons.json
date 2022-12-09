@@ -34,5 +34,25 @@
     {
         "name": "Sangbeom Kim",
         "org_and_title": "Student @ Soongsil University"
+    },
+    {
+        "name": "Kwangjo Jeong",
+        "org_and_title": "Researcher @ IVIS Solution"
+    },
+    {
+        "name": "Kyeongdeok Park",
+        "org_and_title": "Student @ Microsoft AI School"
+    },
+    {
+        "name": "Seohyun Nam",
+        "org_and_title": "Representative @ KRMIR NPO"
+    },
+    {
+        "name": "Hyungkwan Park",
+        "org_and_title": "Developer/Researcher @ Pentaworks"
+    },
+    {
+        "name": "Jonghoon Lee",
+        "org_and_title": "Representative @ GNSInfo"
     }
 ]
