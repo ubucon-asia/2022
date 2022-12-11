@@ -29,7 +29,7 @@ speakers: # Speaker info
       linklabel: Twitter # Label for linkurl
 ---
 
-{{ youtube EUGjjVm5-TQ }}
+{{< youtube EUGjjVm5-TQ >}}
 
 > ONLYOFFICE Sponosred session
 
