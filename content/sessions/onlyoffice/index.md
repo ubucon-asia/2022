@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Twitter # Label for linkurl
 ---
 
+{{ youtube EUGjjVm5-TQ }}
+
 > ONLYOFFICE Sponosred session
 
 Most documents we have to deal with routinely are model, universally structured files: agreements, briefs, contracts, budget plans, etc. All processes involving repetition in document creation, editing, and collaboration have a chance to be optimized and automated. With this idea in mind, ONLYOFFICE has developed online form builder aimed at improving the process of file creation and sharing within organizational document flow. 

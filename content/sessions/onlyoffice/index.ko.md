@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Twitter # Label for linkurl
 ---
 
+{{ youtube EUGjjVm5-TQ }}
+
 > ONLYOFFICE 후원사 세션
 
 우리가 일상적으로 처리해야 하는 대부분의 문서는 계약서, 브리핑, 계약서, 예산 계획 등 보편적으로 구조화된 모델의 파일입니다. 문서 작성, 편집 및 협업의 반복과 관련된 모든 프로세스는 최적화되고 자동화될 수 있습니다. ONLYOFFICE에서는 이 아이디어를 염두에 두고 조직 문서 흐름 내에서 파일 생성 및 공유 프로세스를 개선하기 위한 온라인 양식 작성기(form builder)를 개발했습니다.
