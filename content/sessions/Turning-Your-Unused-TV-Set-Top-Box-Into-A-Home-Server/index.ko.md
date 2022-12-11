@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube Sdnz8J0Wz64 >}}
+
 Introduction
 ==================================
  1. STB(셋톱박스)에 대하여

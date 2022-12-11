@@ -28,7 +28,10 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
-"Introduction
+
+{{< youtube Sdnz8J0Wz64 >}}
+
+Introduction
 ================================
 1. About STB (Set Top Box)
 2. OSes that Most STB runs on.
@@ -72,7 +75,7 @@ Boot into the Armbian
 25. Booting into the Ubuntu Server.
 26. Walkthrough.
 
-27. Final & Conclusion."
+27. Final & Conclusion.
 
 ## Prior knowledge
 Requires knowledge about USB TTL Serial Cables, Firmware Flashing, Putty (CLI),  etc.
