@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
+{{< youtube Cm8UwBHIEQM >}}
+
 LXD is a system container manager.
 In addition, LXD 5.0 on Ubuntu 22.04 LTS offers enhanced support for virtual machine functions such as vTPM and many devices hotplug.
 
