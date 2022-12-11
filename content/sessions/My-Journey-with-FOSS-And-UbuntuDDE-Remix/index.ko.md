@@ -17,7 +17,7 @@ category: 1
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: true # If it's true. This session will appear on main page.
 lang: 영어
-# slide: Ubucon_Subtitle_Automate.pdf
+slide: slides.pdf
 speakers: # Speaker info
     - name: Arun Kumar Pariyar
       bio: N/A
