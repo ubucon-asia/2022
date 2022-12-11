@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
+{{< youtube w6pe4WBoxtk >}}
+
 이 세션에서는 자유 및 오픈 소스 소프트웨어에 대한 나의 경험, GNU/Linux를 사용하기 시작한 방법, COVID-19 락다운 경험이 Ubuntu Remix Project로 끝난 방법에 대해 이야기할 것입니다.  다음에 대해 공유하겠습니다.
  1. FOSS 생태계에서 사용자에서 개발자로의 여정을 공유하겠습니다.
  2. UbuntuDDE 프로젝트란 무엇이며 그 이유는 무엇입니까?

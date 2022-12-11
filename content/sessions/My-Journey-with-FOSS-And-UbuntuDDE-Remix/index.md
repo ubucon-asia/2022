@@ -29,6 +29,9 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube w6pe4WBoxtk >}}
+
 In this session, I will be taking about my experience with Free and Open Source Software, how I started using GNU/Linux, and how my COVID-19 lock-down experience ended up with an Ubuntu Remix Project. I will be sharing about the following:
 1. I will be sharing my journey from a user to developer in FOSS ecosystem.
 2. What is UbuntuDDE project and Why?
