@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
+{{< youtube Cm8UwBHIEQM >}}
+
 LXD는 시스템 컨테이너 관리자 입니다. Ubuntu 22.04 LTS 의 LXD 5.0 에서는 vTPM 및 다양한 디바이스 핫플러그 등 가상머신 기능에 대한 지원이 향상 되었는데요.
 Ubuntu 에서 Windows 가 꼭 필요하다면, 이를 활용할 수 있습니다. 이 세션에서는 별도 PC 구입 없이 LXD에 Windows 를 설치하는 방법에 대해 이야기 합니다
 
