@@ -29,6 +29,9 @@ speakers: # Speaker info
       linklabel: Facebook # Label for linkurl
 ---
 
+{{< youtube O4uWhLiIZZ8 >}}
+
+
 > This is a sponsored talk by Elastic
 
 In this talk, I'll explain how to integrate and monitor various implemented features in the MSA (microservice architecture) environment using Elasitc Observability technology, and how to identify and solve problems. Demonstration through Elastic configured in Ubuntu environment will also be conducted.

@@ -29,6 +29,9 @@ speakers: # Speaker info
       linklabel: Facebook # Label for linkurl
 ---
 
+{{< youtube O4uWhLiIZZ8 >}}
+
+
 > Elastic 의 후원사 세션 입니다.
 
 Elasitc Observability 기술을 이용해서 MSA (마이크로서비스 아키텍쳐) 환경에서 다양하게 구현된 기능들을 통합해서 모니터링 하는 방법과 문제점을 파악하고 해결하는 방안등에 대해 설명합니다. Ubuntu 환경에 구축된 Elastic 을 통한 시연 또한 진행 할 예정입니다.
