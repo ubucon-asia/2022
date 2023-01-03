@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://www.linkedin.com/in/rabibhattarai/ # Other website link url
       linklabel: LinkedIn # Label for linkurl
 ---
+
+{{< youtube j4ISkA88zm4 >}}
+
 Laptop-2-Library: Using Low End Old Laptop as Digital Library in Remote Villages in Nepal’ Using Base Ubuntu is an approach to use locally available system to make a content server in a low power setup where internet reliability is poor.
 
 ## Prior knowledge
