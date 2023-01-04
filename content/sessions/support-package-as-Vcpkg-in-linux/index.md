@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Facebook # Label for linkurl
 ---
 
+{{< youtube 5idnTozVbeE >}}
+
 Let's have a look at Vcpkg a C++ package manager that provides various C++ projects on linux environments.
 I'll first provide some descriptions on roles of each command lines and files and then show you some demonstrations.
 

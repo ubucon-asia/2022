@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://fb.com/luncliff # Other website link url
       linklabel: Facebook # Label for linkurl
 ---
+
+{{< youtube 5idnTozVbeE >}}
+
 리눅스 환경에서 수많은 C++ 프로젝트를 지원하고 있는 패키지 매니저 Vcpkg에 대해서 함께 살펴봅니다.
 초반에는 다루는 내용에 대해 이해할 수 있도록, 명령어들과 파일들의 역할에 대해서 먼저 설명하고 시연으로 넘어갑니다.
 
