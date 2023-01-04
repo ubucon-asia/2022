@@ -29,7 +29,7 @@ speakers: # Speaker info
       linklabel: Twitter # Label for linkurl
 ---
 
-{{< youtube Z-NBmvvtwvM >}}
+{{< youtube OeaUoWCk4kk >}}
 
 Since 2018, OpenStack Kore Community has been participating Opensource Contribution Academy as Mentor. To build culture that contributes code to OpenStack. As OpenStack is a huge project consisted with countless components, It is difficult to contribute code even for whom has many experience on deploying and operating OpenStack cluster.
 In this talk, I'll talk about how our community built our mentoring program for those who new to contributing code to OpenStack. And what was our difficulty during building the program.
