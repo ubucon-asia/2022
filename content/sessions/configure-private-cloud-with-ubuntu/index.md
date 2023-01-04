@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: LinkedIn # Label for linkurl
 ---
 
+{{< youtube IywDtZURbYg >}}
+
 We talk about the case of configuring a virtualized environment with MAAS in a server room by collecting old PCs. The configured infrastructure connects the network through a VPN connection with Azure, and uses Azure Arc to monitor the server status in Azure. Let's practice configuring MAAS on Azure with this overall content, and discuss how to simply configure Hybrid Cloud by connecting MAAS and Azure.
 
 ## Prior knowledge

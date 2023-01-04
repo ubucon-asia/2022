@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: LinkedIn # Label for linkurl
 ---
 
+{{< youtube IywDtZURbYg >}}
+
 노후화로 버려지는 PC들을 모아 서버룸에 MAAS로 가상화 환경을 구성한 사례에 대해 이야기 합니다. 구성된 인프라는 Azure와 VPN 연결을 하여 네트워크를 연동하고, Azure Arc를 활용하여 서버 상태를 Azure에서 모니터링 합니다. 이런 전반적인 내용을 Azure 위에서 MAAS를 구성하는 실습을 해보고, MAAS와 Azure를 연결하여 간단하게 Hybrid Cloud 구성을 하는 방법에 대해 논의합니다.
 
 ## 청중 사전 지식
