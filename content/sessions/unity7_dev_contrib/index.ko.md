@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Website # Label for linkurl
 ---
 
+{{< youtube hWhR2oRb1cA >}}
+
 Unity7 데스크탑이 이제 공식 변형 우분투 배포판인 Ubuntu Unity와 함께 돌아 왔습니다! 이 세션에서는 다음과 같은 Unity7 개발에 대해 이야기 할 예정입니다.
 
 - Unity7 개발 현황

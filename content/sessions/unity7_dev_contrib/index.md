@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Website # Label for linkurl
 ---
 
+{{< youtube hWhR2oRb1cA >}}
+
 Unity7 desktop is back with Ubuntu Unity which is now a official Ubuntu Flavour! In this session, I'll be discussing about Unity7 development such as:
 
 - The current state of Unity7 development
