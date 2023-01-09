@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: LinkedIn # Label for linkurl
 ---
 
+{{< youtube DDkWlqaDXqs >}}
+
 MAAS (Metal as a Service) https://maas.io/ 는 베어베탈 서버에 데이터 센터를 구축할 수 있도록 해 주는 오픈소스 도구입니다.
 
 MASS를 이용하면 서버 프로비저닝과 물리적 서버와 가상 서버에 모두에 원격 OS 설치를 자동화 할 수 있습니다.

@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: LinkedIn # Label for linkurl
 ---
 
+{{< youtube DDkWlqaDXqs >}}
+
 MAAS (Metal as a Service) https://maas.io/ is an open-source tool that lets you create a data centre from bare-metal servers.
 
 With MAAS, you can automate server provisioning and installing OS remotely on both physical and virtual servers. 
