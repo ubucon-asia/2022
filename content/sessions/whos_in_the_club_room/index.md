@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Twitter # Label for linkurl
 ---
 
+{{< youtube qHnKolKe9EA >}}
+
 I am working as an executive in the computer central club of the school. Among the executives, as one of technology-related executives, I contribute to the club by maintaining various services (GitLab, Wiki, Mail, etc.) used by members and the Backoffice that executives use for club management.
 
 A few months ago, requests began to come in steadily, saying, "I wish there's a way to know who's in the club room." In fact, it was a difficult task unless equipping a camera, and mounting a camera was excluded due to various problems.
