@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Facebook # Label for linkurl
 ---
 
+{{< youtube DGl5RGeoSaQ >}}
+
 WSL2 환경은 WSL1 과 달리 실제 리눅스 커널이 탑제 되면서 WSL1 에서는 어렵던 다양한 작업이 가능해 졌습니다. CUDA를 활용한 딥러닝 또한 많이 편리해 졌는데요,
 이 세션을 통해 WSL 에서 CUDA 를 사용하기 위해 그간 어떤 방법을 사용해야 했는지 알아보고, WSL2에서는 CUDA 사용이 어떻게 달라졌는지 WSL2화 CUDA의 내부 구조 이해와 함께 알아보겠습니다. 이후 WSL2 환경에 Docker 없이 CUDA 를 설치하고, 구축한 WSL2 CUDA 환경에서 GPU를 이용한 딥러닝 코드를 실행하는 시연을 통해 실제로 어떻게 사용할 수 있는지 알아보는 시간을 가져보겠습니다.
 

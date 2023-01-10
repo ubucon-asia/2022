@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Facebook # Label for linkurl
 ---
 
+{{< youtube DGl5RGeoSaQ >}}
+
 Unlike WSL1, WSL2 comes wiht real Linux Kernel and it enables many more tasks that was not possible with WSL1. Working with Deep learning with CUDA also got much better on WSL2. In this talk, Let's see how we've been used CUDA on WSL in past. And How it got better and different on WSL2 environment by understanding architecture of WSL2 and CUDA. After that, I'll show you how you can install CUDA without Docker on WSL 2 and running deep learning code applicates GPU acceleration on the WSL2 CUDA environment we configured with some demonstrations.
 
 ## Prior knowledge
