@@ -1,5 +1,5 @@
 ---
-title: t2linux Linux on 2018+ Intel Macs
+title: "t2linux: Linux on 2018+ Intel Macs"
 date: 2022-11-26T16:30:00+09:00
 end: 2022-11-26T16:50:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
@@ -28,6 +28,8 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube CbuIxHuBXMQ >}}
 
 Short introduction of our team, explaining the difference between normal PCs which Linux x86_64 is targeted on and 2018 or newer Macs with T2 chip which are very different despite using same Intel CPU, our efforts trying to get Linux run on those Macs, including but not limited to reverse engineering, writing kernel module, building and automating supporting packages for multiple distros including Ubuntu. We'll demonstrate Ubuntu running on Macs with our efforts. See https://t2linux.org and https://wiki.t2linux.org to see what we do.
 

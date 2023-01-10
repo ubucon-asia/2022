@@ -1,5 +1,5 @@
 ---
-title: t2linux Linux on 2018+ Intel Macs
+title: "t2linux: Linux on 2018+ Intel Macs"
 date: 2022-11-26T16:30:00+09:00
 end: 2022-11-26T16:50:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
@@ -28,6 +28,8 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube CbuIxHuBXMQ >}}
 
 먼저 팀에 대해 간단히 소개하고, 일반 PC에 해당하는 Linux x86_64와 같은 인텔 칩이 탑제 되었음에도 많이 다른 T2칩이 탑제된 2018년 이후 Mac에 대해 비교 해 보고자 합니다. 이후 리버스 엔지니어링과 커널 모듈 작성, Ubuntu를 포함한 다양한 배포판 패키지 지원을 위한 패키지 빌드와 자동화 등 Mac에서 Linux를 구동하기 위한 저희 팀의 다양한 노력에 대해서도 이야기 하고자 합니다. 또한 Ubuntu를 Mac에 구동하는 시연 또한 보여 드리고자 합니다. https://t2linux.org 및 https://wiki.t2linux.org 에서 저희가 무엇을 하는지 더 자세히 확인하실 수 있습니다.
 
