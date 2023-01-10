@@ -17,7 +17,7 @@ category: 2
 #11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
 featured: true # If it's true. This session will appear on main page.
 lang: English
-# slide: Ubucon_Subtitle_Automate.pdf
+slide: slides.pdf
 speakers: # Speaker info
     - name: Saputro Aryulianto
       bio: VP of Tech Talent Delivery, Btech
