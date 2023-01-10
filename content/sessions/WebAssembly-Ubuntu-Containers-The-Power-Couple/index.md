@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://twitter.com/howdevelop # Other website link url
       linklabel: Twitter # Label for linkurl
 ---
+
+{{< youtube oG5ZO44oBec >}}
+
 As the upcoming cloud technology, WebAssembly (Wasm) has attracted attention. To handle important backend functions, WebAssembly, also known as WASM, is transitioning from a portable contained browser runtime. 
 
 The language neutrality, cross-platform/architecture support, security sandbox, small binary sizes, and excellent performance of WebAssembly make it a promising technology. Taking advantage of these advantages, several of us have started creating Wasm solutions that are cloud-based and run on servers rather than web browsers.
