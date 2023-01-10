@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube uwotXXYz9ms >}}
+
 Linux Kernel Networking Stack is an open-source project that is developing protocols and functions between Layer 2 and Layer 4 of the OSI Model. As networks account for a large portion of the cloud, various networking technologies are being developed. However, the entry barrier for contribution is so high that you wonder, "Is Linux Kernel Networking Stack really an open-source project?" Most of all, unlike major open source projects, in which Kubernetes and OpenStack are developed through GitHub, using their own git makes it difficult from downloading the source code to write the PATCH.
 Based on your experience as a Contributor to Linux Kernel, this session introduces the packet handling process of the Linux Kernel Networking Stack and the latest major modules and shares the development culture and development process of the Linux Kernel. Through this, many developers want to break down the initial barriers to entry into Linux Kernel Countryview and provide a guide to challenging their first contribution. 
 

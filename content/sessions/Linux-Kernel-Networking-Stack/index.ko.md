@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube uwotXXYz9ms >}}
+
 Linux Kernel Networking Stack은 OSI Model의 Layer 2 ~ Layer 4 사이의 프로토콜과 함수 개발이 이루어지는 오픈 소스 프로젝트입니다. 클라우드에서 네트워크가 많은 비중을 차지하는 만큼 다양한 네트워킹 기술들이 개발되고 있습니다. 하지만, “Linux Kernel Networking Stack은 정말 오픈 소스 프로젝트일까?”라는 의문이 들 정도로 컨트리뷰션을 위한 진입장벽이 높습니다. 무엇보다도 GitHub을 통해서 개발이 진행되는 주요 오픈 소스 프로젝트 kubernetes, openstack과는 달리 자체 git을 사용하다 보니 개발이 진행되는 소스코드를 다운받는 것부터 PATCH를 작성하는 것까지 난이도가 높습니다.
 본 세션에서는 Contributor로 활동하며 겪은 경험을 바탕으로 Linux Kernel Networking Stack 의 패킷 처리 과정과 최신 주요 모듈을 소개하고, Linux Kernel의 개발 문화와 개발 과정에 대한 공유합니다. 이를 통해 많은 개발자들이 Linux Kernel 컨트리뷰션의 초기 진입장벽을 허물고, 첫 컨트리뷰션에 도전할 수 있도록 가이드를 제공하고자 합니다. 
 
