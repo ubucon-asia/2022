@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
+{{< youtube duAvWg5MU2c >}}
+
 Kubernetes was started inside Google to provide a layer of abstraction with containers for modern infrastructure. The technology has now been adopted by the masses and has become a de-facto standard for any cloud-native application. The open-source system provides management, deployment, and scaling of your containers.
 
 This workshop uses microk8s, the simplest production-grade conformant K8s that you can install on a Kubernetes cluster locally to deploy a simple Python application that you create first using manifests and then using Helm charts, which you will create.

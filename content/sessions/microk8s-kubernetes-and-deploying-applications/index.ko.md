@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
+{{< youtube duAvWg5MU2c >}}
+
 Google에서 시작된 Kubernetes는 Kubernetes는 현대 인프라용 컨테이너에 추상화 계층을 제공하기 위해 Google 내부에서 시작되었습니다. 이 기술은 이제 많은 회사에서 채택되었으며 모든 클라우드 네이티브 애플리케이션에 대한 사실상의 표준이 되었습니다. 오픈 소스 시스템은 컨테이너의 관리, 배포 및 확장을 제공합니다.
 
 이 워크샵에서는 Kubernetes 클러스터에 로컬로 설치할 수 있는 가장 단순한 프로덕션 등급 k8s인 microk8s를 사용하여 먼저 매니페스트를 사용하여 생성한 다음 생성할 Helm 차트를 사용하여 생성하는 간단한 Python 애플리케이션을 배포합니다.
