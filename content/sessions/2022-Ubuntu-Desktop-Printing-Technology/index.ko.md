@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://twitter.com/naru0ga # Other website link url
       linklabel: Twitter # Label for linkurl
 ---
+
+{{< youtube DnpSfaOBH7I >}}
+
 2022년, 프린터가 있으신가요? Ubuntu에서 문서를 프린터로 출력 하시나요?
 10년 전만 해도 Ubuntu에서 프린트를 하는것은 조금 어려운 일 이였습니다. 지금은 드라이버리스(드리이버 없이) 프린팅 덕에 Apple AirPrint 지원이 있는 프린터로도 프린트가 가능하게 되어 쉬워 졌습니다. 이 세션에서는 이러한 쉬운 프린팅 뒤의 기술과 원리에 대해 알아보겠습니다.
 

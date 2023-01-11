@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://twitter.com/naru0ga # Other website link url
       linklabel: Twitter # Label for linkurl
 ---
+
+{{< youtube DnpSfaOBH7I >}}
+
 In 2022, Do you have a printer? And, do you print documents from Ubuntu?
 Printing from Ubuntu was a bit difficult 10 years ago, but now, with driverless printing, it's easy with printers that support Apple AirPrint. Let's take a peek at the technology behind it.
 
