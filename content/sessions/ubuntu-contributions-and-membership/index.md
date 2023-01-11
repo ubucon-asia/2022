@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
+{{< youtube D2GK3A7N8KM >}}
+
 As you already know, Ubuntu is an opensource project that anyone can participate and contribute. But it might be difficult to start contributing to the project or its community if you are a newcomer. 
 
 In this talk, Let's learn many different ways of contributing to Ubuntu. such as development, packaging, translation, IRC support, support on forum, organizing local community and more! 
