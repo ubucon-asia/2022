@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://www.linkedin.com/in/hoonjo/  # Other website link url
       linklabel: LinkedIn # Label for linkurl
 ---
+
+{{< youtube BFnrd1OJkgk >}}
+
 AppArmor를 통해서 쿠버네티스에서 실행되는 컨테이너 애플리케이션을 효과적으로 제어할 수 있습니다.
 이에 대한 예제를 통해서 AppArmor로 인해 안전해지는 쿠버네티스 컨테이너 인프라 환경을 경험해 볼까요?
 https://kubernetes.io/ko/docs/tutorials/security/apparmor/

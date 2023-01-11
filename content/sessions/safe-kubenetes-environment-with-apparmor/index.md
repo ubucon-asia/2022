@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://www.linkedin.com/in/hoonjo/  # Other website link url
       linklabel: LinkedIn # Label for linkurl
 ---
+
+{{< youtube BFnrd1OJkgk >}}
+
 With AppArmor, You can control container applications running on Kubernetes effectively!
 Let's see how we can make Kubernetes based container infra environment secure with AppArmor through number of examples!
 https://kubernetes.io/ko/docs/tutorials/security/apparmor/
