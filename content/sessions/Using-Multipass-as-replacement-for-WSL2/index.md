@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube zbXNKeZ4aYI >}}
+
 Compare Docker without Docker Desktop between WSL2 and Multipass
 - Difference between WSL2 and Multipass
 - Advantages and disadvantages of Multipass

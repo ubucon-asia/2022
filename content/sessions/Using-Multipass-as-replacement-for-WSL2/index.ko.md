@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube zbXNKeZ4aYI >}}
+
 Compare Docker without Docker Desktop between WSL2 and Multipass. 
 도커 데스크탑을 쓰지 않고 도커 엔진을 쓰는 기준의 개발 환경 구축 시나리오를 기준으로,
 - WSL2와 Multipass의 차이
