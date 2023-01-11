@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://twitter.com/markesler  # Other website link url
       linklabel: Twitter # Label for linkurl
 ---
+
+{{< youtube Oz6_14rT72Q >}}
+
 This presentation breaks down how Canonical performs security maintenance to patch vulnerable software and offers advice on how FOSS projects can disclose and preemptively discover vulnerabilities.
 
 [See slides with speaker notes](https://docs.google.com/presentation/d/1WkdlbJ2JZgYiKUU_Hn6u1mjhmMiobXnBgrw9yJN3DTc/edit#slide=id.g4f424d3cdc_0_578)

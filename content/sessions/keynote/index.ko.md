@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://twitter.com/markesler  # Other website link url
       linklabel: Twitter # Label for linkurl
 ---
+
+{{< youtube Oz6_14rT72Q >}}
+
 이 프레젠테이션은 Canonical에서 취약한 소프트웨어를 패치하기 위해 보안 유지 관리를 수행하는 방법을 분석하고 FOSS 프로젝트가 취약성을 공개하고 선제적으로 발견할 수 있는 방법에 대한 조언을 제공합니다.
 
 [발표자 노트가 포함된 슬라이드 보기](https://docs.google.com/presentation/d/1WkdlbJ2JZgYiKUU_Hn6u1mjhmMiobXnBgrw9yJN3DTc/edit#slide=id.g4f424d3cdc_0_578)
