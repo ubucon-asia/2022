@@ -28,6 +28,9 @@ speakers: # Speaker info
       linkurl: https://www.linkedin.com/in/yeongseonchoe/ # Other website link url
       linklabel: LinkedIn # Label for linkurl
 ---
+
+{{< youtube EXfZrK9K_Ns >}}
+
 Did you know that you can now install .NET 6 on Ubuntu 22.04 LTS with just `sudo apt install dotnet6`?
 With this workshop, Let's learn about .NET 6 and official support in Ubuntu 22.04 LTS.
 And also learn how to develop your web app and deploy it on Microsoft Azure using .NET 6 support on Ubuntu! 

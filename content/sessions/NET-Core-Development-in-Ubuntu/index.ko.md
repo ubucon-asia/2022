@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: LinkedIn # Label for linkurl
 ---
 
+{{< youtube EXfZrK9K_Ns >}}
+
 Ubuntu 22.04 LTS 에서 `sudo apt install dotnet6` 만으로 .NET 6 설치가 가능 하다는 것을 알고 계셨나요?
 이 워크샵에서는 Ubuntu 22.04 LTS 에서의 .NET 6 공식 지원에 대해서 알아보는 시간을 가지고자 합니다.
 또한, .NET 6 의 Ubuntu 지원을 이용하여 .NET 웹앱을 개발하고 이를 Microsoft Azure 에 배포하는 방법에 대해서도 알아봅시다.
