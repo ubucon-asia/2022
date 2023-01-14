@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Twitter # Label for linkurl
 ---
 
+{{< youtube Pf9ShTJrHJ4 >}}
+
 Raspberry Pi를 사용 해 보셨나요? 이제 Raspberry Pi는 다양한 OS가 지원 되는 표준 "싱글 보드 컴퓨터" 입니다. 저렴하고 다루기도 쉬워서 사물인터넷 장비나 서버 테스트 용도로 좋습니다.
 이 워크샵 에서는, Ubuntu 서버를 Raspberry Pi 에 구동하는 것이 초점을 두는데, 특히 k8s와 컨테이너를 8GB 메모리의 Raspberry Pi 4B에 구동하는 것에 초점을 둘 것입니다. K8s 를 쉽게 이해하기 위해, 가벼운 k8s 환경인 Microk8s를 활용하여 컨테이너 환경을 구축하는 방법에 대해 알아봅니다. 
 

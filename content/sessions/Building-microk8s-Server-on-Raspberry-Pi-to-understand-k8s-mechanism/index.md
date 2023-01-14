@@ -29,6 +29,8 @@ speakers: # Speaker info
       linklabel: Twitter # Label for linkurl
 ---
 
+{{< youtube Pf9ShTJrHJ4 >}}
+
 Have you tried Ubuntu on Raspberry Pi? Raspberry Pi is now standard 'Single Board Computer' works with several OSes. It is cheap and easy to handle - IoT devices and server evaluation. 
 In this workshop, Masafumi focus on Ubuntu Server on Raspberry Pi, especially k8s+container on 8GB Raspberry Pi 4B; Masafumi will instruct how to build the container environment with microk8s - a lightweight k8s to understand k8s easily:
  - Install the Ubuntu environment
