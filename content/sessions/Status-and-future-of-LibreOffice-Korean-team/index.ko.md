@@ -29,6 +29,9 @@ speakers: # Speaker info
       linkurl: # Other website link url
       linklabel: # Label for linkurl
 ---
+
+{{< youtube SL27rPqbshY >}}
+
 LibreOffice 한국커뮤니티의 현재 상황과 앞으로 나아갈길
 
 저는 한국에서 직장을 다니며 대학교에서 중어중문학을 공부하는 학생이기도 합니다.

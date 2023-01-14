@@ -30,7 +30,9 @@ speakers: # Speaker info
       linklabel: # Label for linkurl
 ---
 
-Hello, I'm an ordinary employee who also studies Chinese language and literature in UNiversity.
+{{< youtube SL27rPqbshY >}}
+
+Hello, I'm an ordinary employee who also studies Chinese language and literature in University.
 I would like to talk about FOSS that i experienced on University and what was lack of. And also would like to introduce about lack of support on Yet Hangul(Old Hangul) and Jeju language.
 I'll also discuss about LibreOffice Korean team and roadmap of the team. 
 
