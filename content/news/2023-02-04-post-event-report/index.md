@@ -135,8 +135,8 @@ After overcoming many difficulties, We managed to host a quite decent conference
 For the group tour, We arranged a guided tour through a local tour agency. The tour program included visiting Insa-dong, Gyeongbokgung palace, Bukchon Hanok Village and watching a painting performance show. Lunch and dinner were also included. 
 
 ![](tour.jpeg)
-![](tour2.jpeg)
-![](tour3.jpeg)
+![](tour2.jpg)
+![](tour3.jpg)
 
 
 ## Marketing & Swags
