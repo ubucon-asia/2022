@@ -13,7 +13,7 @@ authors:
       linklabel: Website
 ---
 
-> [This event report is also available as PDF file(report.pdf)
+> [This event report is also available as PDF file](report.pdf)
 
 ## Overview
 
