@@ -151,6 +151,8 @@ Community partners such as Openstack Korea Group, WSL Korea User Group, It has n
 
 One thing missing with promotion would be in-person campaigns. Such as publishing event posters on public boards of universities, Some promotional sessions on other events.
 
+![](swags.png)
+
 For swags, Our initial plan was to provide necklace wallets, stickers, neck warmers(for attendees), and hoodies(for speakers, staff and patrons). Due to delays with placing orders for swags, Neck warmers were canceled but other swags were provided to participants. Thanks to Jose from Ubuntu Community Council bringing a lot of stickers from Ubuntu Summit 2022, We could also set up another sticker table for participants. 
 
 
