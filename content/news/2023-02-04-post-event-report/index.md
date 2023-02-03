@@ -79,7 +79,7 @@ Our event venue was consisted of 4 rooms, a reception and a lobby. Most talks we
 
 ### Network and power strip setup
 
-While the venue provided most facilities we needed, They did not provide fast and stable network connection power strips. They do have wired and WiFi available in each room, But it was only 100mbps and shared with all other offices in the same building. As we needed a stable and dedicated network, We made a short-term contract with a network provider and installed a dedicated network connection for live streaming and BoF video calls. We also rented or bought many power strips and installed them at the venue for the workshop room and sponsored exhibition booths in the lobby.
+While the venue provided most facilities we needed, They did not provide fast and stable network connection and power strips. They do have wired and WiFi available in each room, But it was only 100mbps and shared with all other offices in the same building. As we needed a stable and dedicated network, We made a short-term contract with a network provider and installed a dedicated network connection for live streaming and BoF video calls. We also rented or bought many power strips and installed them at the venue for the workshop room and sponsored exhibition booths in the lobby.
 
 
 ## Content and programs
