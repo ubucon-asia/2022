@@ -110,6 +110,8 @@ For sessions scheduled at the International conference room, We provided live st
 
 To provide streaming and recordings, we made a contract with a local live streaming provider on live streaming and recording services with equipment rent. Most session streams and recordings are now available on our YouTube and PeerTube.
 
+- [Video recordings on YouTube](https://www.youtube.com/playlist?list=PLr8g8zdbZAgFiXUM4q4N78ytxiQTRjgc6)
+- [Video recordings on PeerTube(LinuxRocks Instance)](https://peertube.linuxrocks.online/w/p/edg9ytogatwDDTb7Qcc8MR)
 
 ### Social events
 
